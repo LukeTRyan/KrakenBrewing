@@ -5,10 +5,11 @@ date: 2020-01-09
 tags: ["Strawberry", "Sour"]
 ---
 
-https://www.brewersfriend.com/homebrew/recipe/view/931810/strawberry-sour  
-
+This was my first fruit kettle sour/berliner weisse. I decided to go with pureed strawberries at the end of the boil and sour using IBS capsules. The wort was pre acidified with lactic acid and acidulated malt to aid the souring. Some citra hops were used to add a bit more depth and flavour and citrus backing to the beer. Next time I'd probably add the fruit in primary at the end of fermentation to get a fresher flavour, as boiling the strawberry made it taste slightly different and somewhat artificial.  
 
 **Strawberry sour**  
+
+https://www.brewersfriend.com/homebrew/recipe/view/931810/strawberry-sour  
 
 Brew Method: All Grain  
 Style Name: Fruit Beer  

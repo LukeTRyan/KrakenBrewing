@@ -5,8 +5,6 @@ date: 2019-12-29
 tags: ["IPA"]
 ---
 
-https://www.brewersfriend.com/homebrew/recipe/view/927604/leftover-ipa  
-
 Distilled water will be used in order to customise the water chemistry (30L plus 2L of tap water for the remaining sparge). Adding 6.5g of calcium sulfate (gypsum), 3g of calcium chloride, 4g of magnesium sulfate (epsom salt) and 1 gram of baking sodat to the strike water will give a mash + sparge water profile of:  
 Calcium 74 ppm  
 Magnesium 13 ppm  
@@ -17,6 +15,8 @@ The higher calcium and sulfate ions (low chloride/sulfate ratio) will enhance bi
 
 
 **Leftover IPA**  
+
+https://www.brewersfriend.com/homebrew/recipe/view/927604/leftover-ipa  
 
 Brew Method: All Grain  
 Style Name: American IPA  

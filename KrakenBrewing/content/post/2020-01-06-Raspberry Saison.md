@@ -5,8 +5,6 @@ date: 2020-01-06
 tags: ["Raspberry", "Saison"]
 ---
 
-https://www.brewersfriend.com/homebrew/recipe/view/931308/raspberry-saison  
-
 Grain Bill  
 -Base is pilsner, Vienna and Wheat malt to add body, head and character with a slight maltiness from the Vienna. Acidulated malt to lower mash pH.
 Hops  
@@ -29,6 +27,8 @@ Fruit: 3.5kg of frozen rasberries pureed and added to the end of the boil via a 
 
  
 **Raspberry Saison**   
+
+https://www.brewersfriend.com/homebrew/recipe/view/931308/raspberry-saison  
 
 Brew Method: All Grain  
 Style Name: Saison  

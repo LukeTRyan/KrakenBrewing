@@ -5,6 +5,8 @@ date: 2020-06-01
 tags: ["Lager", "Pilsener"]
 ---
 
+This recipe was taken from Hoppy day's recipe list as a standard german pilsener/lager. Grain bill was mostly german pilsener with some gladiator malt for head retention and body, as well as some acidulated malt to lower the mash pH and get as many fermentable sugars as possible. This was aided with a low mash temp. Yeast is Saflager 34/70 being fermented around 10-12c for 2 weeks with a 6-8 week lager in the keg. 
+
 **German Lager**  
 
 Brew Method: All Grain  
