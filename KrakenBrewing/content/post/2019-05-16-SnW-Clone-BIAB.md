@@ -39,3 +39,6 @@ Approximate ABV: 5%
 Just finished bottling my baby. Smell is amazing, heaps of mango and passionfruit, just very fruity all together. Ended up getting about 23 tallies which should be ready to taste in about 2 weeks (22/6/19)
 
 Tasting notes: Carbonation didn’t turn out exactly how I wanted it, with most bottles being a bit under-carbonated. Smell has lots of tropical fruits. Taste was a little lackluster but still got some nice fruits, citrus and a touch of sweetness out of it. Definitely think controlling the temperature better could have helped this one, as well as starting fermentation at a lower temperature.
+
+![BIAB](/img/BIAB.jpg)  
+![BIAB2](/img/BIAB2.jpg)

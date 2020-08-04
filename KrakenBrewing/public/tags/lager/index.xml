@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lager on Kraken Brewing</title><link>https://krakenbrewing.netlify.app/tags/lager/</link><description>Recent content in Lager on Kraken Brewing</description><generator>Hugo -- gohugo.io</generator><managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor><webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/lager/index.xml" rel="self" type="application/rss+xml"/><item><title>German Lager</title><link>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</link><pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</guid><description>German Lager
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lager on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/lager/</link>
+    <description>Recent content in Lager on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/lager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>German Lager</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</guid>
+      <description>German Lager
 Brew Method: All Grain
 Style Name: German Pilsener
 Boil Time: 60 min
@@ -18,4 +38,8 @@ FERMENTABLES:
 0.25 kg – Gladiator Malt
 0.25 kg – Acidulated Malt
 HOPS:
-100g – Saaz, Type: Pellet, AA: 2.</description></item></channel></rss>
+100g – Saaz, Type: Pellet, AA: 2.</description>
+    </item>
+    
+  </channel>
+</rss>

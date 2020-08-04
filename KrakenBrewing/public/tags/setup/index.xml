@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Setup on Kraken Brewing</title><link>https://krakenbrewing.netlify.app/tags/setup/</link><description>Recent content in Setup on Kraken Brewing</description><generator>Hugo -- gohugo.io</generator><managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor><webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/setup/index.xml" rel="self" type="application/rss+xml"/><item><title>New Setup</title><link>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</link><pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</guid><description>Last week, I purchased the Brewzilla 3.1 35L all-in-one brewing system along with a few bits and pieces. I also bought a huge fermentation fridge that should let me control temperature a lot better. My next brewday (Mango IPA) will be the first using this new system after only using BIAB in the past.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/setup/</link>
+    <description>Recent content in Setup on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Setup</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</guid>
+      <description>Last week, I purchased the Brewzilla 3.1 35L all-in-one brewing system along with a few bits and pieces. I also bought a huge fermentation fridge that should let me control temperature a lot better. My next brewday (Mango IPA) will be the first using this new system after only using BIAB in the past.</description>
+    </item>
+    
+  </channel>
+</rss>

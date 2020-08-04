@@ -1,6 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Coffee on Kraken Brewing</title><link>https://krakenbrewing.netlify.app/tags/coffee/</link><description>Recent content in Coffee on Kraken Brewing</description><generator>Hugo -- gohugo.io</generator><managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor><webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/coffee/index.xml" rel="self" type="application/rss+xml"/><item><title>Dwarven Stout</title><link>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</guid><description>Designing the Recipe
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/coffee/</link>
+    <description>Recent content in Coffee on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dwarven Stout</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</guid>
+      <description>Designing the Recipe
 This time around, i’m going to be partly designing my own recipe for a coffee stout. This stout is basically going to follow these guidelines:
 -ABV between 5% and 7%.
 -Grain bill of 80% base malt + remaining specialty grains.
 -Between 30 and 40 IBUs from bittering additions of hops, with some at the end of the boil.
--An Ale yeast with an attenuation of approximately 75% (Us-04/05 or wyeast 1056 American Ale)</description></item></channel></rss>
+-An Ale yeast with an attenuation of approximately 75% (Us-04/05 or wyeast 1056 American Ale)</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -72,3 +72,5 @@ FG
 Brewed on 21/7/2020  
 
 -kegged on 2/08/2020, first closed transfer. Went well with just the gravity feed. Lost a couple of litres when the beer post got clogged, will invest in a filter/cold crashing for future closed transfers. 
+
+![Closed Transfer](/img/ClosedTransfer.jpg)  

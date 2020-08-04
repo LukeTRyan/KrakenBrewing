@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kraken Brewing</title><link>https://krakenbrewing.netlify.app/</link><description>Recent content on Kraken Brewing</description><generator>Hugo -- gohugo.io</generator><managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor><webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>Balter XPA Clone</title><link>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</link><pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</guid><description>https://www.brewersfriend.com/homebrew/recipe/view/682142/balter-xpa-clone
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/</link>
+    <description>Recent content on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Balter XPA Clone</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</guid>
+      <description>https://www.brewersfriend.com/homebrew/recipe/view/682142/balter-xpa-clone
 Balter XPA Clone
 Brew Method: All Grain
 Style Name: American Pale Ale
@@ -17,7 +37,16 @@ Mash pH:
 FERMENTABLES:
 3.8 kg – American Ale Malt (76%)
 0.8 kg – Wheat Malt (16%)
-0.2 kg – Cara Malt (4%)</description></item><item><title>German Lager</title><link>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</link><pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</guid><description>German Lager
+0.2 kg – Cara Malt (4%)</description>
+    </item>
+    
+    <item>
+      <title>German Lager</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</guid>
+      <description>German Lager
 Brew Method: All Grain
 Style Name: German Pilsener
 Boil Time: 60 min
@@ -37,7 +66,16 @@ FERMENTABLES:
 0.25 kg – Gladiator Malt
 0.25 kg – Acidulated Malt
 HOPS:
-100g – Saaz, Type: Pellet, AA: 2.</description></item><item><title>Lemon Myrtle XPA</title><link>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</link><pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</guid><description>Lemon Myrtle XPA
+100g – Saaz, Type: Pellet, AA: 2.</description>
+    </item>
+    
+    <item>
+      <title>Lemon Myrtle XPA</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</guid>
+      <description>Lemon Myrtle XPA
 Brew Method: All Grain
 Style Name: American Pale Ale
 Boil Time: 60 min
@@ -55,7 +93,16 @@ Mash pH: 0
 FERMENTABLES:
 3.8 kg – Pale Malt (80.9%)
 0.5 kg – Wheat Malt (10.6%)
-0.2 kg – Biscuit Malt (4.</description></item><item><title>Strawberry Sour</title><link>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</link><pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</guid><description>https://www.brewersfriend.com/homebrew/recipe/view/931810/strawberry-sour
+0.2 kg – Biscuit Malt (4.</description>
+    </item>
+    
+    <item>
+      <title>Strawberry Sour</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</guid>
+      <description>https://www.brewersfriend.com/homebrew/recipe/view/931810/strawberry-sour
 Strawberry sour
 Brew Method: All Grain
 Style Name: Fruit Beer
@@ -74,7 +121,16 @@ FERMENTABLES:
 2.2 kg – Wheat Malt (48.4%)
 0.15 kg – Acidulated Malt (3.3%)
 HOPS:
-25 g – Citra, Type: Pellet, AA: 11, Use: Whirlpool for 0 min at 90 °C, IBU: 4.</description></item><item><title>Raspberry Saison</title><link>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</link><pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</guid><description>https://www.brewersfriend.com/homebrew/recipe/view/931308/raspberry-saison
+25 g – Citra, Type: Pellet, AA: 11, Use: Whirlpool for 0 min at 90 °C, IBU: 4.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Saison</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</guid>
+      <description>https://www.brewersfriend.com/homebrew/recipe/view/931308/raspberry-saison
 Grain Bill
 -Base is pilsner, Vienna and Wheat malt to add body, head and character with a slight maltiness from the Vienna. Acidulated malt to lower mash pH. Hops
 -Bittering hops to give approximately 30 IBUs and add spicy and fruity notes.
@@ -85,21 +141,97 @@ Magnesium: 5
 Sodium: 20
 Chloride: 30
 Sulfate: 100
--Higher sulfates will give aid in drying out the beer and accentuating the hops/fruit.</description></item><item><title>Leftover IPA</title><link>https://krakenbrewing.netlify.app/post/2019-12-29-leftover-ipa/</link><pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-12-29-leftover-ipa/</guid><description>https://www.brewersfriend.com/homebrew/recipe/view/927604/leftover-ipa
+-Higher sulfates will give aid in drying out the beer and accentuating the hops/fruit.</description>
+    </item>
+    
+    <item>
+      <title>Leftover IPA</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-12-29-leftover-ipa/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-12-29-leftover-ipa/</guid>
+      <description>https://www.brewersfriend.com/homebrew/recipe/view/927604/leftover-ipa
 Distilled water will be used in order to customise the water chemistry (30L plus 2L of tap water for the remaining sparge). Adding 6.5g of calcium sulfate (gypsum), 3g of calcium chloride, 4g of magnesium sulfate (epsom salt) and 1 gram of baking sodat to the strike water will give a mash + sparge water profile of:
 Calcium 74 ppm
 Magnesium 13 ppm
 Sodium 11 ppm
-Chloride 50 ppm</description></item><item><title>Dwarven Stout</title><link>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</link><pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</guid><description>Designing the Recipe
+Chloride 50 ppm</description>
+    </item>
+    
+    <item>
+      <title>Dwarven Stout</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</guid>
+      <description>Designing the Recipe
 This time around, i’m going to be partly designing my own recipe for a coffee stout. This stout is basically going to follow these guidelines:
 -ABV between 5% and 7%.
 -Grain bill of 80% base malt + remaining specialty grains.
 -Between 30 and 40 IBUs from bittering additions of hops, with some at the end of the boil.
--An Ale yeast with an attenuation of approximately 75% (Us-04/05 or wyeast 1056 American Ale)</description></item><item><title>Mango IPA</title><link>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</link><pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</guid><description>This time around, I decided to go with a Mango IPA since I love mango and wanted to try making a fruit beer. I now have my Brewzilla 3.1 35L setup and a better, larger fermentation fridge. Hopefully this will up the quality of my homebrew and make the process a lot easier. The Mango is added during fermentation with the hops and left for a week or two.
-Mango IPA</description></item><item><title>New Setup</title><link>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</link><pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</guid><description>Last week, I purchased the Brewzilla 3.1 35L all-in-one brewing system along with a few bits and pieces. I also bought a huge fermentation fridge that should let me control temperature a lot better. My next brewday (Mango IPA) will be the first using this new system after only using BIAB in the past.</description></item><item><title>Juicy NEIPA BIAB</title><link>https://krakenbrewing.netlify.app/post/2019-09-10-neipa/</link><pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-09-10-neipa/</guid><description>From Wikipedia:
+-An Ale yeast with an attenuation of approximately 75% (Us-04/05 or wyeast 1056 American Ale)</description>
+    </item>
+    
+    <item>
+      <title>Mango IPA</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</guid>
+      <description>This time around, I decided to go with a Mango IPA since I love mango and wanted to try making a fruit beer. I now have my Brewzilla 3.1 35L setup and a better, larger fermentation fridge. Hopefully this will up the quality of my homebrew and make the process a lot easier. The Mango is added during fermentation with the hops and left for a week or two.
+Mango IPA</description>
+    </item>
+    
+    <item>
+      <title>New Setup</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</guid>
+      <description>Last week, I purchased the Brewzilla 3.1 35L all-in-one brewing system along with a few bits and pieces. I also bought a huge fermentation fridge that should let me control temperature a lot better. My next brewday (Mango IPA) will be the first using this new system after only using BIAB in the past.</description>
+    </item>
+    
+    <item>
+      <title>Juicy NEIPA BIAB</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-09-10-neipa/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-09-10-neipa/</guid>
+      <description>From Wikipedia:
 For my second attempt at BIAB, after the Stone &amp;amp; Wood replica, I decided to go with a popular NEIPA recipe. The beer is meant to be cloudy orange, with big juicy fruity notes and a nice thickness to it.
-This time around, I decided I needed to control the fermentation temperature a little better. I picked up an Inkbird ITC-308 Wifi digital temperature controller and hooked it up to an old bar fridge with a heating element in order to keep the temperature stable.</description></item><item><title>My First All Grain BIAB</title><link>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</link><pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</guid><description>While my mead is fermenting, I decided i’ll make my second ever batch of beer. This time I decided to scale things up to 23L and go with an all grain Pacific Ale BIAB (similar to Stone and Wood). For this I bought a 35L brew pot as well as a 30L plastic fermenter with airlock and thermometer. The specs of the Pacific Ale are as follows:
+This time around, I decided I needed to control the fermentation temperature a little better. I picked up an Inkbird ITC-308 Wifi digital temperature controller and hooked it up to an old bar fridge with a heating element in order to keep the temperature stable.</description>
+    </item>
+    
+    <item>
+      <title>My First All Grain BIAB</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</guid>
+      <description>While my mead is fermenting, I decided i’ll make my second ever batch of beer. This time I decided to scale things up to 23L and go with an all grain Pacific Ale BIAB (similar to Stone and Wood). For this I bought a 35L brew pot as well as a 30L plastic fermenter with airlock and thermometer. The specs of the Pacific Ale are as follows:
 Date: 24/5/19
-Boil Time: 60 min</description></item><item><title>My First Mead</title><link>https://krakenbrewing.netlify.app/post/2019-05-16-mead/</link><pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2019-05-16-mead/</guid><description>After just having completed my first ever beer (IPA), I decided i’d chuck something into the fermenter so something is constantly being brewed and I can get a larger fermenter for other beer batches. I decided to go with mead because it takes a while to ferment, it gets pretty strong, it’s easy to brew and it can be pretty tasty once its fully mellowed out. Specifications:
+Boil Time: 60 min</description>
+    </item>
+    
+    <item>
+      <title>My First Mead</title>
+      <link>https://krakenbrewing.netlify.app/post/2019-05-16-mead/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2019-05-16-mead/</guid>
+      <description>After just having completed my first ever beer (IPA), I decided i’d chuck something into the fermenter so something is constantly being brewed and I can get a larger fermenter for other beer batches. I decided to go with mead because it takes a while to ferment, it gets pretty strong, it’s easy to brew and it can be pretty tasty once its fully mellowed out. Specifications:
 Date: 8/5/2019
-Vessel: Glass Carboy</description></item><item><title>About</title><link>https://krakenbrewing.netlify.app/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/page/about/</guid><description>Kraken brewing is Brisbane-based homebrew and craft beer. This site is a collection of recipes, notes and experiments taken through homebrewing beer.</description></item></channel></rss>
+Vessel: Glass Carboy</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://krakenbrewing.netlify.app/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/page/about/</guid>
+      <description>Kraken brewing is Brisbane-based homebrew and craft beer. This site is a collection of recipes, notes and experiments taken through homebrewing beer.</description>
+    </item>
+    
+  </channel>
+</rss>

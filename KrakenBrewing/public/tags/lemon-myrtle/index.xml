@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lemon Myrtle on Kraken Brewing</title><link>https://krakenbrewing.netlify.app/tags/lemon-myrtle/</link><description>Recent content in Lemon Myrtle on Kraken Brewing</description><generator>Hugo -- gohugo.io</generator><managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor><webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster><lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/lemon-myrtle/index.xml" rel="self" type="application/rss+xml"/><item><title>Lemon Myrtle XPA</title><link>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</link><pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate><author>luketryan95@gmail.com (Luke Ryan)</author><guid>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</guid><description>Lemon Myrtle XPA
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lemon Myrtle on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/lemon-myrtle/</link>
+    <description>Recent content in Lemon Myrtle on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/lemon-myrtle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lemon Myrtle XPA</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</guid>
+      <description>Lemon Myrtle XPA
 Brew Method: All Grain
 Style Name: American Pale Ale
 Boil Time: 60 min
@@ -16,4 +36,8 @@ Mash pH: 0
 FERMENTABLES:
 3.8 kg – Pale Malt (80.9%)
 0.5 kg – Wheat Malt (10.6%)
-0.2 kg – Biscuit Malt (4.</description></item></channel></rss>
+0.2 kg – Biscuit Malt (4.</description>
+    </item>
+    
+  </channel>
+</rss>

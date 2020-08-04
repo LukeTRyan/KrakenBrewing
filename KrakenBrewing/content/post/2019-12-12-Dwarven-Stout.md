@@ -119,3 +119,7 @@ Lactose can be added to end of boil to round off bitterness/add sweetness. My th
 
 
 FG was 1.020. Nice residual sweetness, cuts through the bitterness of the cacao and coffee. Smell is super strong with chocolate. Taste is bittersweet with nice roasted flavours, fairly bitter. Slight banana notes. Still a bit young after a week, strong on the beer-taste. Not getting much head so I increased the PSI, i figured this might be because I have 2 kegs hooked up at once. Solid head retention (for the little amount of head i achieved).  
+
+![Stout](/img/CoffeeStout.jpg)  
+![Stout](/img/CoffeeStout2.jpg)  
+![Stout](/img/CoffeeStout3.jpg)  

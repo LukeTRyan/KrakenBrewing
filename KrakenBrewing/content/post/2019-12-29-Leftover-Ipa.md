@@ -90,3 +90,6 @@ Brew Notes:
 -23 bottle yield. Bottled on 17/01/2020. Put into fermentation fridge at 19c. Broke 1 bottle..  
 
 -Tasted a bottle after 2 weeks. Perfect carbonation with great head retention. Citrus aroma with a slight maltiness and big bitterness hit up front. Very clean, easy drinking. No unfavourable notes (first time using RO water – may be due to lack of chloride/chloramine). Medium body, not too thin.  
+
+![Leftover IPA](/img/LeftoverIPAHops.jpg)   
+![Leftover IPA](/img/LeftoverIPA.jpg)

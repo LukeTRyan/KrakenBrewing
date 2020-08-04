@@ -1,1 +1,187 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</loc><lastmod>2020-07-20T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/clone/</loc><lastmod>2020-07-20T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/</loc><lastmod>2020-07-20T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/</loc><lastmod>2020-07-20T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/</loc><lastmod>2020-07-20T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/xpa/</loc><lastmod>2020-07-20T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</loc><lastmod>2020-06-01T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/lager/</loc><lastmod>2020-06-01T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/pilsener/</loc><lastmod>2020-06-01T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/lemon-myrtle/</loc><lastmod>2020-01-13T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</loc><lastmod>2020-01-13T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/sour/</loc><lastmod>2020-01-09T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/strawberry/</loc><lastmod>2020-01-09T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</loc><lastmod>2020-01-09T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/raspberry/</loc><lastmod>2020-01-06T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</loc><lastmod>2020-01-06T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/saison/</loc><lastmod>2020-01-06T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/ipa/</loc><lastmod>2019-12-29T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2019-12-29-leftover-ipa/</loc><lastmod>2019-12-29T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/chocolate/</loc><lastmod>2019-12-12T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/coffee/</loc><lastmod>2019-12-12T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</loc><lastmod>2019-12-12T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/stout/</loc><lastmod>2019-12-12T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/mango/</loc><lastmod>2019-11-10T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</loc><lastmod>2019-11-10T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</loc><lastmod>2019-11-10T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/setup/</loc><lastmod>2019-11-10T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2019-09-10-neipa/</loc><lastmod>2019-09-10T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/neipa/</loc><lastmod>2019-09-10T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/biab/</loc><lastmod>2019-05-16T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/mead/</loc><lastmod>2019-05-16T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</loc><lastmod>2019-05-16T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/post/2019-05-16-mead/</loc><lastmod>2019-05-16T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/tags/pacific-ale/</loc><lastmod>2019-05-16T00:00:00+00:00</lastmod></url><url><loc>https://krakenbrewing.netlify.app/page/about/</loc></url><url><loc>https://krakenbrewing.netlify.app/categories/</loc></url><url><loc>https://krakenbrewing.netlify.app/page/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/clone/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/xpa/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/lager/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/pilsener/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/lemon-myrtle/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/sour/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/strawberry/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/raspberry/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/saison/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/ipa/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2019-12-29-leftover-ipa/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/chocolate/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/coffee/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/stout/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/mango/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/setup/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2019-09-10-neipa/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/neipa/</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/biab/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/mead/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/2019-05-16-mead/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/pacific-ale/</loc>
+    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/page/</loc>
+  </url>
+  
+</urlset>

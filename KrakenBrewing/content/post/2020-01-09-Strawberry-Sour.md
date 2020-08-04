@@ -92,6 +92,8 @@ Water Notes:
 -Kegged the beer (first ever keg) on 7/2/2020 and set at 12psi at serving temperature. Tasted dry, fruity and sour, as hoped. Also made 2 bottles which are being left for bottle conditioning.  
 -Instead of continuing to use store bought RO water (which is expensive), I’m going to buy some campden tablets to remove the plastic flavour given off by chlorine/chloramine in the water supply. I’m going back to using the brisbane water supply but will continue to alter the water chemistry based on the beer being brewed.  
 
-
+![Strawberry Sour](/img/StrawberrySour2.jpg)  
+![Strawberry Sour](/img/StrawberrySour1.jpg)  
+![Strawberry Sour](/img/StrawberrySour3.jpg)  
 
 
