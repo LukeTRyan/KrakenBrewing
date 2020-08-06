@@ -3,37 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://krakenbrewing.netlify.app/tags/beer/</loc>
-    <lastmod>2020-08-06T11:48:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krakenbrewing.netlify.app/</loc>
-    <lastmod>2020-08-06T11:48:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krakenbrewing.netlify.app/post/</loc>
-    <lastmod>2020-08-06T11:48:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krakenbrewing.netlify.app/tags/</loc>
-    <lastmod>2020-08-06T11:48:42+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-08-06-test-post/</loc>
-    <lastmod>2020-08-06T11:48:42+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://krakenbrewing.netlify.app/tags/clone/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/post/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://krakenbrewing.netlify.app/tags/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
