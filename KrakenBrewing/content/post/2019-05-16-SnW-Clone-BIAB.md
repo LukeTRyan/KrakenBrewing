@@ -1,6 +1,5 @@
 ---
 title: My First All Grain BIAB
-subtitle: (Brew In A Bag) – Pacific Ale
 date: 2019-05-16
 tags: ["BIAB", "Pacific Ale", "Clone"]
 ---
