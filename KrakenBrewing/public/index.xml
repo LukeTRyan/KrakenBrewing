@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
     <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 11:48:42 +0000</lastBuildDate>
     
 	<atom:link href="https://krakenbrewing.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-08-06-test-post/</link>
+      <pubDate>Thu, 06 Aug 2020 11:48:42 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-08-06-test-post/</guid>
+      <description>This is the body of my post</description>
+    </item>
     
     <item>
       <title>Balter XPA Clone</title>
@@ -18,26 +27,7 @@
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       <author>luketryan95@gmail.com (Luke Ryan)</author>
       <guid>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</guid>
-      <description>https://www.brewersfriend.com/homebrew/recipe/view/682142/balter-xpa-clone
-Balter XPA Clone
-Brew Method: All Grain
-Style Name: American Pale Ale
-Boil Time: 60 min
-Batch Size: 19 liters (fermentor volume)
-Boil Size: 23 liters
-Boil Gravity: 1.041
-Efficiency: 70% (brew house)
-STATS:
-Original Gravity: 1.050
-Final Gravity:
-ABV (standard):
-IBU (tinseth): 33.48
-SRM (morey): 5.1
-Mash pH:
-FERMENTABLES:
-3.8 kg – American Ale Malt (76%)
-0.8 kg – Wheat Malt (16%)
-0.2 kg – Cara Malt (4%)</description>
+      <description>This beer was designed to clone Balter&amp;rsquo;s XPA and be close as possible to the original. The head brewers released the hops they used, but not the grains or yeast. The clone grist consisted primarily of American Pale malt with some wheat and carapils for body/head retention and some cara malt for malty flavour. The water profile was higher in calcium and suflate to accentuate the hops, of which were primarily citrus/fruity.</description>
     </item>
     
     <item>
@@ -46,27 +36,7 @@ FERMENTABLES:
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <author>luketryan95@gmail.com (Luke Ryan)</author>
       <guid>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</guid>
-      <description>German Lager
-Brew Method: All Grain
-Style Name: German Pilsener
-Boil Time: 60 min
-Batch Size: 20 liters (fermentor volume)
-Boil Size: 26 liters
-Boil Gravity: 1.050
-Efficiency: 75% (pre-boil)
-STATS:
-Original Gravity: 1.055
-Final Gravity:
-ABV (standard):
-IBU (tinseth): 31
-SRM (morey):
-Mash pH: 5.45
-FERMENTABLES:
-4.9 kg – Gladfield German Pilsener
-0.25 kg – Gladiator Malt
-0.25 kg – Acidulated Malt
-HOPS:
-100g – Saaz, Type: Pellet, AA: 2.</description>
+      <description>This recipe was taken from Hoppy day&amp;rsquo;s recipe list as a standard german pilsener/lager. Grain bill was mostly german pilsener with some gladiator malt for head retention and body, as well as some acidulated malt to lower the mash pH and get as many fermentable sugars as possible. This was aided with a low mash temp. Yeast is Saflager 34/70 being fermented around 10-12c for 2 weeks with a 6-8 week lager in the keg.</description>
     </item>
     
     <item>
@@ -102,26 +72,7 @@ FERMENTABLES:
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       <author>luketryan95@gmail.com (Luke Ryan)</author>
       <guid>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</guid>
-      <description>https://www.brewersfriend.com/homebrew/recipe/view/931810/strawberry-sour
-Strawberry sour
-Brew Method: All Grain
-Style Name: Fruit Beer
-Boil Time: 45 min
-Batch Size: 21 liters (fermentor volume)
-Boil Size: 26 liters
-STATS:
-Original Gravity: 1.055
-Final Gravity: 1.009
-ABV (standard): 5%
-IBU (tinseth): 4.75
-SRM (morey): 3.63
-Mash pH: 4.5
-FERMENTABLES:
-2.2 kg – Pilsner Malt (48.4%)
-2.2 kg – Wheat Malt (48.4%)
-0.15 kg – Acidulated Malt (3.3%)
-HOPS:
-25 g – Citra, Type: Pellet, AA: 11, Use: Whirlpool for 0 min at 90 °C, IBU: 4.</description>
+      <description>This was my first fruit kettle sour/berliner weisse. I decided to go with pureed strawberries at the end of the boil and sour using IBS capsules. The wort was pre acidified with lactic acid and acidulated malt to aid the souring. Some citra hops were used to add a bit more depth and flavour and citrus backing to the beer. Next time I&amp;rsquo;d probably add the fruit in primary at the end of fermentation to get a fresher flavour, as boiling the strawberry made it taste slightly different and somewhat artificial.</description>
     </item>
     
     <item>
@@ -130,8 +81,7 @@ HOPS:
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       <author>luketryan95@gmail.com (Luke Ryan)</author>
       <guid>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</guid>
-      <description>https://www.brewersfriend.com/homebrew/recipe/view/931308/raspberry-saison
-Grain Bill
+      <description>Grain Bill
 -Base is pilsner, Vienna and Wheat malt to add body, head and character with a slight maltiness from the Vienna. Acidulated malt to lower mash pH. Hops
 -Bittering hops to give approximately 30 IBUs and add spicy and fruity notes.
 -Kent Goldings, Saaz, or Willamette to add mild floral/herbal notes without overpowering the fruit.
@@ -150,12 +100,12 @@ Sulfate: 100
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
       <author>luketryan95@gmail.com (Luke Ryan)</author>
       <guid>https://krakenbrewing.netlify.app/post/2019-12-29-leftover-ipa/</guid>
-      <description>https://www.brewersfriend.com/homebrew/recipe/view/927604/leftover-ipa
-Distilled water will be used in order to customise the water chemistry (30L plus 2L of tap water for the remaining sparge). Adding 6.5g of calcium sulfate (gypsum), 3g of calcium chloride, 4g of magnesium sulfate (epsom salt) and 1 gram of baking sodat to the strike water will give a mash + sparge water profile of:
+      <description>Distilled water will be used in order to customise the water chemistry (30L plus 2L of tap water for the remaining sparge). Adding 6.5g of calcium sulfate (gypsum), 3g of calcium chloride, 4g of magnesium sulfate (epsom salt) and 1 gram of baking sodat to the strike water will give a mash + sparge water profile of:
 Calcium 74 ppm
 Magnesium 13 ppm
 Sodium 11 ppm
-Chloride 50 ppm</description>
+Chloride 50 ppm
+Sulfate 165 ppm</description>
     </item>
     
     <item>
@@ -197,8 +147,7 @@ Mango IPA</description>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
       <author>luketryan95@gmail.com (Luke Ryan)</author>
       <guid>https://krakenbrewing.netlify.app/post/2019-09-10-neipa/</guid>
-      <description>From Wikipedia:
-For my second attempt at BIAB, after the Stone &amp;amp; Wood replica, I decided to go with a popular NEIPA recipe. The beer is meant to be cloudy orange, with big juicy fruity notes and a nice thickness to it.
+      <description>For my second attempt at BIAB, after the Stone &amp;amp; Wood replica, I decided to go with a popular NEIPA recipe. The beer is meant to be cloudy orange, with big juicy fruity notes and a nice thickness to it.
 This time around, I decided I needed to control the fermentation temperature a little better. I picked up an Inkbird ITC-308 Wifi digital temperature controller and hooked it up to an old bar fridge with a heating element in order to keep the temperature stable.</description>
     </item>
     
