@@ -22,11 +22,11 @@ Efficiency: 70% (brew house)
 
 **STATS:**\
 Original Gravity: 1.050\
-Final Gravity:\
-ABV (standard):\
+Final Gravity: 1.010\
+ABV (standard): 5.25%\
 IBU (tinseth): 33.48\
 SRM (morey): 5.1\
-Mash pH:  
+Mash pH:  5.4
 
 **FERMENTABLES:**\
 3.8 kg – American Ale Malt (76%)\
@@ -72,7 +72,8 @@ Brisbane water
 
 **NOTES:**\
 OG 1.050\
-FG\
+FG 1.010\
+ABV 5.25%\
 Brewed on 21/7/2020  
 
 \-kegged on 2/08/2020, first closed transfer. Went well with just the gravity feed. Lost a couple of litres when the beer post got clogged, will invest in a filter/cold crashing for future closed transfers. 
