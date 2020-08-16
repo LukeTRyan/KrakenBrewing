@@ -15,7 +15,9 @@ This time around, i’m going to be partly designing my own recipe for a coffee 
 -An Ale yeast with an attenuation of approximately 75% (Us-04/05 or wyeast 1056 American Ale)\
 -A mash between 67c and 69c\
 -Water chemistry adjusted to add hardness (increased calcium and carbonate)\
--2.5 volumes of C02\
+-2.5 volumes of C02
+
+\
 https://www.brewersfriend.com/homebrew/recipe/view/917889/coffee-stout\
 https://byo.com/article/american-stout-style-profile/\
 https://www.bertusbrewery.com/2016/04/chocolate-coffee-stout-2-0.html  
