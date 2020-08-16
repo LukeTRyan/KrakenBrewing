@@ -56,4 +56,6 @@ Profile Name: Brisbane water
 **NOTES:**\
 -Target mash pH is 5.4, achieved with acid malt or lactic acid addition. Addition of 2g of gypsum and campden tablet.\
 -rehydrate yeast with 20c sterile water and regulate to 12c with wort additions, then aerate and pitch.\
--4 days at 10c, 8 days at 12c and 2 days at 18-20c for diacytl rest. From here, transfer to keg and lager at 2-3c for 6-8 weeks, under pressure or not.
+-4 days at 10c, 8 days at 12c and 2 days at 18-20c for diacytl rest. From here, transfer to keg and lager at 2-3c for 6-8 weeks, under pressure or not.\
+\
+-Diacytl rest started 17/08/20-18/08/20 with kegging on 19/08/20
