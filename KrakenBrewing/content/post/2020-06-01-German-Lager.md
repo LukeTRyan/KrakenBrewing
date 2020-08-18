@@ -22,8 +22,8 @@ Efficiency: 75% (pre-boil)
 
 **STATS:**\
 Original Gravity: 1.055\
-Final Gravity:\
-ABV (standard):\
+Final Gravity: 1.010\
+ABV (standard): 5.91%\
 IBU (tinseth): 31\
 SRM (morey):\
 Mash pH: 5.45  
@@ -59,4 +59,5 @@ Profile Name: Brisbane water
 -4 days at 10c, 8 days at 12c and 2 days at 18-20c for diacytl rest. From here, transfer to keg and lager at 2-3c for 6-8 weeks, under pressure or not.\
 \
 -Diacytl rest started 17/08/20-18/08/20 with kegging on 19/08/20\
--kegging went well with a pressurised closed transfer. Some beer was lost due to untight fittings but only a minor amount. Need to remember to buy more hose clamps (12mm or so).
+-kegging went well with a pressurised closed transfer. Some beer was lost due to untight fittings but only a minor amount. Need to remember to buy more hose clamps (12mm or so).\
+-FG 1.010, ABV 5.91%
