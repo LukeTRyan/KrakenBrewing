@@ -58,4 +58,5 @@ Profile Name: Brisbane water
 -rehydrate yeast with 20c sterile water and regulate to 12c with wort additions, then aerate and pitch.\
 -4 days at 10c, 8 days at 12c and 2 days at 18-20c for diacytl rest. From here, transfer to keg and lager at 2-3c for 6-8 weeks, under pressure or not.\
 \
--Diacytl rest started 17/08/20-18/08/20 with kegging on 19/08/20
+-Diacytl rest started 17/08/20-18/08/20 with kegging on 19/08/20\
+-kegging went well with a pressurised closed transfer. Some beer was lost due to untight fittings but only a minor amount. Need to remember to buy more hose clamps (12mm or so).
