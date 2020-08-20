@@ -1,7 +1,7 @@
 ---
 title: Closed Transfer Guide
 date: 2020-08-20T02:55:41.476Z
-tags: List [ "Closed Transfer" ]
+tags: Test
 ---
 For future reference, I'm going to briefly run through the process for a closed transfer, both pressurised and un-pressurised. The goal of this method is to reduce oxidation/oxygen contact on fermented beer. Oxidation can hugely impact the flavour and appearance of a beer, giving it off-flavours or causing hop flavour and aroma to dissipate. Therefore, it is important to reduce oxygen contact when transferring finished beer, especially heavily hopped beer. These methods will be suited for the SS Brewtech Brew Bucket or other stainless fermenters that are pressure rated to at least 1-2psi. 
 
