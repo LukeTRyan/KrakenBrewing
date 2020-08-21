@@ -1,7 +1,12 @@
 ---
 title: Raspberry Sour (Berliner Weisse)
 date: 2020-08-21T09:07:15.733Z
-tags: List [ "Raspberry", "Sour", "Berliner Weisse", "Gose", "Fruit" ]
+tags:
+  - Raspberry 
+  - Sour
+  - Berliner Weisse
+  - Gose
+  - Fruit
 ---
 This sour is pretty much a copy of the strawberry sour/berliner weisse I did last time. The only changes i'm making this time around are:
 
