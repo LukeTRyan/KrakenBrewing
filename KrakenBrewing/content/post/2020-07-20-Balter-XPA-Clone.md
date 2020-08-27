@@ -80,4 +80,10 @@ Brewed on 21/7/2020
 
 ![Closed Transfer](/img/ClosedTransfer.jpg)
 
-![](/img/balterxpa.jpg)
+![3 Keg](/img/3keg.jpg "3 Keg")
+
+![Brew](/img/balterxpa.jpg "Brew")
+
+
+
+![XPA Clone](/img/xpaclone.jpg "XPA Clone")
