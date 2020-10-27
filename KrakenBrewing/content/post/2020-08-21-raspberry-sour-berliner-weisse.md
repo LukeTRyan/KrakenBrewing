@@ -12,13 +12,13 @@ This sour is pretty much a copy of the strawberry sour/berliner weisse I did las
 
 \- Adding more fruit (4kg) in a pureed form (wholesale) which contains 15% sugar. This will up the ABV so the grain bill will be lower than normal. 
 
-\- Fruit addition will be added during primary to get a fresher flavour and remove cooked-flavours. 
+\- Fruit addition will be added during primary/secondary to get a fresher flavour and remove cooked-flavours. 
 
 \- A mesh bag will be used to catch the Raspberry particles and make kegging easier. 
 
 \- Removing acidulated malt and upping the lactic acid addition to reach 4.2-4.5ph pre souring. 
 
-\- Water profile will be Brisbane water with 2g calcium sulfate, 3g calcium chloride and 18ml of lactic acid 
+\- Water profile will be Brisbane water with 2g calcium sulfate, 4g calcium chloride and 11ml of lactic acid to reach 4.4pH. 
 
 **Raspberry Sour**  
 
@@ -26,17 +26,17 @@ Brew Method: All Grain\
 Style Name: Fruit Beer\
 Boil Time: 45 min\
 Batch Size: 20 liters (fermentor volume) + Fruit volume\
-Boil Size: 26 liters\
-Boil Gravity: 
+Boil Size: 25 liters\
+Boil Gravity: 1.042
 Efficiency: 70% (brew house)  
 
 **STATS**:\
-Original Gravity: 
+Original Gravity:
 Final Gravity: 
 ABV (standard): 
 IBU (tinseth):\
 SRM (morey): 
-Mash pH: 4.5  
+Mash pH: 4.4  
 
 **FERMENTABLES:**\
 2 kg - Pilsner Malt (50%)\
@@ -44,12 +44,11 @@ Mash pH: 4.5
 
 **MASH GUIDELINES:**
 
-1. Strike, Temp: 66 C, Time: 60 min, Amount: 12.6 L
-2. Sparge, Temp: 24 C, Amount: 18.2 L
-   Starting Mash Thickness: 3.14 L/kg
+1. Strike, Temp: 66 C, Time: 60 min, Amount: 20 L
+2. Sparge, Temp: 24 C, Amount: 8L
 
 **OTHER INGREDIENTS:**\
-18 ml - Lactic acid, Time: 0 min, Type: Water Agt, Use: Mash\
+11 ml - Lactic acid, Time: 0 min, Type: Water Agt, Use: Mash\
 4 kg - Raspberry Puree, Time: 3 days, Type: Other, Use: Primary\
 1 each - Whirlfloc, Time: 10 min, Type: Water Agt, Use: Boil  
 
@@ -68,25 +67,25 @@ Method: co2\
 CO2 Level: 2.5 Volumes  
 
 **TARGET WATER PROFILE:**\
-Profile Name: Balanced Profile\
-Ca2: 80\
-Mg2: 5\
-Na: 25\
-Cl: 75\
-SO4: 80\
-HCO3: 100\
-Water Notes:  
+Profile Name: Brisbane Sour\
+Ca2: 77\
+Mg2: 15\
+Na: 44\
+Cl: 137\
+SO4: 62\
+HCO3: \
+Water Notes:  Brisbane tap water treated with campden tablets, 2g calcium sulfate, 4g calcium chloride.
 
 **NOTES:**
--Mash for 60 mins.\
--Sparge.\
--Boil for 15 minutes to sterilize.\
--Pre-acidify wart with lactic acid to 4.5pH to aid souring, prevent spoilage and supposedly help head retention.\
--Cool down to 32-33c.\
--Add Lacto culture. (IBS support pills (7) 140  billion lactobacillus plantarum)\
--Cover and let sit for ~12-36 hours at 31c until soured to your liking (3.2-3.4 pH).\
--Re-boil for 45 minutes with hop additions and finings.\
--Chill, pitch 2 packets yeast (With nutrient maybe), ferment.  
+-Mashed for 60 mins.\
+-Sparged with approx 8L.\
+-Boiled for 15 minutes to sterilize.\
+-Pre-acidified wort with lactic acid to 4.4pH to aid souring, prevent spoilage and supposedly help head retention.\
+-Cooled down to 37c and pitched Wildbrew Sour Pitch Lactobacillus Plantarum (5g). \
+-Covered and let sit for ~12-36 hours at 37c until soured  (3.2-3.4 pH).\
+-Re-boiled for 45 minutes with finings.\
+-Chilled, pitched 1 packets US-05 yeast at 18c.\
+-fermented for 1 week, added 4kg of raspberry puree (with invert sugar syrup).   
 
-\-Pre-boil gravity was   ---\
--I'm aiming for a pH of 3.2-3.4.
+\-Pre-boil gravity was 1.042\
+-25L of wort soured at 12:30pm on 27/10/2020 with pre-acidity of 4.4pH.
