@@ -83,6 +83,7 @@ Water Notes:  Brisbane tap water treated with campden tablets, 2g calcium sulfat
 -Pre-acidified wort with lactic acid to 4.4pH to aid souring, prevent spoilage and supposedly help head retention.\
 -Cooled down to 37c and pitched Wildbrew Sour Pitch Lactobacillus Plantarum (5g). \
 -Covered and let sit for ~12-36 hours at 37c until soured  (3.2-3.4 pH).\
+-12 hours in, pH was 3.4, 24 hours in final pH was 3.3. \
 -Re-boiled for 45 minutes with finings.\
 -Chilled, pitched 1 packets US-05 yeast at 18c.\
 -fermented for 1 week, added 4kg of raspberry puree (with invert sugar syrup).   
