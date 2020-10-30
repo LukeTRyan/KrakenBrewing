@@ -73,10 +73,7 @@ leave to steep until 78°C then add 2nd hopstand addition:
 Lalbrew Verdant IPA\
 Starter: No\
 Form: Dry\
-Attenuation (avg): 80%\
-Flocculation: Med\
-Optimum Temp: 15.56 – 22.22 C\
-Pitch Rate: 0.35 (M cells / ml / deg P)
+Optimum Temp: 20c for 14 days
 
 **TARGET WATER PROFILE:**\
 Brisbane tap water treated with campden tablets and mineral additions. 
@@ -88,4 +85,5 @@ Cl - 156\
 SO - 89\
 HCO3 - 117
 
-**Brew Notes:**
+**Brew Notes:**\
+Aiming for minimum oxidation, so trying to keep the fermenter closed, with a closed transfer using a bouncer filter for trub and hop material in suspension. Since the beer is low gravity/ABV, yeast will probably not need to be rehydrated.
