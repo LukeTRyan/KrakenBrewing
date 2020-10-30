@@ -1,18 +1,11 @@
 ---
 title: Hazy Session IPA
 date: 2020-10-30T02:03:24.359Z
-tags: 
-- Hazy 
-- Session 
-- IPA 
-- NEIPA 
-- Fruity 
-- Cloudy 
-- Juicy
+tags: List [ "Hazy", "Session", "IPA", "NEIPA", "Fruity", "Cloudy" ]
 ---
 This recipe is adapted from the HoppyDays Hazy Crusher IPA, a hazy session IPA with low bitterness, low ABV and a large dry hop addition. The yeast being used for this beer is the new Verdant IPA yeast. \
-Target mash pH:\
-Target water profile:
+Target mash pH: 5.4 (need 5ml lactic acid)\
+Target water profile: Approximately 2-1 chloride to sulfate
 
 **Hazy Session IPA**
 
@@ -72,24 +65,25 @@ leave to steep until 78°C then add 2nd hopstand addition:
 2. Sparge, Temp: 22 C, Amount: 14 L
 
 **OTHER INGREDIENTS:**\
-1 each – Whirlfloc, Time: 10 min, Type: Water Agt, Use: Mash
+1 each – Whirlfloc, Time: 10 min, Type: Water Agt, Use: Mash\
+4g Gypsum (CaSO4)\
+6g Calc. Chloride (CaCI2)
 
 **YEAST:**\
 Lalbrew Verdant IPA\
 Starter: No\
 Form: Dry\
-Attenuation (avg): 80%\
-Flocculation: Med\
-Optimum Temp: 15.56 – 22.22 C\
-Pitch Rate: 0.35 (M cells / ml / deg P)
+Optimum Temp: 20c for 14 days
 
-**TARGET WATER PROFILE:**
+**TARGET WATER PROFILE:**\
+Brisbane tap water treated with campden tablets and mineral additions. 
 
-Ca - 100\
-Mg - 10 \
-Na - 4\
-Cl - 140\
-SO - 93\
-HCO3 - 8
+Ca - 99\
+Mg - 15\
+Na - 44\
+Cl - 156\
+SO - 89\
+HCO3 - 117
 
-**Brew Notes:**
+**Brew Notes:**\
+Aiming for minimum oxidation, so trying to keep the fermenter closed, with a closed transfer using a bouncer filter for trub and hop material in suspension. Since the beer is low gravity/ABV, yeast will probably not need to be rehydrated.
