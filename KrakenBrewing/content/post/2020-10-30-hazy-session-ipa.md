@@ -1,7 +1,13 @@
 ---
 title: Hazy Session IPA
 date: 2020-10-30T02:03:24.359Z
-tags: List [ "Hazy", "Session", "IPA", "NEIPA", "Fruity", "Cloudy" ]
+tags: 
+- Hazy 
+- Session 
+- IPA 
+- NEIPA 
+- Fruity 
+- Cloudy
 ---
 This recipe is adapted from the HoppyDays Hazy Crusher IPA, a hazy session IPA with low bitterness, low ABV and a large dry hop addition. The yeast being used for this beer is the new Verdant IPA yeast. \
 Target mash pH: 5.4 (need 5ml lactic acid)\
