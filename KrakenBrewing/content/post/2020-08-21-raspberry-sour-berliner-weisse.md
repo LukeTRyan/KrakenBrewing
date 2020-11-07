@@ -89,7 +89,7 @@ Water Notes:  Brisbane tap water treated with campden tablets, 2g calcium sulfat
 -fermented for 1 week, added 4kg of raspberry puree (with invert sugar syrup).   
 
 \-Pre-boil gravity was 1.042\
--25L of wort soured at 12:30pm on 27/10/2020 with pre-acidity of 4.4pH.\
--yeast pitched 28/10 at 22c 3.3ph \
--added raspberry puree on 3/11\
--gravity on 7/11 at 1.005
+-25L of wort soured at 12:30pm on October 27th with pre-acidity of 4.4pH.\
+-yeast pitched October 28th at 22c 3.3ph \
+-added raspberry puree on November 3rd\
+-gravity on November 7th at 1.005
