@@ -1,13 +1,13 @@
 ---
 title: Hazy Session IPA
 date: 2020-10-30T02:03:24.359Z
-tags: 
-- Hazy 
-- Session 
-- IPA 
-- NEIPA 
-- Fruity 
-- Cloudy
+tags:
+  - Hazy
+  - Session
+  - IPA
+  - NEIPA
+  - Fruity
+  - Cloudy
 ---
 This recipe is adapted from the HoppyDays Hazy Crusher IPA, a hazy session IPA with low bitterness, low ABV and a large dry hop addition. The yeast being used for this beer is the new Verdant IPA yeast. \
 Target mash pH: 5.4 (need 5ml lactic acid)\
@@ -24,13 +24,13 @@ Boil Gravity: 1.048\
 Efficiency: 70% (brew house)
 
 **STATS:**\
-Brew Date: \_\_\_\_\_\_\
-Original Gravity: \_\_\_\__\
+Brew Date: 11/11/2020  
+Original Gravity: 1.050 \
 Final Gravity: \_\_\_\__\
 ABV (standard): \_\_\_\__\
 IBU (tinseth): 22\
 SRM (morey): \
-Mash pH: \_\_\_\_
+Mash pH: 5.5
 
 **FERMENTABLES:**\
 3.46 kg – Gladfield German Pilsener \
@@ -79,7 +79,7 @@ leave to steep until 78°C then add 2nd hopstand addition:
 Lalbrew Verdant IPA\
 Starter: No\
 Form: Dry\
-Optimum Temp: 20c for 14 days
+Optimum Temp: 20c for 10 days
 
 **TARGET WATER PROFILE:**\
 Brisbane tap water treated with campden tablets and mineral additions. 
@@ -92,4 +92,6 @@ SO - 89\
 HCO3 - 117
 
 **Brew Notes:**\
-Aiming for minimum oxidation, so trying to keep the fermenter closed, with a closed transfer using a bouncer filter for trub and hop material in suspension. Since the beer is low gravity/ABV, yeast will probably not need to be rehydrated.
+Aiming for minimum oxidation, so trying to keep the fermenter closed, with a closed transfer using a bouncer filter for trub and hop material in suspension. Since the beer is low gravity/ABV, yeast will probably not need to be rehydrated.\
+\
+-Brew went well, ended up with 1.050 OG with 20L in the fermenter. Mash pH was 5.5 with 5ml of lactic acid. Forgot to add the whirfloc tablet, but filtered out most of the trub. First dry hop will be 1 day into active fermentation, which will then be pulled out and replaced with the final dry hop just before fermentation ends (probably day 5-6)
