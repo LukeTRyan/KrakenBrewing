@@ -24,10 +24,10 @@ Boil Gravity: 1.048\
 Efficiency: 70% (brew house)
 
 **STATS:**\
-Brew Date: 11/11/2020  
+Brew Date: 11/11/2020\
 Original Gravity: 1.050 \
-Final Gravity: \_\_\_\__\
-ABV (standard): \_\_\_\__\
+Final Gravity: 1.010\
+ABV (standard): 5.25%\
 IBU (tinseth): 22\
 SRM (morey): \
 Mash pH: 5.5
@@ -94,4 +94,11 @@ HCO3 - 117
 **Brew Notes:**\
 Aiming for minimum oxidation, so trying to keep the fermenter closed, with a closed transfer using a bouncer filter for trub and hop material in suspension. Since the beer is low gravity/ABV, yeast will probably not need to be rehydrated.\
 \
--Brew went well, ended up with 1.050 OG with 20L in the fermenter. Mash pH was 5.5 with 5ml of lactic acid. Forgot to add the whirfloc tablet, but filtered out most of the trub. First dry hop will be 1 day into active fermentation, which will then be pulled out and replaced with the final dry hop just before fermentation ends (probably day 5-6)
+-Brew went well, ended up with 1.050 OG with 20L in the fermenter. Mash pH was 5.5 with 5ml of lactic acid. Forgot to add the whirfloc tablet, but filtered out most of the trub. First dry hop will be 1 day into active fermentation, which will then be pulled out and replaced with the final dry hop just before fermentation ends (probably day 5-6)\
+\
+-1st dry hop 12/11\
+-2nd dry hop 16/11\
+-kegged via closed transfer on 23/11\
+-FG 1.010 with 16L volume
+
+![Closed Transfer](/img/127233848_3539894086128924_7718094819841299555_n.jpg "Closed Transfer")
