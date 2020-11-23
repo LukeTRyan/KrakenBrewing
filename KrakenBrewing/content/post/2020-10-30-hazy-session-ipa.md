@@ -26,8 +26,8 @@ Efficiency: 70% (brew house)
 **STATS:**\
 Brew Date: 11/11/2020\
 Original Gravity: 1.050 \
-Final Gravity: \_\_\_\__\
-ABV (standard): \_\_\_\__\
+Final Gravity: 1.010\
+ABV (standard): 5.25%\
 IBU (tinseth): 22\
 SRM (morey): \
 Mash pH: 5.5
@@ -98,6 +98,7 @@ Aiming for minimum oxidation, so trying to keep the fermenter closed, with a clo
 \
 -1st dry hop 12/11\
 -2nd dry hop 16/11\
--kegged via closed transfer on 23/11
+-kegged via closed transfer on 23/11\
+-FG 1.010 with 16L volume
 
 ![Closed Transfer](/img/127233848_3539894086128924_7718094819841299555_n.jpg "Closed Transfer")
