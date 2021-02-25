@@ -1,7 +1,13 @@
 ---
 title: "Stone & Wood Clone #2"
 date: 2021-02-25T05:05:29.328Z
-tags: List [ "Stone&Wood", "Clone", "Stone", "Wood", "Pacific", "Ale", "Galaxy" ]
+tags: 
+  - Stone&Wood
+  - Clone
+  - StoneWood 
+  - Pacific 
+  - Ale 
+  - Galaxy
 ---
 The second beer I ever made was my first time going all grain. This recipe (<https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/>) was a Stone & Wood clone, designed to loosely resemble the beer. While this was one of the most successful beers I've made, I decided to re-do it, this time with a much better, fine-tuned setup. The aim of this is to get an understanding on the impact of changing certain aspects to a brew and how they affect the end result. The grain bill is remaining mostly the same, with slightly more Wheat malt and Carapils. I've also increased the hop additions, adding slightly more bitterness and hopstand additions. Furthermore, I've tweaked the water chemistry in order to favour a light, hoppy ale, while removing chloramine with campden tablets. The beer will be kegged, whereas previously it was bottled, presenting more chance for oxidation. \
 \
