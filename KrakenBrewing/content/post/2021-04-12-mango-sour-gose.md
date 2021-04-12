@@ -3,9 +3,9 @@ title: Mango Sour (Gose)
 date: 2021-04-12T02:28:34.049Z
 tags: "Mango  Sour  Berliner Weisse  Gose  Fruit Ale Lactobacillus "
 ---
-Time for another sour! This time it's going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:\
-\
-- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness. 
+Time for another sour! This time it's going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:
+
+\- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness. 
 
 \- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.
 
@@ -13,7 +13,7 @@ Time for another sour! This time it's going to be Mango, utilising 3kg of mango 
 
 \- pre-acidifying the wort with lactic acid to reach 4.2-4.5pH.
 
-\- Water profile will be Brisbane water with 2g calcium sulfate, 4g calcium chloride and 11ml of lactic acid to reach 4.4pH.
+\- Water profile will be Brisbane water with 2g calcium sulfate, 2g calcium chloride and total 19ml of lactic acid to reach 4.4pH.
 
 **Mango Sour**
 
@@ -62,15 +62,16 @@ CO2 Level: 2.5 Volumes
 
 **TARGET WATER PROFILE:**\
 Profile Name: Brisbane Sour\
-Ca2: 77\
+Ca2: 50\
 Mg2: 15\
 Na: 44\
-Cl: 137\
-SO4: 62\
+Cl: 100\
+SO4: 50\
 HCO3:\
 Water Notes: Brisbane tap water treated with campden tablets, 2g calcium sulfate, 4g calcium chloride.
 
-**NOTES:** -Mashed for 60 mins.\
+**NOTES:** \
+-Mashed for 60 mins (acidify wort pH to 5.4-5.5).\
 -Sparged with approx 14L.\
 -Boiled for 15 minutes to sterilize.\
 -Pre-acidified wort with lactic acid to 4.4pH to aid souring, prevent spoilage and supposedly help head retention.\
@@ -79,4 +80,4 @@ Water Notes: Brisbane tap water treated with campden tablets, 2g calcium sulfate
 -12 hours in, pH was 3.4, 24 hours in final pH was 3.3.\
 -Re-boiled for 45 minutes with finings.\
 -Chilled, pitched 1 packets US-05 yeast at 18c.\
--fermented for 1 week, added 3kg of raspberry puree (with invert sugar syrup).
+-fermented for 1 week, added 3kg of Mango puree (with invert sugar syrup).
