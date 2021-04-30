@@ -1,13 +1,13 @@
 ---
 title: Mango Sour (Gose)
 date: 2021-04-12T02:28:34.049Z
-tags: 
-  - Mango  
-  - Sour  
-  - Berliner Weisse  
-  - Gose  
-  - Fruit 
-  - Ale 
+tags:
+  - Mango
+  - Sour
+  - Berliner Weisse
+  - Gose
+  - Fruit
+  - Ale
   - Lactobacillus
 ---
 Time for another sour! This time it's going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:
@@ -27,15 +27,15 @@ Time for another sour! This time it's going to be Mango, utilising 3kg of mango 
 Brew Method: All Grain\
 Style Name: Fruit Beer\
 Boil Time: 45 min\
-Batch Size: 23 liters (fermentor volume) + Fruit volume\
+Batch Size: 25 liters (fermentor volume) + Fruit volume\
 Boil Size: 28 liters\
 Boil Gravity:  \
 Efficiency:
 
 **STATS**:\
-Original Gravity:\
-Final Gravity: \
-ABV (standard): \
+Original Gravity: 1.044\
+Final Gravity: \_\_\_\_\_\_\
+ABV (standard): \_\_\_\_\_\_\
 Mash pH: 4.4
 
 **FERMENTABLES:**\
@@ -84,7 +84,7 @@ Water Notes: Brisbane tap water treated with campden tablets, 2g calcium sulfate
 -Pre-acidified wort with lactic acid to 4.4pH to aid souring, prevent spoilage and supposedly help head retention.\
 -Cooled down to 37c and pitched Wildbrew Sour Pitch Lactobacillus Plantarum (5g).\
 -Covered and let sit for ~12-36 hours at 37c until soured (3.2-3.4 pH).\
--12 hours in, pH was 3.4, 24 hours in final pH was 3.3.\
+-12 hours in, pH was 3.4, 36 hours in final pH was 3.28.\
 -Re-boiled for 45 minutes with finings.\
--Chilled, pitched 1 packets US-05 yeast at 18c.\
--fermented for 1 week, added 3kg of Mango puree (with invert sugar syrup).
+-Chilled, pitched 1 packets US-05 yeast at 19c.\
+-fermented for 5 days, added 3kg of Mango puree (with invert sugar syrup).
