@@ -29,13 +29,13 @@ Style Name: Fruit Beer\
 Boil Time: 45 min\
 Batch Size: 25 liters (fermentor volume) + Fruit volume\
 Boil Size: 28 liters\
-Boil Gravity:  \
+Boil Gravity:   \
 Efficiency:
 
 **STATS**:\
 Original Gravity: 1.044\
-Final Gravity: \_\_\_\_\_\_\
-ABV (standard): \_\_\_\_\_\_\
+Final Gravity: 1.011\
+ABV (standard): 5.5% (incorporating fermented mango ABV)\
 Mash pH: 4.4
 
 **FERMENTABLES:**\
@@ -87,4 +87,7 @@ Water Notes: Brisbane tap water treated with campden tablets, 2g calcium sulfate
 -12 hours in, pH was 3.4, 36 hours in final pH was 3.28.\
 -Re-boiled for 45 minutes with finings.\
 -Chilled, pitched 1 packets US-05 yeast at 19c.\
--fermented for 5 days, added 3kg of Mango puree (with invert sugar syrup).
+-fermented for 5 days, added 3kg of Mango puree (with invert sugar syrup).\
+\
+-FG - 1.011, kegged on 4/5/21\
+-During closed transfer the spigot got clogged with the mango bag, forcing me to switch to an open transfer with auto-siphon.
