@@ -9,6 +9,7 @@ tags:
   - Fruit
   - Ale
   - Lactobacillus
+  comments: true
 ---
 Time for another sour! This time it's going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:
 
