@@ -2,6 +2,7 @@
 title: German Lager
 subtitle: null
 date: 2020-06-01
+comments: true
 tags:
   - Lager
   - Pilsener

@@ -1,6 +1,7 @@
 ---
 title: Ballistic Hawaiian Haze Clone (DDH Pale Ale)
 date: 2021-04-12T03:18:37.163Z
+comments: true
 tags:
   - Ballistic
   - DDH

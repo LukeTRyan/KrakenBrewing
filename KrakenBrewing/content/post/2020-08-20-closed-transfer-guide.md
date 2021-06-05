@@ -1,6 +1,7 @@
 ---
 title: Closed Transfer Guide
 date: 2020-08-20T02:55:41.476Z
+comments: true
 tags:
   - Closed Transfer
   - Brewtech

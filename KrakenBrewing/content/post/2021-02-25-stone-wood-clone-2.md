@@ -1,6 +1,7 @@
 ---
 title: "Stone & Wood Clone #2"
 date: 2021-02-25T05:05:29.328Z
+comments: true
 tags:
   - Stone&Wood
   - Clone

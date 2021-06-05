@@ -1,6 +1,7 @@
 ---
 title: My First All Grain BIAB
 date: 2019-05-16
+comments: true
 tags: ["BIAB", "Pacific Ale", "Clone"]
 ---
 

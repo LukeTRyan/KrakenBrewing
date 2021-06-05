@@ -2,6 +2,7 @@
 title: Dwarven Stout
 subtitle: Chocolate Coffee Stout
 date: 2019-12-12
+comments: true
 tags:
   - Stout
   - Coffee

@@ -1,6 +1,7 @@
 ---
 title: Hazy Session IPA
 date: 2020-10-30T02:03:24.359Z
+comments: true
 tags:
   - Hazy
   - Session
