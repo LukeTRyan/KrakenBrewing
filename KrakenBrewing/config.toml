@@ -12,6 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "@disqus_h42DCE4a0h"
 #googleAnalytics = "XXX"
 
+
 [Params]
 #  homeTitle = "Kraken Brewing" # Set a different text for the header on the home page
   subtitle = "Brisbane-based craft beer and homebrew"
@@ -30,6 +31,11 @@ pygmentsCodefencesGuessSyntax = true
   showRelatedPosts = true
   hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[Params.staticman]
+  api = "https://https://staticman.net/v3/entry/github/luketryan/KrakenBrewing/master/comments"
+
+
 
 [Author]
   name = "Luke Ryan"
