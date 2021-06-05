@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DDH on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/ddh/</link>
+    <description>Recent content in DDH on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Mon, 12 Apr 2021 03:18:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/ddh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ballistic Hawaiian Haze Clone (DDH Pale Ale)</title>
+      <link>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</link>
+      <pubDate>Mon, 12 Apr 2021 03:18:37 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</guid>
+      <description>For my next clone, I&amp;rsquo;m going to attempt to replicate Ballistic Brewing&amp;rsquo;s &amp;ldquo;Hawaiian Haze&amp;rdquo; DDH Pale Ale. The tasting notes for this beer have been descriped as juicy, pineapple, hoppy and citric. It&amp;rsquo;s light in colour with a solid haze. The hops used were Citra, Rakau, Pacifica and Mosaic. The malts are pale malt, rolled/flaked oats and rolled/flaked wheat. It has medium bitterness with 30 IBUs and an ABV of 4.</description>
+    </item>
+    
+  </channel>
+</rss>

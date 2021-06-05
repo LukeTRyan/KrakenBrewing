@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galaxy on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/galaxy/</link>
+    <description>Recent content in Galaxy on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Thu, 25 Feb 2021 05:05:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/galaxy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stone &amp; Wood Clone #2</title>
+      <link>https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/</link>
+      <pubDate>Thu, 25 Feb 2021 05:05:29 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/</guid>
+      <description>The second beer I ever made was my first time going all grain. This recipe (https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/) was a Stone &amp;amp; Wood clone, designed to loosely resemble the beer. While this was one of the most successful beers I&amp;rsquo;ve made, I decided to re-do it, this time with a much better, fine-tuned setup. The aim of this is to get an understanding on the impact of changing certain aspects to a brew and how they affect the end result.</description>
+    </item>
+    
+  </channel>
+</rss>

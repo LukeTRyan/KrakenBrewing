@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berliner Weisse on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/berliner-weisse/</link>
+    <description>Recent content in Berliner Weisse on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Mon, 12 Apr 2021 02:28:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/berliner-weisse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mango Sour (Gose)</title>
+      <link>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</link>
+      <pubDate>Mon, 12 Apr 2021 02:28:34 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</guid>
+      <description>Time for another sour! This time it&amp;rsquo;s going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:
+- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness.
+- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.
+- A mesh bag will be used to catch the fruit particles and make kegging easier.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Sour (Berliner Weisse)</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-08-21-raspberry-sour-berliner-weisse/</link>
+      <pubDate>Fri, 21 Aug 2020 09:07:15 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-08-21-raspberry-sour-berliner-weisse/</guid>
+      <description>This sour is pretty much a copy of the strawberry sour/berliner weisse I did last time. The only changes i&amp;rsquo;m making this time around are:
+- Adding more fruit (4kg) in a pureed form (wholesale) which contains 15% sugar. This will up the ABV so the grain bill will be lower than normal.
+- Fruit addition will be added during primary/secondary to get a fresher flavour and remove cooked-flavours.
+- A mesh bag will be used to catch the Raspberry particles and make kegging easier.</description>
+    </item>
+    
+  </channel>
+</rss>

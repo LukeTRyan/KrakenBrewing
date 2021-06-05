@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ale on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/ale/</link>
+    <description>Recent content in Ale on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Mon, 12 Apr 2021 03:18:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/ale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ballistic Hawaiian Haze Clone (DDH Pale Ale)</title>
+      <link>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</link>
+      <pubDate>Mon, 12 Apr 2021 03:18:37 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</guid>
+      <description>For my next clone, I&amp;rsquo;m going to attempt to replicate Ballistic Brewing&amp;rsquo;s &amp;ldquo;Hawaiian Haze&amp;rdquo; DDH Pale Ale. The tasting notes for this beer have been descriped as juicy, pineapple, hoppy and citric. It&amp;rsquo;s light in colour with a solid haze. The hops used were Citra, Rakau, Pacifica and Mosaic. The malts are pale malt, rolled/flaked oats and rolled/flaked wheat. It has medium bitterness with 30 IBUs and an ABV of 4.</description>
+    </item>
+    
+    <item>
+      <title>Mango Sour (Gose)</title>
+      <link>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</link>
+      <pubDate>Mon, 12 Apr 2021 02:28:34 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</guid>
+      <description>Time for another sour! This time it&amp;rsquo;s going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:
+- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness.
+- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.
+- A mesh bag will be used to catch the fruit particles and make kegging easier.</description>
+    </item>
+    
+    <item>
+      <title>Stone &amp; Wood Clone #2</title>
+      <link>https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/</link>
+      <pubDate>Thu, 25 Feb 2021 05:05:29 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/</guid>
+      <description>The second beer I ever made was my first time going all grain. This recipe (https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/) was a Stone &amp;amp; Wood clone, designed to loosely resemble the beer. While this was one of the most successful beers I&amp;rsquo;ve made, I decided to re-do it, this time with a much better, fine-tuned setup. The aim of this is to get an understanding on the impact of changing certain aspects to a brew and how they affect the end result.</description>
+    </item>
+    
+  </channel>
+</rss>

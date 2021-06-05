@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudy on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/cloudy/</link>
+    <description>Recent content in Cloudy on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Fri, 30 Oct 2020 02:03:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://krakenbrewing.netlify.app/tags/cloudy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hazy Session IPA</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-10-30-hazy-session-ipa/</link>
+      <pubDate>Fri, 30 Oct 2020 02:03:24 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-10-30-hazy-session-ipa/</guid>
+      <description>This recipe is adapted from the HoppyDays Hazy Crusher IPA, a hazy session IPA with low bitterness, low ABV and a large dry hop addition. The yeast being used for this beer is the new Verdant IPA yeast.
+Target mash pH: 5.4 (need 5ml lactic acid)
+Target water profile: Approximately 2-1 chloride to sulfate
+Hazy Session IPA
+Brew Method: All Grain
+Style Name: American IPA
+Boil Time: 60 min
+Batch Size: 23 liters (fermentor volume)</description>
+    </item>
+    
+  </channel>
+</rss>
