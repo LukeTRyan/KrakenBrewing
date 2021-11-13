@@ -3,13 +3,13 @@ title: Pavlova Sour (Christmas Sour) (Vanilla Passionfruit Gose)
 date: 2021-11-13T23:35:06.428Z
 comments: true
 tags: 
-  - Sour 
-  - Gose -
-  - Passionfruit 
-  - Vanilla 
-  - Fruit 
+  - Sour
+  - Gose
+  - Passionfruit
+  - Vanilla
+  - Fruit
   - Lactose
-  - Kettle 
+  - Kettle
   - All Grain
 ---
 ### \
