@@ -1,8 +1,19 @@
 ---
 title: Hoppy Days Hazy Crusher (Session Neipa)
 date: 2022-01-07T03:07:22.032Z
-tags: "Hoppy, Days, Hazy, Crusher, Session, Neipa, IPA, Juicy, Citra,
-  Centennial, Idaho #7"
+tags: 
+  - Hoppy
+  - Days
+  - Hazy
+  - Crusher
+  - Session
+  - NEIPA
+  - IPA
+  - All Grain
+  - Juicy
+  - Citra
+  - Centennial
+  - Idaho #7
 ---
 This is a recipe I took from Hoppy Days Brewing Supplies (Brisbane), which is a session NEIPA. This beer features low bitterness, heavily fruity/critrus hops and a full body with plenty of high-protein malts. This brew makes use of Verdant IPA yeast, which will aid in creating this hazy, hoppy fruit bomb. Although i've brewed this beer before, the first time was a dump due to heavy oxidation. This time around, I'm utilising the Fermzilla 27L to do a pressurised, closed transfer ferment, to avoid any oxidation. Hops will be loaded into the collection container and purged with CO2, to remove any possibility of oxygen getting in. 
 
