@@ -168,3 +168,13 @@ Carbonation: **2.2 CO2-vol**
 
 
 https://hoppydaysbrewingsupplies.com.au/product/hazy-crusher-23l/ 25L batch size to account for hop absorption/loss. Final volume ~23L
+
+### NOTES:
+
+\-Turned out exceptionally well, little to no signs of oxidation (yet), pressure transfer went super smoothly. Colour is golden, taste is as fruity with low biterness, aroma is poppin and there's no detectable off-flavours from me. 
+
+\-I did manage to break the top of my fermzilla though when it got stuck, so ill need to order another part.
+
+![Pressure Transfer](/img/20220122_132833.jpg)
+
+![Brew](/img/IMG_20220118_121217_701.jpg)
