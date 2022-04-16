@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Kraken Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    
-	<atom:link href="https://krakenbrewing.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster><atom:link href="https://krakenbrewing.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
