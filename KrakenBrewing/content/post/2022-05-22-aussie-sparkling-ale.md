@@ -1,8 +1,14 @@
 ---
 title: Aussie Sparkling Ale
 date: 2022-05-22T23:02:31.013Z
-tags: List [ "Sparkling, "Ale", "Coopers", "All Grain", "Dry", "Crisp",
-  "Australian" ]
+tags: 
+  - Aussie
+  - Australian
+  - Sparkling Ale
+  - All Grain
+  - Dry
+  - Crisp
+  - Session
 ---
 I decided to make a basic Australian Ale after having some bad luck with hazy, hoppy beers oxidising. Hoppy Days Brewing Supplies had this recipe for a Sparkling Ale, reminiscent of Coopers Sparkling Ale. This beer makes use of Australian malts (Voyager Pale Compass) and Australian hops (Pride of Ringwood) for a boil addition. Yeast used was SafAle k-97, a traditional german ale yeast.
 
