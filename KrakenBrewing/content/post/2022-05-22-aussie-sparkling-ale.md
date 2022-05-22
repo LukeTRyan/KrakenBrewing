@@ -9,6 +9,7 @@ tags:
   - Dry
   - Crisp
   - Session
+  - Bitter
 ---
 I decided to make a basic Australian Ale after having some bad luck with hazy, hoppy beers oxidising. Hoppy Days Brewing Supplies had this recipe for a Sparkling Ale, reminiscent of Coopers Sparkling Ale. This beer makes use of Australian malts (Voyager Pale Compass) and Australian hops (Pride of Ringwood) for a boil addition. Yeast used was SafAle k-97, a traditional german ale yeast.
 
@@ -130,13 +131,12 @@ Carbonation: **2.4 CO2-vol**
 
 ### Water Profile
 
-Ca2+\
- 74Mg2+\
- 5Na+\
- 2Cl-\
- 50SO42-\
- 134HCO3-\
- 2
+ 74 Ca2+
+ 5 Mg2+
+ 2 Na+
+ 50 Cl-
+ 134 SO4-
+ 2 HCO3-
 
 
 
