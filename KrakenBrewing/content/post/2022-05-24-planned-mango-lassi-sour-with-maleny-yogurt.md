@@ -21,6 +21,8 @@ Other notes:
 * High wheat and oat grain bill for thick body
 * Full 500g (1lb) of lactose
 * Few cardamon pods crushed and added to flameout (can be very overpowering, so start with a small amount)
+* Standard ale yeast
+* Might add some fruity hops to flameout for some added depth of flavour
 
 \
 <https://www.malenydairies.com/products/yoghurt>\
