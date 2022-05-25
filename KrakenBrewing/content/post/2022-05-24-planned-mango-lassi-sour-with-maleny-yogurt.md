@@ -21,7 +21,6 @@ Other notes:
 * High wheat and oat grain bill for thick body
 * Full 500g (1lb) of lactose
 * Few cardamon pods crushed and added to flameout (can be very overpowering, so start with a small amount)
-*
 
 \
 <https://www.malenydairies.com/products/yoghurt>\
