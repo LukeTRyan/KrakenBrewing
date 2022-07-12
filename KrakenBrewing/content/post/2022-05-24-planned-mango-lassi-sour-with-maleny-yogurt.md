@@ -23,6 +23,114 @@ Other notes:
 * Might add some fruity hops to flameout for some added depth of flavour (Galaxy)
 * 2kg of frozen mango puree and 1L of mango pulp or nectar
 
+<!--StartFragment-->
+
+https://share.brewfather.app/vypPxwWiLWSbOz
+
+## **Mango Lassi Sour**
+
+5.5% / 15.2 °P
+
+Recipe by
+
+**Luke Ryan**
+
+All Grain
+
+### **BrewZilla 35L - March 2020 - GASH (copy)**
+
+**72%** efficiency
+
+Batch Volume: **23 L**
+
+Boil Time: **60** min
+
+Mash Water: **20 L**
+
+Sparge Water: **14.81 L** **@** 76 °C
+
+Total Water: **34.81 L**
+
+Boil Volume: **30.08 L**
+
+Pre-Boil Gravity: **1.046**
+
+### Vitals
+
+Original Gravity: **1.060**
+
+Total Gravity: **1.062**
+
+Final Gravity: **1.020**
+
+IBU (Tinseth): **12**
+
+BU/GU: **0.19**
+
+Colour: **8.9 EBC** 
+
+### Mash
+
+Strike Temp — **69.7 °C**
+
+Temperature — **65 °C** — **60 min**
+
+### Malts **(5.25 kg)**
+
+**2.25 kg** (25.7%) — Gladfield Pilsner Malt — Grain — 3.7 EBC — Mash
+
+**2.25 kg** (25.7%) — Gladfield Wheat Malt — Grain — 4.2 EBC — Mash
+
+**500 g** (5.7%) — Oats, Flaked — Grain — 2 EBC — Mash
+
+**250 g** (2.9%) — Cargill (Gambrinus) Honey Malt — Grain — 49.5 EBC
+
+### Other **(3.5 kg)**
+
+**2 kg** (22.9%) — Mango (Fruit) — Other — 0 EBC — Secondary
+
+**1 kg** (11.4%) — Fruits Rouges & Co Mango Purée — Other — 0 EBC
+
+**500 g** (5.7%) — Milk Sugar (Lactose) — Sugar — 0 EBC — Boil
+
+### Hops **(25 g)**
+
+**25 g** (12 IBU) — Galaxy 14% — Aroma — **60 min hopstand @ 85 °C**
+
 \
-<https://www.malenydairies.com/products/yoghurt>\
-<https://craftypint.com/beer/8688/brouhaha-strawberry-rhubarb-sour>
+Hopstand at **85 °C**
+
+### Miscs
+
+**2 g** — Calcium Chloride (CaCl2) — **Mash**
+
+**2 g** — Gypsum (CaSO4) — **Mash**
+
+**6 ml** — Lactic Acid 88% — **Mash**
+
+**3 items** — Cardamom — **Flameout**
+
+### Yeast
+
+**1 pkg** — Lallemand (LalBrew) Philly Sour 75%
+
+### Fermentation
+
+Primary — **19 °C** — **10 days**
+
+Carbonation: **2.4 CO2-vol**
+
+### Water Profile
+
+Ca2+\
+ 55Mg2+\
+ 15Na+\
+ 44Cl-\
+ 101SO42-\
+ 57HCO3-\
+ 117
+
+<!--EndFragment-->
+
+\
+https://www.lallemandbrewing.com/en/canada/product-details/wildbrew-philly-sour/
