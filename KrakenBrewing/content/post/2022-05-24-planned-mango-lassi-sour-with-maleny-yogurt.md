@@ -23,9 +23,9 @@ Other notes:
 * Might add some fruity hops to flameout for some added depth of flavour (Galaxy)
 * 2kg of frozen mango puree and 1L of mango pulp or nectar
 
-
-
 <!--StartFragment-->
+
+https://share.brewfather.app/vypPxwWiLWSbOz
 
 ## **Mango Lassi Sour**
 
@@ -35,11 +35,7 @@ Recipe by
 
 **Luke Ryan**
 
-
-
 All Grain
-
-
 
 ### **BrewZilla 35L - March 2020 - GASH (copy)**
 
@@ -48,8 +44,6 @@ All Grain
 Batch Volume: **23 L**
 
 Boil Time: **60** min
-
-
 
 Mash Water: **20 L**
 
@@ -60,8 +54,6 @@ Total Water: **34.81 L**
 Boil Volume: **30.08 L**
 
 Pre-Boil Gravity: **1.046**
-
-
 
 ### Vitals
 
@@ -77,15 +69,11 @@ BU/GU: **0.19**
 
 Colour: **8.9 EBC** 
 
-
-
 ### Mash
 
 Strike Temp — **69.7 °C**
 
 Temperature — **65 °C** — **60 min**
-
-
 
 ### Malts **(5.25 kg)**
 
@@ -97,8 +85,6 @@ Temperature — **65 °C** — **60 min**
 
 **250 g** (2.9%) — Cargill (Gambrinus) Honey Malt — Grain — 49.5 EBC
 
-
-
 ### Other **(3.5 kg)**
 
 **2 kg** (22.9%) — Mango (Fruit) — Other — 0 EBC — Secondary
@@ -107,16 +93,12 @@ Temperature — **65 °C** — **60 min**
 
 **500 g** (5.7%) — Milk Sugar (Lactose) — Sugar — 0 EBC — Boil
 
-
-
 ### Hops **(25 g)**
 
 **25 g** (12 IBU) — Galaxy 14% — Aroma — **60 min hopstand @ 85 °C**
 
 \
 Hopstand at **85 °C**
-
-
 
 ### Miscs
 
@@ -128,21 +110,15 @@ Hopstand at **85 °C**
 
 **3 items** — Cardamom — **Flameout**
 
-
-
 ### Yeast
 
 **1 pkg** — Lallemand (LalBrew) Philly Sour 75%
-
-
 
 ### Fermentation
 
 Primary — **19 °C** — **10 days**
 
 Carbonation: **2.4 CO2-vol**
-
-
 
 ### Water Profile
 
@@ -153,8 +129,6 @@ Ca2+\
  101SO42-\
  57HCO3-\
  117
-
-
 
 <!--EndFragment-->
 
