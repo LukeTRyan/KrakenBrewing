@@ -1,5 +1,5 @@
 ---
-title: PLANNED - Mango Lassi Sour
+title: Mango Lassi Sour (Fruited Sour Ale)
 date: 2022-05-24T10:24:19.963Z
 tags:
   - Mango
@@ -57,66 +57,80 @@ Pre-Boil Gravity: **1.046**
 
 ### Vitals
 
-Original Gravity: **1.060**
+Original Gravity: **1.057**
 
 Total Gravity: **1.062**
 
 Final Gravity: **1.020**
 
-IBU (Tinseth): **12**
+IBU (Tinseth): **10**
 
-BU/GU: **0.19**
+BU/GU: **0.17**
 
 Colour: **8.9 EBC** 
+
+
 
 ### Mash
 
 Strike Temp — **69.7 °C**
 
-Temperature — **65 °C** — **60 min**
+Temperature — **67 °C** — **60 min**
+
+
 
 ### Malts **(5.25 kg)**
 
-**2.25 kg** (25.7%) — Gladfield Pilsner Malt — Grain — 3.7 EBC — Mash
+**2.25 kg** (23.1%) — Gladfield Pilsner Malt — Grain — 3.7 EBC — Mash
 
-**2.25 kg** (25.7%) — Gladfield Wheat Malt — Grain — 4.2 EBC — Mash
+**2.25 kg** (23.1%) — Gladfield Wheat Malt — Grain — 4.2 EBC — Mash
 
-**500 g** (5.7%) — Oats, Flaked — Grain — 2 EBC — Mash
+**500 g** (5.1%) — Oats, Flaked — Grain — 2 EBC — Mash
 
-**250 g** (2.9%) — Cargill (Gambrinus) Honey Malt — Grain — 49.5 EBC
+**250 g** (2.6%) — Cargill (Gambrinus) Honey Malt — Grain — 49.5 EBC
 
-### Other **(3.5 kg)**
 
-**2 kg** (22.9%) — Mango (Fruit) — Other — 0 EBC — Secondary
 
-**1 kg** (11.4%) — Fruits Rouges & Co Mango Purée — Other — 0 EBC
+### Other **(4.5 kg)**
 
-**500 g** (5.7%) — Milk Sugar (Lactose) — Sugar — 0 EBC — Boil
+**4 kg** (41%) — Mango (Fruit) — Other — 0 EBC — Secondary
+
+**500 g** (5.1%) — Milk Sugar (Lactose) — Sugar — 0 EBC — Boil
+
+
 
 ### Hops **(25 g)**
 
-**25 g** (12 IBU) — Galaxy 14% — Aroma — **60 min hopstand @ 85 °C**
+**25 g** (10 IBU) — Mosaic 12.25% — Aroma — **60 min hopstand @ 85 °C**
 
 \
 Hopstand at **85 °C**
 
+
+
 ### Miscs
+
+**100 g** — Rice hulls — **Mash**
 
 **2 g** — Calcium Chloride (CaCl2) — **Mash**
 
 **2 g** — Gypsum (CaSO4) — **Mash**
 
-**6 ml** — Lactic Acid 88% — **Mash**
+**4 ml** — Lactic Acid 88% — **Mash**
 
 **3 items** — Cardamom — **Flameout**
 
+
+
 ### Yeast
 
-**1 pkg** — Lallemand (LalBrew) Philly Sour 75%
+**2 pkg** — Lallemand (LalBrew) Philly Sour 75%
+
+
 
 ### Fermentation
 
-Primary — **19 °C** — **10 days**
+Primary — 22 **°C** — **10 days**
 
 Carbonation: **2.4 CO2-vol**
 
@@ -129,6 +143,13 @@ Ca2+\
  101SO42-\
  57HCO3-\
  117
+
+<!--EndFragment-->
+
+### Brewing Notes
+
+* Add less volume to the fermenter to allow more headspace for the Mango (4kg takes up quite a bit)
+* Try and weigh down the fruit in a bag so it doesn't float at the top and track CO2
 
 <!--EndFragment-->
 
