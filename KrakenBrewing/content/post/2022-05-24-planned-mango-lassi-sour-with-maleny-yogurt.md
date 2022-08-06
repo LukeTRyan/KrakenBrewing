@@ -136,6 +136,7 @@ Ca2+\
 
 * Add less volume to the fermenter to allow more headspace for the Mango (4kg takes up quite a bit)
 * Try and weigh down the fruit in a bag so it doesn't float at the top and track CO2
+* FG finished at 1.020, bang on target. Smells and tastes great, now carbonating at 2.5 volumes for 1-2 weeks.
 
 <!--EndFragment-->
 
