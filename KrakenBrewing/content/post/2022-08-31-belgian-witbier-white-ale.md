@@ -1,7 +1,14 @@
 ---
 title: Belgian Witbier (White ale)
 date: 2022-08-30T23:46:52.143Z
-tags: belgian witbier white ale spice citrus wheat
+tags:
+  - belgian
+  - witbier
+  - white
+  - ale
+  - spice
+  - citrus
+  - wheat
 ---
 The inspiration for this beer came from a night several years ago when I was working at a bartender. Myself and a few others headed to an American-style bar across the road on our break, for some food and beers. I ended up getting a Blue Moon on tap, not knowing what it is and expecting it to be a thin, watered down American lager. I was surprised to receive the opposite, a full-bodied, rich, citrusy and spicy Belgian-style ale with a slice of orange in it. It was fantastic, and that is the style and moment  I'm trying to recreate with this beer.
 
