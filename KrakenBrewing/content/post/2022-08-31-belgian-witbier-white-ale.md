@@ -24,11 +24,7 @@ Recipe by
 
 **Luke Ryan**
 
-
-
 All Grain
-
-
 
 ### **BrewZilla 35L - March 2020 - GASH (copy)**
 
@@ -37,8 +33,6 @@ All Grain
 Batch Volume: **23 L**
 
 Boil Time: **60** min
-
-
 
 Mash Water: **20 L**
 
@@ -49,8 +43,6 @@ Total Water: **34.4 L**
 Boil Volume: **30.08 L**
 
 Pre-Boil Gravity: **1.041**
-
-
 
 ### Vitals
 
@@ -64,15 +56,11 @@ BU/GU: **0.36**
 
 Colour: **5.9 EBC** 
 
-
-
 ### Mash
 
 Strike Temp — **71.5 °C**
 
 Temperature — **67 °C** — **60 min**
-
-
 
 ### Malts **(4.8 kg)**
 
@@ -84,16 +72,12 @@ Temperature — **67 °C** — **60 min**
 
 **300 g** (6.3%) — Oats, Flaked — Grain — 2 EBC
 
-
-
 ### Hops **(34 g)**
 
 **34 g** (17 IBU) — Saaz 4.5% — Boil — **60 min**
 
 \
 Hopstand at **98 °C**
-
-
 
 ### Miscs
 
@@ -107,36 +91,28 @@ Hopstand at **98 °C**
 
 **40 g** — Orange Peel, Sweet — **Boil** — **5 min**
 
-
-
 ### Yeast
 
 **1 pkg** — Lallemand (LalBrew) Wit Belgian 80%
-
-
 
 ### Fermentation
 
 Primary — **20 °C** — **5 PSI** — **14 days**
 
-
-
 Carbonation: **2.4 CO2-vol**
-
-
 
 ### Water Profile
 
-Ca2+\
- 35Mg2+\
- 15Na+\
- 44Cl-\
- 73SO42-\
- 47HCO3-\
- 117
+35 Ca2+\
+15 Mg2+\
+44 Na+\
+73 Cl-\
+47 SO42-\
+117 HCO3-
 
-
-
-1 - Start with RO water. Adjust salts using your preferred program. If using distilled, adjust appropriately 2 - Stir before sparging to suspend starch. Do not vorlof. 2 - Do NOT cold crash or cool at all 4 - Package fresh.
+1 - Start with RO water. Adjust salts using your preferred program. If using distilled, adjust appropriately\
+2 - Stir before sparging to suspend starch. Do not vorlof. \
+3 - Do NOT cold crash or cool at all \
+4 - Package fresh.
 
 <!--EndFragment-->
