@@ -10,7 +10,7 @@ tags:
   - citrus
   - wheat
 ---
-The inspiration for this beer came from a night several years ago when I was working at a bartender. Myself and a few others headed to an American-style bar across the road on our break, for some food and beers. I ended up getting a Blue Moon on tap, not knowing what it is and expecting it to be a thin, watered down American lager. I was surprised to receive the opposite, a full-bodied, rich, citrusy and spicy Belgian-style ale with a slice of orange in it. It was fantastic, and that is the style and moment  I'm trying to recreate with this beer.
+The inspiration for this beer came from a night several years ago when I was working as a bartender. Myself and a few others headed to an American-style bar across the road on our break, for some food and beers. I ended up getting a Blue Moon on tap, not knowing what it is and expecting it to be a thin, watered down American lager. I was surprised to receive the opposite, a full-bodied, rich, citrusy and spicy Belgian-style ale with a slice of orange in it. It was fantastic, and that is the style and moment  I'm trying to recreate with this beer.
 
 After my research, I concluded on using additions of fresh orange peel, dried chamomile flowers and crushed coriander seed. I also chose to use Saaz hops for the bittering addition, as these are fairly old noble hops and true to the style with the spice character. I chose to go with Lallemand's Belgian Wit yeast, as it's an accessible and neutral dry yeast.
 
