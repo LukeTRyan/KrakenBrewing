@@ -14,7 +14,8 @@ The inspiration for this beer came from a night several years ago when I was wor
 
 After my research, I concluded on using additions of fresh orange peel, dried chamomile flowers and crushed coriander seed. I also chose to use Saaz hops for the bittering addition, as these are fairly old noble hops and true to the style with the spice character. I chose to go with Lallemand's Belgian Wit yeast, as it's an accessible and neutral dry yeast.
 
-<!--StartFragment-->
+\
+https://share.brewfather.app/DiHMrWyURR1kiO
 
 ## **Witbier**
 
@@ -115,4 +116,8 @@ Carbonation: **2.4 CO2-vol**
 3 - Do NOT cold crash or cool at all \
 4 - Package fresh.
 
-<!--EndFragment-->
+\
+**Resources:**
+
+<https://youtu.be/o-Si_TtD3oU>\
+<https://youtu.be/ixlBgRYBHM8>
