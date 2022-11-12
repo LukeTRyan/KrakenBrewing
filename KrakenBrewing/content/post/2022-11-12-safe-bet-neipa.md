@@ -1,7 +1,13 @@
 ---
 title: Safe Bet NEIPA
 date: 2022-11-12T13:26:20.652Z
-tags: Hazy IPA NEIPA ALE all-grain hoppy
+tags:
+  - Hazy
+  - IPA
+  - NEIPA
+  - ALE
+  - all-grain
+  - hoppy
 ---
 D﻿ecided to have another crack at a hoppy hazy with this recipe from some dude on Facebook. For this brew, I'm trying out suspending the hops in a bag using magnets.. as a final effort to avoid oxidation. Closed transfers don't seem to be working well enough, and I figured it may be due to opening the fermenter for dry hop additions, so we'll see how this goes. I kinda screwed it up though because the hop bag is too big for the fermenter headspace.. so now the hops are slightly touching the wort. I'll try limit the fermentation time of this batch to not drag out the hop exposure. I also forgot to use a Whirfloc tablet, but it might help contribute some slight haze. Ultimate goal of this batch is to just avoid oxidation. I'm also trying liquid yeast for the first time (Bluestone Yeast Co. New England ale strain). Hopefully it goes well, it wasn't cheap.
 

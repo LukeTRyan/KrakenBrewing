@@ -1,7 +1,13 @@
 ---
 title: Berry Sour (Gose)
 date: 2022-11-12T13:33:06.876Z
-tags: Berry Sour Ale Gose all-grain fruity
+tags:
+  - Berry
+  - Sour
+  - Ale
+  - Gose
+  - all-grain
+  - fruity
 ---
 G﻿oing ahead with another fruited sour using the Philly Sour yeast. This time I think I'll do a mix of darker fruits (Blackberry, Cherry & Raspberry) and see how that goes. Like my last sour, I've added some lactose to counteract the sourness. I also added some dextrose to the boil to give the yeast some glucose for lactic acid production. I'll probably add the fruit around day 5-6, purge with some c02 and leave for 3-4 days until fermentation finishes.
 
