@@ -23,11 +23,7 @@ Recipe by
 
 **Luke Ryan**
 
-
-
 All Grain
-
-
 
 ### **BrewZilla 35L - March 2020 - GASH (copy)**
 
@@ -36,8 +32,6 @@ All Grain
 Batch Volume: **23 L**
 
 Boil Time: **60** min
-
-
 
 Mash Water: **20 L**
 
@@ -48,8 +42,6 @@ Total Water: **35.48 L**
 Boil Volume: **30.08 L**
 
 Pre-Boil Gravity: **1.049**
-
-
 
 ### Vitals
 
@@ -63,15 +55,11 @@ BU/GU: **0.41**
 
 Colour: **8.1 EBC** 
 
-
-
 ### Mash
 
 Strike Temp — **72.6 °C**
 
 Temperature — **67 °C** — **60 min**
-
-
 
 ### Malts **(6 kg)**
 
@@ -83,15 +71,11 @@ Temperature — **67 °C** — **60 min**
 
 **500 g** (7.8%) — Weyermann Carapils/Carafoam — Grain — 3.9 EBC
 
-
-
 ### Other **(450 g)**
 
 **300 g** (4.7%) — Briess Dextrose — Sugar — 2 EBC
 
 **150 g** (2.3%) — Milk Sugar (Lactose) — Sugar — 0 EBC
-
-
 
 ### Hops **(275 g)**
 
@@ -110,8 +94,6 @@ Temperature — **67 °C** — **60 min**
 \
 Hopstand at **85 °C**
 
-
-
 ### Miscs
 
 **7 g** — Calcium Chloride (CaCl2) — **Mash**
@@ -120,23 +102,15 @@ Hopstand at **85 °C**
 
 **4 ml** — Lactic Acid 88% — **Mash**
 
-
-
 ### Yeast
 
 **1 pkg** — Bluestone Yeast Co. **BSY-A011** New England (Bluestone) 74%
-
-
 
 ### Fermentation
 
 Primary — **20 °C** — **5 PSI** — **10 days**
 
-
-
 Carbonation: **2.4 CO2-vol**
-
-
 
 ### Water Profile
 
@@ -145,8 +119,8 @@ Carbonation: **2.4 CO2-vol**
 44 Na+\
 168 Cl-\
 72 SO42-\
-117 HCO3-
-
-
+117 HCO3-\
+\
+<https://bluestoneyeast.com.au/#1544733601028-6962cdb2-fbda>
 
 <!--EndFragment-->
