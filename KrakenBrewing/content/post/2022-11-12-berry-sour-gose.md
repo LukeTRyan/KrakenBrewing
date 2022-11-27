@@ -1,13 +1,7 @@
 ---
-title: Berry Sour (Gose)
+title: Blackberry Sour (Gose)
 date: 2022-11-12T13:33:06.876Z
-tags:
-  - Berry
-  - Sour
-  - Ale
-  - Gose
-  - all-grain
-  - fruity
+tags: List [ "Blackberry", "Sour", "Ale", "Gose", "all-grain", "fruity" ]
 ---
 G﻿oing ahead with another fruited sour using the Philly Sour yeast. This time I think I'll do a mix of darker fruits (Blackberry, Cherry & Raspberry) and see how that goes. Like my last sour, I've added some lactose to counteract the sourness. I also added some dextrose to the boil to give the yeast some glucose for lactic acid production. I'll probably add the fruit around day 5-6, purge with some c02 and leave for 3-4 days until fermentation finishes.
 
@@ -21,11 +15,7 @@ Recipe by
 
 **Luke Ryan**
 
-
-
 All Grain
-
-
 
 ### **BrewZilla 35L - March 2020 - GASH (copy)**
 
@@ -34,8 +24,6 @@ All Grain
 Batch Volume: **23 L**
 
 Boil Time: **60** min
-
-
 
 Mash Water: **20 L**
 
@@ -46,8 +34,6 @@ Total Water: **34.58 L**
 Boil Volume: **30.08 L**
 
 Pre-Boil Gravity: **1.044**
-
-
 
 ### Vitals
 
@@ -61,15 +47,11 @@ IBU (Tinseth): **0**
 
 Colour: **6.5 EBC** 
 
-
-
 ### Mash
 
 Strike Temp — **69.5 °C**
 
 Temperature — **65 °C** — **60 min**
-
-
 
 ### Malts **(5 kg)**
 
@@ -78,8 +60,6 @@ Temperature — **65 °C** — **60 min**
 **2.25 kg** (26.3%) — Gladfield Wheat Malt — Grain — 4.2 EBC — Mash
 
 **500 g** (5.9%) — Oats, Flaked — Grain — 2 EBC — Mash
-
-
 
 ### Other **(3.55 kg)**
 
@@ -93,8 +73,6 @@ Temperature — **65 °C** — **60 min**
 
 **200 g** (2.3%) — Briess Dextrose — Sugar — 2 EBC
 
-
-
 ### Miscs
 
 **2 g** — Calcium Chloride (CaCl2) — **Mash**
@@ -103,23 +81,15 @@ Temperature — **65 °C** — **60 min**
 
 **6 ml** — Lactic Acid 88% — **Mash**
 
-
-
 ### Yeast
 
 **1 pkg** — Lallemand (LalBrew) Philly Sour 75%
-
-
 
 ### Fermentation
 
 Primary — **19 °C** — **10 days**
 
-
-
 Carbonation: **2.4 CO2-vol**
-
-
 
 ### Water Profile
 
@@ -131,3 +101,7 @@ Carbonation: **2.4 CO2-vol**
 117 HCO3- 
 
 <!--EndFragment-->
+
+### N﻿otes
+
+\-﻿Beer finished up really well with a great amount of sourness and a slight sweetness from the lactose. FG finished a bit lower than expected around 1.013, but still tastes very good and not too thin. Ended up having a few extra bottles due to the liquid added from the blackberries (these are being conditioned now).
