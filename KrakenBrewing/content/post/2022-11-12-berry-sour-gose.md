@@ -108,8 +108,8 @@ Carbonation: **2.4 CO2-vol**
 
 <!--EndFragment-->
 
-### N﻿otes
+### Notes
 
-\-﻿Beer finished up really well with a great amount of sourness and a slight sweetness from the lactose. FG finished a bit lower than expected around 1.013, but still tastes very good and not too thin. Ended up having a few extra bottles due to the liquid added from the blackberries (these are being conditioned now).
+-Beer finished up really well with a great amount of sourness and a slight sweetness from the lactose. FG finished a bit lower than expected around 1.013, but still tastes very good and not too thin. Ended up having a few extra bottles due to the liquid added from the blackberries (these are being conditioned now).
 
 -Next time, I'd probably add a touch more lactose, as this one finished fairly sour due to the blackberries. Nevertheless, this turned out to be a great, refreshing summer sour.
