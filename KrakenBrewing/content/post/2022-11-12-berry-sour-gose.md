@@ -99,11 +99,11 @@ Carbonation: **2.4 CO2-vol**
 
 ### Water Profile
 
-55 Ca2+\
-15 Mg2+\
-44 Na+\
-101 Cl-\
-57 SO42-\
+55 Ca2+
+15 Mg2+
+44 Na+
+101 Cl-
+57 SO42-
 117 HCO3- 
 
 <!--EndFragment-->
