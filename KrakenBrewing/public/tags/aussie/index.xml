@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aussie on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/aussie/</link>
+    <description>Recent content in Aussie on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Sun, 22 May 2022 23:02:31 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/aussie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aussie Sparkling Ale</title>
+      <link>https://krakenbrewing.netlify.app/post/2022-05-22-aussie-sparkling-ale/</link>
+      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2022-05-22-aussie-sparkling-ale/</guid>
+      <description>I decided to make a basic Australian Ale after having some bad luck with hazy, hoppy beers oxidising. Hoppy Days Brewing Supplies had this recipe for a Sparkling Ale, reminiscent of Coopers Sparkling Ale. This beer makes use of Australian malts (Voyager Pale Compass) and Australian hops (Pride of Ringwood) for a boil addition. Yeast used was SafAle k-97, a traditional german ale yeast.
+Sparkling Ale HOPPY DAYS BREWING SUPPLIES</description>
+    </item>
+    
+  </channel>
+</rss>
