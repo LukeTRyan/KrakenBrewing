@@ -1,8 +1,16 @@
 ---
 title: "Stone & Wood Clone #3"
 date: 2022-12-27T22:25:14.337Z
-tags: List [ "Stone&Wood", "Clone", "StoneWood", "Pacific", "Ale", "Galaxy",
-  "All Grain" ]
+tags:
+  - Stone&Wood
+  - Clone
+  - StoneWood
+  - Pacific
+  - Ale
+  - Galaxy
+  - All Grain
+  - Hoppy
+  - Hazy
 ---
 I﻿n an effort to refine the Stone & Wood clone from [this ](https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/)post, I've updated the recipe based on the results and inspiration from other sources (see link in notes). For the new batch, I'm adding some flaked wheat to add some more haze, and i'm lowering the percentage of ale malt. I'm also switching to american ale malt, in order to get a lighter colour. Finally, I'm increasing the dry hop to 100g and maintaining IBUs at around 22. I'm also experimenting with ascorbic acid (vitamin C) and sodium metabisulfite (SMB) during the dry hop, in an effort to reduce oxidation.
 
