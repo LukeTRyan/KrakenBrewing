@@ -23,50 +23,94 @@ Time for another sour! This time it's going to be Mango, utilising 3kg of mango 
 
 \- Water profile will be Brisbane water with 2g calcium sulfate, 2g calcium chloride and total 19ml of lactic acid to reach 4.4pH.
 
-**Mango Sour**
+<!--StartFragment-->
 
-Brew Method: All Grain\
-Style Name: Fruit Beer\
-Boil Time: 45 min\
-Batch Size: 25 liters (fermentor volume) + Fruit volume\
-Boil Size: 28 liters\
-Boil Gravity:   \
-Efficiency:
+## **Mango Sour (Gose)**
 
-**STATS**:\
-Original Gravity: 1.044\
-Final Gravity: 1.011\
-ABV (standard): 5.5% (incorporating fermented mango ABV)\
-Mash pH: 4.4
+<https://web.brewfather.app/share/zk94AiXpDVpOq6>
 
-**FERMENTABLES:**\
-2.25 kg - Pilsner Malt (45%)\
-2.25 kg - Wheat Malt (45%)\
-500g - Flaked Oats (10%)
+5.6% / 13 °P
 
-**MASH GUIDELINES:**
+Recipe by
 
-1. Strike, Temp: 66 C, Time: 60 min, Amount: 20 L
-2. Sparge, Temp: 24 C, Amount: 14L
+**Luke Ryan**
 
-**OTHER INGREDIENTS:**\
-6 ml - Lactic acid, Time: 0 min, Type: Water Agt, Use: Mash\
-13 ml - Lactic acid, Time: 0 min, Type; Water Agt, Use: Post-mash\
-3 kg - Mango Puree, Time: 3 days, Type: Other, Use: Primary\
-1 each - Whirlfloc, Time: 10 min, Type: Water Agt, Use: Boil
+All Grain
 
-**YEAST:** Fermentis / Safale - American Ale Yeast US-05\
-Starter: No\
-Form: Dry\
-Attenuation (avg): 81%\
-Flocculation: Medium\
-Optimum Temp: 12.22 - 25 C\
-Fermentation Temp: 18 C\
-Pitch Rate: 0.35 (M cells / ml / deg P)
+### **BrewZilla 35L - March 2020 - GASH (copy)**
 
-**PRIMING:**\
-Method: co2\
-CO2 Level: 2.5 Volumes
+**72%** efficiency
+
+Batch Volume: **23 L**
+
+Boil Time: **60** min
+
+Mash Water: **20 L**
+
+Sparge Water: **14.58 L** **@** 76 °C
+
+Total Water: **34.58 L**
+
+Boil Volume: **30.08 L**
+
+Pre-Boil Gravity: **1.044**
+
+### Vitals
+
+Original Gravity: **1.049**
+
+Total Gravity: **1.053**
+
+Final Gravity: **1.010**
+
+IBU (Tinseth): **0**
+
+Colour: **6.3 EBC** 
+
+### Mash
+
+Strike Temp — **69.5 °C**
+
+Temperature — **65 °C** — **60 min**
+
+### Malts **(5 kg)**
+
+**2.25 kg** (28.1%) — Gladfield Pilsner Malt — Grain — 3.7 EBC — Mash
+
+**2.25 kg** (28.1%) — Gladfield Wheat Malt — Grain — 4.2 EBC — Mash
+
+**500 g** (6.3%) — Oats, Flaked — Grain — 2 EBC — Mash
+
+### Other **(3 kg)**
+
+**3 kg** (37.5%) — Mango (Fruit) — Other — 0 EBC — Primary
+
+### Miscs
+
+**2 g** — Calcium Chloride (CaCl2) — **Mash**
+
+**2 g** — Gypsum (CaSO4) — **Mash**
+
+**6 ml** — Lactic Acid 88% — **Mash**
+
+### Yeast
+
+**1 pkg** — Fermentis **US-05** Safale American 81%
+
+### Fermentation
+
+Primary — **19 °C** — **10 days**
+
+Carbonation: **2.4 CO2-vol**
+
+### Water Profile
+
+55 Ca2+\
+15 Mg2+\
+44 Na+\
+101 Cl-\
+57 SO42-\
+117 HCO3-
 
 **TARGET WATER PROFILE:**\
 Profile Name: Brisbane Sour\
@@ -91,4 +135,5 @@ Water Notes: Brisbane tap water treated with campden tablets, 2g calcium sulfate
 -fermented for 5 days, added 3kg of Mango puree (with invert sugar syrup).\
 \
 -FG - 1.011, kegged on 4/5/21\
--During closed transfer the spigot got clogged with the mango bag, forcing me to switch to an open transfer with auto-siphon.
+-During closed transfer the spigot got clogged with the mango bag, forcing me to switch to an open transfer with auto-siphon.\
+<!--EndFragment-->
