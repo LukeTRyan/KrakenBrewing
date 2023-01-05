@@ -2,7 +2,7 @@
 title: Pavlova Sour (Christmas Sour) (Vanilla Passionfruit Gose)
 date: 2021-11-13T23:35:06.428Z
 comments: true
-tags: 
+tags:
   - Sour
   - Gose
   - Passionfruit
@@ -12,10 +12,11 @@ tags:
   - Kettle
   - All Grain
 ---
-### \
 This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I'm using Lallemand's Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I'm interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions. I'm fermenting at 23c, as a higher temperature supposedly encourages greater lactic acid production. As for the additions, I'm adding 2kg of frozen Passionfruit Pulp from Hoppy Days Brewing Supplies in Brisbane. I'm also adding about 10ml of Vanilla Extract and 250g of Lactose to the boil (to counteract the sourness of the passionfruit and lactic acid). I'm aiming for a pH of around 3.3 and a FG of about 1.015, to give an ABV of approximately 5.4%.
 
 ## **Christmas Sour (Pavlova Sour)**
+
+<https://share.brewfather.app/pFEw493pXrxdsr>
 
 5.3% / 13.8 °P
 
@@ -103,10 +104,9 @@ Carbonation: **2.4 CO2-vol**
 
 ### Water Profile
 
-Ca2+\
- 71Mg2+\
- 6Na+\
- 9Cl-\
- 61SO42-\
- 113HCO3-\
- 22
+71 Ca2+\
+6 Mg2+\
+9 Na+\
+61 Cl-\
+113 SO42-\
+22 HCO3-
