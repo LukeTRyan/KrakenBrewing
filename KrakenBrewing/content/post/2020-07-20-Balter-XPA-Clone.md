@@ -4,8 +4,13 @@ subtitle: null
 date: 2020-07-20
 comments: true
 tags:
+  - Balter
   - XPA
   - Clone
+  - Recipe
+  - Ale
+  - All grain
+  - Hoppy
 ---
 This beer was designed to clone Balter's XPA and be close as possible to the original. The head brewers released the hops they used, but not the grains or yeast. The clone grist consisted primarily of American Pale malt with some wheat and carapils for body/head retention and some cara malt for malty flavour. The water profile was higher in calcium and suflate to accentuate the hops, of which were primarily citrus/fruity. Mash was mid 60's to increase fermentable sugar content and produce a semi-dry beer using US-05.  
 
