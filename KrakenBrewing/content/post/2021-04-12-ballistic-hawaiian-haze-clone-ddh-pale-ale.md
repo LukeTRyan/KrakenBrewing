@@ -26,9 +26,9 @@ For my next clone, I'm going to attempt to replicate Ballistic Brewing's "Hawaii
 **Yeast**\
 -Preferably liquid yeast from white labs. 
 
-<https://web.brewfather.app/tabs/recipes/recipe/nm8swmLHl13IErJhtnyOPUA5RedLuK>
-
 ## **Ballistic Hawaiian Haze Clone (DDH Pale Ale)**
+
+<https://share.brewfather.app/R95nHnUos93nrW>
 
 American Pale Ale
 
@@ -38,11 +38,7 @@ Recipe by
 
 **Luke Ryan**
 
-
-
 All Grain
-
-
 
 ### **BrewZilla 35L - March 2020 - GASH (copy)**
 
@@ -51,8 +47,6 @@ All Grain
 Batch Volume: **23 L**
 
 Boil Time: **60** min
-
-
 
 Mash Water: **20 L**
 
@@ -63,8 +57,6 @@ Total Water: **34.58 L**
 Boil Volume: **30.08 L**
 
 Pre-Boil Gravity: **1.044**
-
-
 
 ### Vitals
 
@@ -78,15 +70,11 @@ BU/GU: **0.63**
 
 Colour: **6.3 EBC** 
 
-
-
 ### Mash
 
 Strike Temp — **69.5 °C**
 
 Temperature — **65 °C** — **60 min**
-
-
 
 ### Malts **(5 kg)**
 
@@ -97,8 +85,6 @@ Temperature — **65 °C** — **60 min**
 **500 g** (10%) — Oats, Flaked — Grain — 2 EBC
 
 **500 g** (10%) — Wheat Flaked — Grain — 3.2 EBC
-
-
 
 ### Hops **(200 g)**
 
@@ -123,8 +109,6 @@ Temperature — **65 °C** — **60 min**
 \
 Hopstand at **85 °C**
 
-
-
 ### Miscs
 
 **8 g** — Calcium Chloride (CaCl2) — **Mash**
@@ -133,32 +117,23 @@ Hopstand at **85 °C**
 
 **4 ml** — Lactic Acid 88% — **Mash**
 
-
-
 ### Yeast
 
 **1 pkg** — White Labs **WLP066** London Fog Ale 82%
-
-
 
 ### Fermentation
 
 Primary — **19 °C** — **10 days**
 
-
-
 Carbonation: **2.4 CO2-vol**
-
-
 
 ### Water Profile
 
-Ca2+\
- 116Mg2+\
- 15Na+\
- 44Cl-\
- 185SO42-\
- 90HCO3-\
- 117
+116 Ca2+\
+15 Mg2+\
+44 Na+\
+185 Cl-\
+90 SO42-\
+117 HCO3-
 
 <!--EndFragment-->
