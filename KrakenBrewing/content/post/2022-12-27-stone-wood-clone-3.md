@@ -20,6 +20,8 @@ The updated recipe can be found here.
 
 ## **Stone & Wood Clone #3**
 
+<https://share.brewfather.app/r365ypi3HRHZ0K>
+
 American Wheat Beer
 
 4.9% / 11.6 °P
@@ -66,8 +68,6 @@ Strike Temp — **71.6 °C**
 
 Temperature — **67 °C** — **60 min**
 
-
-
 ### Malts **(4.85 kg)**
 
 **2.5 kg** (51.6%) — Gladfield Malt Gladfield American Ale Malt — Grain — 5 EBC
@@ -88,29 +88,21 @@ Temperature — **67 °C** — **60 min**
 \
 Hopstand at **85 °C**
 
-
-
 ### Miscs
 
 **10 g** — Gypsum (CaSO4) — **Mash**
 
 **4 ml** — Lactic Acid 88% — **Mash**
 
-
-
 ### Yeast
 
 **1 pkg** — Fermentis **US-05** Safale American 80%
-
-
 
 ### Fermentation
 
 Primary — **18 °C** — **10 days**
 
 Carbonation: **2.4 CO2-vol**
-
-
 
 ### Water Profile
 
@@ -120,8 +112,6 @@ Carbonation: **2.4 CO2-vol**
 73 Cl-\
 187 SO42-\
 117 HCO3-
-
-
 
 <!--EndFragment-->
 
