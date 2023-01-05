@@ -25,9 +25,9 @@ Other notes:
 
 <!--StartFragment-->
 
-https://share.brewfather.app/vypPxwWiLWSbOz
-
 ## **Mango Lassi Sour**
+
+<https://share.brewfather.app/vypPxwWiLWSbOz>
 
 5.5% / 15.2 °P
 
