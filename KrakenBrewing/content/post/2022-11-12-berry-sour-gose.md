@@ -1,12 +1,12 @@
 ---
 title: Blackberry Sour (Gose)
 date: 2022-11-12T13:33:06.876Z
-tags: 
-  - Blackberry 
-  - Sour 
-  - Ale 
-  - Gose 
-  - all-grain 
+tags:
+  - Blackberry
+  - Sour
+  - Ale
+  - Gose
+  - all-grain
   - fruity
 ---
 Going ahead with another fruited sour using the Philly Sour yeast. This time I think I'll do a mix of darker fruits (Blackberry, Cherry & Raspberry) and see how that goes. Like my last sour, I've added some lactose to counteract the sourness. I also added some dextrose to the boil to give the yeast some glucose for lactic acid production. I'll probably add the fruit around day 5-6, purge with some c02 and leave for 3-4 days until fermentation finishes.
@@ -14,6 +14,8 @@ Going ahead with another fruited sour using the Philly Sour yeast. This time I t
 <!--StartFragment-->
 
 ## **Berry Sour (Gose)**
+
+<https://share.brewfather.app/u6si9ZRdOEEJ8U>
 
 5.9% / 15.2 °P
 
@@ -110,6 +112,6 @@ Carbonation: **2.4 CO2-vol**
 
 ### Notes
 
--Beer finished up really well with a great amount of sourness and a slight sweetness from the lactose. FG finished a bit lower than expected around 1.013, but still tastes very good and not too thin. Ended up having a few extra bottles due to the liquid added from the blackberries (these are being conditioned now).
+\-Beer finished up really well with a great amount of sourness and a slight sweetness from the lactose. FG finished a bit lower than expected around 1.013, but still tastes very good and not too thin. Ended up having a few extra bottles due to the liquid added from the blackberries (these are being conditioned now).
 
--Next time, I'd probably add a touch more lactose, as this one finished fairly sour due to the blackberries. Nevertheless, this turned out to be a great, refreshing summer sour.
+\-Next time, I'd probably add a touch more lactose, as this one finished fairly sour due to the blackberries. Nevertheless, this turned out to be a great, refreshing summer sour.
