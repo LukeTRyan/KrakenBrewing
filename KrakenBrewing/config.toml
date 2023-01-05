@@ -10,7 +10,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 disqusShortname = "https-krakenbrewing-netlify-app"
-#googleAnalytics = "G-0XPCRBQFPW"
+googleAnalytics = "G-0XPCRBQFPW"
 
 
 [Params]
