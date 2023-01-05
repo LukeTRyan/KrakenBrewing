@@ -14,10 +14,9 @@ The inspiration for this beer came from a night several years ago when I was wor
 
 After my research, I concluded on using additions of fresh orange peel, dried chamomile flowers and crushed coriander seed. I also chose to use Saaz hops for the bittering addition, as these are fairly old noble hops and true to the style with the spice character. I chose to go with Lallemand's Belgian Wit yeast, as it's an accessible and neutral dry yeast.
 
-\
-https://share.brewfather.app/DiHMrWyURR1kiO
-
 ## **Witbier**
+
+<https://share.brewfather.app/DiHMrWyURR1kiO>
 
 4.7% / 11.4 °P
 
