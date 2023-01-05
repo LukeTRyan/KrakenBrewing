@@ -15,6 +15,8 @@ D﻿ecided to have another crack at a hoppy hazy with this recipe from some dude
 
 ## **Safe Bet NEIPA**
 
+<https://share.brewfather.app/Cuoxq37buNEoNW>
+
 Hazy IPA
 
 6.0% / 14.9 °P
@@ -120,8 +122,6 @@ Carbonation: **2.4 CO2-vol**
 168 Cl-\
 72 SO42-\
 117 HCO3-
-
-
 
 ### N﻿otes
 
