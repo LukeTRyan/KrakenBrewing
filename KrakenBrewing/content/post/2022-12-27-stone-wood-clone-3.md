@@ -125,3 +125,5 @@ Carbonation: **2.4 CO2-vol**
 <https://old.reddit.com/r/Homebrewing/comments/1064rbg/reason_why_wort_is_darker_than_expected/>
 
 ![Dark pacific ale](/img/zk55jwx.jpeg "Dark pacific ale")
+
+![](/img/20230110_064513.jpg)
