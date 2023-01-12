@@ -1,7 +1,13 @@
 ---
 title: Valuable Life Lesson Learned on Using Pressurised Fermenters
 date: 2023-01-12T00:53:53.424Z
-tags: Pressure fermentation pressure-transfer closed-transfer ferment pressurised
+tags: 
+  - Pressure 
+  - fermentation 
+  - pressure-transfer 
+  - closed-transfer 
+  - ferment 
+  - pressurised
 ---
 I﻿ learned a valuable life lesson yesterday - If you're dealing with pressurised vessels or containers, make sure there is something in place to stop it rapidly depressurising.
 
