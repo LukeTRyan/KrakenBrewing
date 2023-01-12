@@ -5,4 +5,4 @@ tags: pressure fermentation closed-transfer pressure-transfer
 ---
 I﻿ learned a valuable life lesson yesterday - If you're dealing with pressurised vessels or containers, make sure there is something in place to stop it rapidly depressurising.
 
-Y﻿esterday, I noticed that my pressure ferment of my Stone and Wood clone (lin
+Y﻿esterday, I noticed that my pressure ferment of my Stone and Wood clone (link [here](https://krakenbrewing.netlify.app/post/2022-12-27-stone-wood-clone-3/)
