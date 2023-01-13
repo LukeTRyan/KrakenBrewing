@@ -127,3 +127,12 @@ Carbonation: **2.4 CO2-vol**
 ![Dark pacific ale](/img/zk55jwx.jpeg "Dark pacific ale")
 
 ![](/img/20230110_064513.jpg)
+
+
+
+**1﻿3/01/2022**\
+-Yesterday was interesting. When attempting to find a leak in my fermenter, I stupidly took the safety collar off and applied too much pressure. It exploded, hit me in the face and now my eye socket is swollen. I definitely learnt my lesson, more about that [here](https://krakenbrewing.netlify.app/post/2023-01-12-valuable-life-lesson-learned-on-using-pressurised-fermenters/)
+
+T﻿oday, I added the dry hop charge of 100g Galaxy. I noticed, as the yeast activity is starting to die down, the beer is darkening again. I'm mostly thinking it's just clarified a bit, and the colour will remain pale when in the glass in a smaller volume. For reference, here is what it's looking like post-ferment:
+
+![](/img/325273111_1830171490669729_1470237824637573110_n.jpg)
