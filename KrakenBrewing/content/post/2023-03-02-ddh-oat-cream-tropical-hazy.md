@@ -1,8 +1,18 @@
 ---
 title: DDH Oat Cream Tropical Hazy
 date: 2023-03-01T22:58:23.504Z
-tags: Oat-cream, Tropical, Hazy, IPA, Ale, All-grain, Nectaron, BRU-1, El
-  Dorado, NEIPA, Hoppy
+tags: 
+  - Oat-cream
+  - Tropical
+  - Hazy
+  - IPA
+  - Ale
+  - All-grain
+  - Nectaron
+  - BRU-1
+  - El Dorado
+  - NEIPA
+  - Hoppy
 ---
 A﻿fter my last pacific/wheat ale, and success using sodium metabisulfite and ascorbic acid, I've decided to take another crack at a Hazy IPA. This beer will feature Nectaron, which I'm trying for the first time, as well as BRU-1 and El Dorado, which I've had good results with in the past. As with my other Hazies, I'm aiming for a 2:1 chloride to sulfate ratio, heavy whirlpool and dry hop additions, and I'm looking to reduce oxidation as much as possible. I'll be closed transferring under pressure and using SMB and ascorbic acid at my terminal dry hop.
 
