@@ -1,5 +1,5 @@
 ---
-title: DDH Oat Cream Tropical Hazy
+title: DDH Oat Cream Tropical Hazy IPA
 date: 2023-03-01T22:58:23.504Z
 tags:
   - Oat-cream
@@ -159,3 +159,8 @@ Carbonation: **2.4 CO2-vol**
 -Cold crash on second dry hop
 
 <!--EndFragment-->
+
+### Brew Notes
+
+\-﻿Brewed and pitched on 05/03/2023\
+-﻿Everything went great, hit every measurement perfectly which was surprising. Only negative was that I somehow forgot to put my false bottom in the Brewzilla, so I ended up clogging the pump with whirlpool hops and had to transfer to the fermenter via the tap. Hopefully, due to all that hop matter in the fermenter early on, it won't attribute too much astringency or other off flavours.
