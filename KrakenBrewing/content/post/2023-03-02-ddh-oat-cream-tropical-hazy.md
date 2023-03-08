@@ -164,3 +164,11 @@ Carbonation: **2.4 CO2-vol**
 
 \-﻿Brewed and pitched on 05/03/2023\
 -﻿Everything went great, hit every measurement perfectly which was surprising. Only negative was that I somehow forgot to put my false bottom in the Brewzilla, so I ended up clogging the pump with whirlpool hops and had to transfer to the fermenter via the tap. Hopefully, due to all that hop matter in the fermenter early on, it won't attribute too much astringency or other off flavours.
+
+![](/img/334902586_5808077045956201_3657578876839232093_n.jpg)
+
+\
+**0﻿8/03/2023**\
+-﻿Added the first dry hop addition at high krausen. The yeast was going nuts, so I put about 2-3psi to minimise risk of krausen in the blowoff tube. I noticed a small leak in the lid when adding the dry hops so I changed out the gasket (O ring), hopefully this helps. In the future I might have to get a new lid as I noticed there's a small divot, and this may be contributing to the leak. Overall, the beer looks and smells great so far, I'm keen to get this into a keg.
+
+![](/img/334916328_1272466740013523_3762451688034654627_n.jpg)
