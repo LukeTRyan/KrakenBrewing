@@ -1,7 +1,14 @@
 ---
 title: Vanilla Milk Chocolate Stout
 date: 2023-04-22T05:28:04.595Z
-tags: "Vanilla Milk Chocolate Stout Dark Ale Coffee "
+tags:
+  - Vanilla
+  - Milk
+  - Chocolate
+  - Stout
+  - Dark
+  - Ale
+  - Coffee
 ---
 I﻿t's been a few years since I've done a stout, and winters coming up, so I thought I'd give it another crack. The last stout I made was a [coffee chocolate stout](https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/), which used cold-brew coffee and cacao nibs soaked in congac. It was pretty good, but I wanted to do something different this time. I'll be keeping a similar grain bill and hops (Fuggles), but I'll be adding lactose to round out the bitterness, and I'll also be adding cacao nibs and 2 vanilla beans. These should add the vanilla and chocolate notes i'm after.
 
