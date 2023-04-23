@@ -1,7 +1,16 @@
 ---
 title: Strubarb Sour (Strawberry Rhubarb Gose)
 date: 2023-04-23T06:30:59.867Z
-tags: "strawbarb sour strawberry rhubarb sour ale fruited citra "
+tags: 
+  - Strawbarb
+  - Sour
+  - Strawberry
+  - Rhubarb
+  - Sour
+  - Ale
+  - Fruited
+  - Citra
+  - Gose
 ---
 W﻿ith this beer, I wanted to return to the first sour I ever made, [a strawberry sour](https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/). It was not long after covid had started, and I was spending a lot of time indoors as my workplace at the time (a bar) was frequently shut due to lockdowns. I remember spending hours and hours researching souring techniques and methods, and eventually made my first kettle sour. It was a beer I was extremely proud of, because all the effort of planning and research paid off. 
 
