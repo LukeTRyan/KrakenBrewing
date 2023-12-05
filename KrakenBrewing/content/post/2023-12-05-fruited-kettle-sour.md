@@ -1,16 +1,27 @@
 ---
 title: Fruited Kettle Sour
 date: 2023-12-05T22:03:59.299Z
-tags: ale all-grain sour gose fruit strawberry fruity fruit-beer citra
-  lactobacillus lacto kettle
+tags: 
+  - ale
+  - all-grain
+  - sour
+  - gose
+  - fruit
+  - strawberry
+  - fruity
+  - fruit-beer
+  - citra
+  - lactobacillus
+  - lacto
+  - kettle
 ---
-S﻿ummer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it's a lot less effort than kettle sours and produces similar results. However, I'm strapped for time given I want this beer done by Christmas, and Philly Sour isn't really an option, so I'm going back to my kettle-sour roots.
+Summer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it's a lot less effort than kettle sours and produces similar results. However, I'm strapped for time given I want this beer done by Christmas, and Philly Sour isn't really an option, so I'm going back to my kettle-sour roots.
 
-I﻿'ll be mashing this beer as usual, and then boiling briefly to kill off any unwanted bacteria or yeast. I'll then pre-acidify the wort to 4.5ph to give the Lactobacillus a favourable environment for reproduction. 
+I'll be mashing this beer as usual, and then boiling briefly to kill off any unwanted bacteria or yeast. I'll then pre-acidify the wort to 4.5ph to give the Lactobacillus a favourable environment for reproduction. 
 
-A﻿s with my first kettle-sour, I'll be using Lactobacillus Plantarum in the form of IBS pills from Chemist Warehouse. These contain about 20 billion cells per capsule, which means I'll need about 7-8 to get in the desired 150 billion cell range. I'll sour the beer in the Brewzilla for about 24-48 hours, and constantly monitor the change in pH while trying to avoid oxidation. In the past, I've used Lactobacillus Plantarum solely, as it produces clean and consistent results without any unwanted funk. 
+As with my first kettle-sour, I'll be using Lactobacillus Plantarum in the form of IBS pills from Chemist Warehouse. These contain about 20 billion cells per capsule, which means I'll need about 7-8 to get in the desired 150 billion cell range. I'll sour the beer in the Brewzilla for about 24-48 hours, and constantly monitor the change in pH while trying to avoid oxidation. In the past, I've used Lactobacillus Plantarum solely, as it produces clean and consistent results without any unwanted funk. 
 
-A﻿fter souring, I'll boil for 45 minutes, add in 25g of Citra as a whirlpool hop, and then ferment as usual with 2 packets of Safale US-05. I'll add 3kg of fruit after 5 days (probably strawberry), then cold crash and pressure transfer into a keg. 
+After souring, I'll boil for 45 minutes, add in 25g of Citra as a whirlpool hop, and then ferment as usual with 2 packets of Safale US-05. I'll add 3kg of fruit after 5 days (probably strawberry), then cold crash and pressure transfer into a keg. 
 
 ## **Fruited Kettle Sour**
 
