@@ -1,7 +1,7 @@
 ---
 title: Fruited Kettle Sour
 date: 2023-12-05T22:03:59.299Z
-tags: 
+tags:
   - ale
   - all-grain
   - sour
@@ -33,8 +33,6 @@ Straight Sour Beer
 
 All Grain
 
-
-
 ### **BrewZilla 35L**
 
 **72%** efficiency
@@ -42,8 +40,6 @@ All Grain
 Batch Volume: **23 L**
 
 Boil Time: **60** min
-
-
 
 Mash Water: **20 L**
 
@@ -54,8 +50,6 @@ Total Water: **34.58 L**
 Boil Volume: **30.08 L**
 
 Pre-Boil Gravity: **1.044**
-
-
 
 ### Vitals
 
@@ -71,15 +65,11 @@ BU/GU: **0.12**
 
 Colour: **6.5 EBC** 
 
-
-
 ### Mash
 
 Strike Temp — **69.5 °C**
 
 Temperature — **65 °C** — **60 min**
-
-
 
 ### Malts **(5 kg)**
 
@@ -89,8 +79,6 @@ Temperature — **65 °C** — **60 min**
 
 **500 g** (8.9%) — Oats, Flaked — Grain — 2 EBC — Mash
 
-
-
 ### Other **(3.6 kg)**
 
 **400 g** (7.1%) — Milk Sugar (Lactose) — Sugar — 0 EBC — Boil
@@ -98,8 +86,6 @@ Temperature — **65 °C** — **60 min**
 **200 g** (3.6%) — Briess Dextrose — Sugar — 2 EBC
 
 **3 kg** — Strawberry (Fruit) — Other — 0 EBC — Primary
-
-
 
 ### Hops **(25 g)**
 
@@ -115,23 +101,17 @@ Temperature — **65 °C** — **60 min**
 
 **10 ml** — Lactic Acid 88%— **(Pre-acidify)**
 
-
-
 ### Yeast
 
 **150 billion cells** — Lactobacillus Plantarum
 
 **2 pkg** — Fermentis **US-05** Safale American 81%
 
-
-
 ### Fermentation
 
 Primary — **19 °C** — **10 days**
 
 Carbonation: **2.4 CO2-vol**
-
-
 
 ### Water Profile
 
@@ -153,7 +133,7 @@ HCO3- 117
 
 ### R﻿esources
 
-<https://www.chemistwarehouse.com.au/buy/49531/inner-health-ibs-support-probiotic-30-capsules-fridge-line?gad_source=1&gclid=Cj0KCQiAsburBhCIARIsAExmsu4nrn0w4pLg-Y2sJjIukuiYCHoL7W1STlsuh836MOP9KsMmu5AzRL4aAsX2EALw_wcB&gclsrc=aw.ds>[I﻿BS Pills](https://www.chemistwarehouse.com.au/buy/49531/inner-health-ibs-support-probiotic-30-capsules-fridge-line?gad_source=1&gclid=Cj0KCQiAsburBhCIARIsAExmsu4nrn0w4pLg-Y2sJjIukuiYCHoL7W1STlsuh836MOP9KsMmu5AzRL4aAsX2EALw_wcB&gclsrc=aw.ds)
+[I﻿BS Pills](https://www.chemistwarehouse.com.au/buy/49531/inner-health-ibs-support-probiotic-30-capsules-fridge-line?gad_source=1&gclid=Cj0KCQiAsburBhCIARIsAExmsu4nrn0w4pLg-Y2sJjIukuiYCHoL7W1STlsuh836MOP9KsMmu5AzRL4aAsX2EALw_wcB&gclsrc=aw.ds)
 
 [P﻿revious kettle sour post](https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/)
 
