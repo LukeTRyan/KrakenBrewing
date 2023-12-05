@@ -25,6 +25,8 @@ After souring, I'll boil for 45 minutes, add in 25g of Citra as a whirlpool hop,
 
 ## **Fruited Kettle Sour**
 
+<https://share.brewfather.app/hCdX42hB2VgXqs>
+
 **Luke Ryan**
 
 Straight Sour Beer
