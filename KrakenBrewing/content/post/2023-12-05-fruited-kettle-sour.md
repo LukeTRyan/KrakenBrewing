@@ -25,6 +25,8 @@ After souring, I'll boil for 45 minutes, add in 25g of Citra as a whirlpool hop,
 
 ## **Fruited Kettle Sour**
 
+<https://share.brewfather.app/hCdX42hB2VgXqs>
+
 **Luke Ryan**
 
 Straight Sour Beer
@@ -123,9 +125,9 @@ SO42- 57\
 HCO3- 117
 
 \-Mash as usual at 65-66c, with 5ml lactic acid added to wort \
--Boil wort for 15 minutes -Cool to 32-33c \
+-Boil wort for 15 minutes -Cool to 35c \
 -Add 7-8 capsules (opened) of Lactobacillus Plantarum (20b cells each, in the form of IBS pills) \
--Cover to avoid oxidation, maintain 31-32c for 48 hours until pH of 3.3 is reached \
+-Cover to avoid oxidation, maintain 35c for 48 hours until pH of 3.3 is reached \
 -Boil for 45 minutes -Add whirlpool hops \
 -Ferment as usual with 2 packets of US-05 \
 -Add fruit after 5 days \
