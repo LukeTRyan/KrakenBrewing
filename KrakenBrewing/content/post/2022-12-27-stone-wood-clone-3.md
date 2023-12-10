@@ -20,7 +20,7 @@ The updated recipe can be found here.
 
 ## **Stone & Wood Clone #3**
 
-<https://share.brewfather.app/r365ypi3HRHZ0K>
+[L﻿ink](https://share.brewfather.app/r365ypi3HRHZ0K)
 
 American Wheat Beer
 
