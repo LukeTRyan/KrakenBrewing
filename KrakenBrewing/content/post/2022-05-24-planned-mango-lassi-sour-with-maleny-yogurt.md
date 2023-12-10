@@ -27,7 +27,7 @@ Other notes:
 
 ## **Mango Lassi Sour**
 
-<https://share.brewfather.app/vypPxwWiLWSbOz>
+[L﻿ink](https://share.brewfather.app/vypPxwWiLWSbOz)
 
 5.5% / 15.2 °P
 
@@ -140,5 +140,4 @@ Ca2+\
 
 <!--EndFragment-->
 
-\
-https://www.lallemandbrewing.com/en/canada/product-details/wildbrew-philly-sour/
+[Wildbrew Philly Sour Yeast](https://www.lallemandbrewing.com/en/canada/product-details/wildbrew-philly-sour/)
