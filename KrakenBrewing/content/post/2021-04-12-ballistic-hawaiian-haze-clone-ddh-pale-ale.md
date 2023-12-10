@@ -28,7 +28,7 @@ For my next clone, I'm going to attempt to replicate Ballistic Brewing's "Hawaii
 
 ## **Ballistic Hawaiian Haze Clone (DDH Pale Ale)**
 
-<https://share.brewfather.app/R95nHnUos93nrW>
+[R﻿ecipe Link](https://share.brewfather.app/R95nHnUos93nrW)
 
 American Pale Ale
 
