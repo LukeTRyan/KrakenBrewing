@@ -141,8 +141,6 @@ HCO3- 117
 
 [K﻿ettle-sour resource](https://www.milkthefunk.com/wiki/Main_Page)
 
-
-
 ### Brew Notes
 
 \-﻿Pre-boil pH was 4.55 (10ml of lactic acid 88%)\
@@ -153,12 +151,12 @@ HCO3- 117
 -﻿OG was about 1.048\
 -Fermentation started slow, but kicked off strong after about 24 hours. I was meant to pitch 2 packets of US-05 but accidentally ordered 1. Would definitely do 2 next time, with pH this low.
 
-![](/img/20231207_113309.jpg)
+![Initial Boil](/img/20231207_113309.jpg "Initial Boil")
 
-![](/img/20231207_151342.jpg)
+![Started souring](/img/20231207_151342.jpg "Started souring")
 
-![](/img/20231208_140419.jpg)
+![pH after 24 hours](/img/20231208_140419.jpg "pH after 24 hours")
 
-![](/img/20231208_144057.jpg)
+![After souring](/img/20231208_144057.jpg "After souring")
 
-![](/img/20231210_090610.jpg)
+![Fermentation started](/img/20231210_090610.jpg "Fermentation started")
