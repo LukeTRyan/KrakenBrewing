@@ -19,9 +19,9 @@ This time around, i’m going to be partly designing my own recipe for a coffee 
 -2.5 volumes of C02
 
 \
-https://www.brewersfriend.com/homebrew/recipe/view/917889/coffee-stout\
-https://byo.com/article/american-stout-style-profile/\
-https://www.bertusbrewery.com/2016/04/chocolate-coffee-stout-2-0.html  
+[Coffee stout](https://www.brewersfriend.com/homebrew/recipe/view/917889/coffee-stout)\
+[A﻿merican stout](https://byo.com/article/american-stout-style-profile/)\
+[Chocolate coffee stout](https://www.bertusbrewery.com/2016/04/chocolate-coffee-stout-2-0.html)
 
 **Grain Bill**\
 In the end I decided on a 6kg grain bill to give an ABV of approximately 6% given the fermenter volume. The grain bill consisted of:\
