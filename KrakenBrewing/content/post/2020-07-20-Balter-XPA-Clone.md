@@ -16,7 +16,7 @@ This beer was designed to clone Balter's XPA and be close as possible to the ori
 
 **Balter XPA Clone**  
 
-https://www.brewersfriend.com/homebrew/recipe/view/682142/balter-xpa-clone  
+[R﻿ecipe link](https://www.brewersfriend.com/homebrew/recipe/view/682142/balter-xpa-clone)
 
 Brew Method: All Grain\
 Style Name: American Pale Ale\
@@ -89,7 +89,5 @@ Brewed on 21/7/2020
 ![3 Keg](/img/3keg.jpg "3 Keg")
 
 ![Brew](/img/balterxpa.jpg "Brew")
-
-
 
 ![XPA Clone](/img/xpaclone.jpg "XPA Clone")
