@@ -19,7 +19,7 @@ A﻿fter my last pacific/wheat ale, and success using sodium metabisulfite and a
 T﻿his recipe features a grain bill of 20% oats, comprised of flaked oats, malted oats and golden oats. The recipe also has about 30% wheat malt and 50% american ale malt, to reduce toastiness/maltiness and let the hops shine. \
 I﻿'ll be using Verdant IPA yeast and aim to pitch at 20c and free rise to 22c. For the dry hops, I'll be double dry hopping, once at high krausen and once at terminal gravity, when I will slowly cold crash and then transfer to a purged keg.
 
-https://share.brewfather.app/c2TDLhEyXHVUcN
+[Link](https://share.brewfather.app/c2TDLhEyXHVUcN)
 
 ![](https://firebasestorage.googleapis.com/v0/b/brewfather-app.appspot.com/o/users%2Fwgftoi3oQrQJsh17ROMqxlLyOzh1%2Fimages%2Frecipes%2FyAPVrMW3kziILRTwHg7PdqBTIoTi0e%2Fimg%40640-yAPVrMW3kziILRTwHg7PdqBTIoTi0e.jpeg?alt=media&token=1f89cc64-c9b6-46cc-8a59-3c5d596cfc91)
 
@@ -172,10 +172,6 @@ Carbonation: **2.4 CO2-vol**
 -﻿Added the first dry hop addition at high krausen. The yeast was going nuts, so I put about 2-3psi to minimise risk of krausen in the blowoff tube. I noticed a small leak in the lid when adding the dry hops so I changed out the gasket (O ring), hopefully this helps. In the future I might have to get a new lid as I noticed there's a small divot, and this may be contributing to the leak. Overall, the beer looks and smells great so far, I'm keen to get this into a keg.
 
 ![](/img/334916328_1272466740013523_3762451688034654627_n.jpg)
-
-
-
-
 
 **2﻿4/03/2023**\
 -﻿Wow this beer turned out great. After just over 1 week in the keg, this beer is beautifully golden, has solid mango, nectarine, peach and pineapple flavours and very beautiful consistency and colour. I couldn't be happier with how this turned out, and how little oxidation is present so far. I think the ascorbic acid and sodium metabisulfite really helps control stability and shelf life, especially at a small scale. 
