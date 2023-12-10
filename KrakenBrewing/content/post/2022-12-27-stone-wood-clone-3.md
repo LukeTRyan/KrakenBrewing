@@ -117,12 +117,14 @@ Carbonation: **2.4 CO2-vol**
 
 ### Notes
 
-<https://www.biralleebrewing.com/2022/08/stone-wood-pacific-ale-clone.html>
+[A﻿nother clone resource](<https://www.biralleebrewing.com/2022/08/stone-wood-pacific-ale-clone.html>)
 
 **0﻿8/01/2022**\
 -﻿Brewed this batch today - everything went pretty well in terms of the conversion efficiency, OG and wort volume. I tried mashing out for the first time, as this was something I'd never done before and had seen that it's good practice to do. I did notice though that after sparging, the beer appeared very dark (given the light malts used). After some research, this is likely due to coagulating proteins in the mash, as this particular grain bill is fairly heavy in wheat. A﻿lso, mashing for longer tends to produce darker beers, as the wort has more contact time with the grains. Some people also mentioned that mash pH and calcium presence can affect the colour, but as I calculated the water and used all the correct additions, I don't think this is the cause.  After boiling, the colour returned and the brew looked normal, but after transferring into the fermenter (pre-yeast pitch) it looked very dark again. I added a whirfloc tablet during the boil, so this may also contribute to the protein coagulation and the darkened beer/extra clarity i'm noticing. Research says to just let it ride and see how it looks at the end, but if it's still darker in appearance, I may need to do further research or tweak my process for lighter, hazier beers. Overall though, the brew went really well and was pretty efficient. I do need to trim the hose length on my immersion chiller though, as the long ass hoses are getting annoying.\
-<https://craftbeerclub.com/blog/post/what-influences-beer-color>\
-<https://old.reddit.com/r/Homebrewing/comments/1064rbg/reason_why_wort_is_darker_than_expected/>
+\
+[W﻿hat influences beer colour? ](https://craftbeerclub.com/blog/post/what-influences-beer-color)\
+[](https://old.reddit.com/r/Homebrewing/comments/1064rbg/reason_why_wort_is_darker_than_expected/)\
+[R﻿eason beer is darker than expected](https://old.reddit.com/r/Homebrewing/comments/1064rbg/reason_why_wort_is_darker_than_expected/)
 
 ![Dark pacific ale](/img/zk55jwx.jpeg "Dark pacific ale")
 
