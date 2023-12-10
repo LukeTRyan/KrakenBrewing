@@ -15,7 +15,7 @@ D﻿ecided to have another crack at a hoppy hazy with this recipe from some dude
 
 ## **Safe Bet NEIPA**
 
-<https://share.brewfather.app/Cuoxq37buNEoNW>
+[L﻿ink](https://share.brewfather.app/Cuoxq37buNEoNW)
 
 Hazy IPA
 
@@ -129,6 +129,6 @@ Carbonation: **2.4 CO2-vol**
 
 \-In terms of taste, this beer was bang on with low bitterness, beautiful golden haze, and heaps of tropical fruit taste and aroma (mango, pinapple and peach were noted). The body was spot on due to the lactose and heavy wheat/oat additions, with just a touch of sweetness to counteract the mild bitterness. The yeast performed very well at creating a mid-attenuated, fully body NEIPA with a great clean taste and aroma. 
 
-<https://bluestoneyeast.com.au/#1544733601028-6962cdb2-fbda>
+[B﻿luestone Yeast](https://bluestoneyeast.com.au/#1544733601028-6962cdb2-fbda)
 
 <!--EndFragment-->
