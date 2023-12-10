@@ -16,7 +16,7 @@ This Passionfruit and Vanilla sour was the next sour ale I had lined up in my li
 
 ## **Christmas Sour (Pavlova Sour)**
 
-<https://share.brewfather.app/pFEw493pXrxdsr>
+[L﻿ink](https://share.brewfather.app/pFEw493pXrxdsr)
 
 5.3% / 13.8 °P
 
