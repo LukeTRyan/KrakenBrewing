@@ -27,7 +27,7 @@ Time for another sour! This time it's going to be Mango, utilising 3kg of mango 
 
 ## **Mango Sour (Gose)**
 
-<https://web.brewfather.app/share/zk94AiXpDVpOq6>
+[L﻿ink](https://web.brewfather.app/share/zk94AiXpDVpOq6)
 
 5.6% / 13 °P
 
@@ -136,4 +136,5 @@ Water Notes: Brisbane tap water treated with campden tablets, 2g calcium sulfate
 \
 -FG - 1.011, kegged on 4/5/21\
 -During closed transfer the spigot got clogged with the mango bag, forcing me to switch to an open transfer with auto-siphon.\
+
 <!--EndFragment-->

@@ -15,7 +15,7 @@ Going ahead with another fruited sour using the Philly Sour yeast. This time I t
 
 ## **Berry Sour (Gose)**
 
-<https://share.brewfather.app/u6si9ZRdOEEJ8U>
+[L﻿ink](https://share.brewfather.app/u6si9ZRdOEEJ8U)
 
 5.9% / 15.2 °P
 

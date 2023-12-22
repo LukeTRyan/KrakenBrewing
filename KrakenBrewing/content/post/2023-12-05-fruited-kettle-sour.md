@@ -25,7 +25,7 @@ After souring, I'll boil for 45 minutes, add in 25g of Citra as a whirlpool hop,
 
 ## **Fruited Kettle Sour**
 
-<https://share.brewfather.app/hCdX42hB2VgXqs>
+[Link](https://share.brewfather.app/hCdX42hB2VgXqs)
 
 **Luke Ryan**
 
@@ -140,3 +140,23 @@ HCO3- 117
 [P﻿revious kettle sour post](https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/)
 
 [K﻿ettle-sour resource](https://www.milkthefunk.com/wiki/Main_Page)
+
+### Brew Notes
+
+\-﻿Pre-boil pH was 4.55 (10ml of lactic acid 88%)\
+-﻿Added 200g of dextrose to boil\
+-﻿Boiled for 15 minutes, cooled to 37c then pitched 120 billion cells of Lactobacillus Plantarum (IBS pills)\
+-﻿Within 24 hours, the pH was 3.25\
+-﻿Boiled for another 45 minutes, added 300g of lactose and added some whirlpool Citra hops \
+-﻿OG was about 1.048\
+-Fermentation started slow, but kicked off strong after about 24 hours. I was meant to pitch 2 packets of US-05 but accidentally ordered 1. Would definitely do 2 next time, with pH this low.
+
+![Initial Boil](/img/20231207_113309.jpg "Initial Boil")
+
+![Started souring](/img/20231207_151342.jpg "Started souring")
+
+![pH after 24 hours](/img/20231208_140419.jpg "pH after 24 hours")
+
+![After souring](/img/20231208_144057.jpg "After souring")
+
+![Fermentation started](/img/20231210_090610.jpg "Fermentation started")
