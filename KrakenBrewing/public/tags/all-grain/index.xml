@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All Grain on Kraken Brewing</title>
+    <title>All grain on Kraken Brewing</title>
     <link>https://krakenbrewing.netlify.app/tags/all-grain/</link>
-    <description>Recent content in All Grain on Kraken Brewing</description>
+    <description>Recent content in All grain on Kraken Brewing</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
     <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Sat, 12 Nov 2022 13:33:06 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/all-grain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 22:03:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/all-grain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fruited Kettle Sour</title>
+      <link>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</guid>
+      <description>Summer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it&amp;rsquo;s a lot less effort than kettle sours and produces similar results. However, I&amp;rsquo;m strapped for time given I want this beer done by Christmas, and Philly Sour isn&amp;rsquo;t really an option, so I&amp;rsquo;m going back to my kettle-sour roots.</description>
+    </item>
+    
+    <item>
+      <title>DDH Oat Cream Tropical Hazy IPA</title>
+      <link>https://krakenbrewing.netlify.app/post/2023-03-02-ddh-oat-cream-tropical-hazy/</link>
+      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2023-03-02-ddh-oat-cream-tropical-hazy/</guid>
+      <description>A﻿fter my last pacific/wheat ale, and success using sodium metabisulfite and ascorbic acid, I&amp;rsquo;ve decided to take another crack at a Hazy IPA. This beer will feature Nectaron, which I&amp;rsquo;m trying for the first time, as well as BRU-1 and El Dorado, which I&amp;rsquo;ve had good results with in the past. As with my other Hazies, I&amp;rsquo;m aiming for a 2:1 chloride to sulfate ratio, heavy whirlpool and dry hop additions, and I&amp;rsquo;m looking to reduce oxidation as much as possible.</description>
+    </item>
+    
+    <item>
+      <title>Stone &amp; Wood Clone #3</title>
+      <link>https://krakenbrewing.netlify.app/post/2022-12-27-stone-wood-clone-3/</link>
+      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2022-12-27-stone-wood-clone-3/</guid>
+      <description>I﻿n an effort to refine the Stone &amp;amp; Wood clone from this post, I&amp;rsquo;ve updated the recipe based on the results and inspiration from other sources (see link in notes). For the new batch, I&amp;rsquo;m adding some flaked wheat to add some more haze, and i&amp;rsquo;m lowering the percentage of ale malt. I&amp;rsquo;m also switching to american ale malt, in order to get a lighter colour. Finally, I&amp;rsquo;m increasing the dry hop to 100g and maintaining IBUs at around 22.</description>
+    </item>
+    
     <item>
       <title>Blackberry Sour (Gose)</title>
       <link>https://krakenbrewing.netlify.app/post/2022-11-12-berry-sour-gose/</link>
@@ -51,7 +78,16 @@ Sparkling Ale HOPPY DAYS BREWING SUPPLIES</description>
       <pubDate>Sat, 13 Nov 2021 23:35:06 +0000</pubDate>
       <author>luketryan95@gmail.com (Luke Ryan)</author>
       <guid>https://krakenbrewing.netlify.app/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</guid>
-      <description>\ This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I&amp;rsquo;m using Lallemand&amp;rsquo;s Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I&amp;rsquo;m interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions.</description>
+      <description>This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I&amp;rsquo;m using Lallemand&amp;rsquo;s Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I&amp;rsquo;m interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions.</description>
+    </item>
+    
+    <item>
+      <title>Balter XPA Clone</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</guid>
+      <description>This beer was designed to clone Balter&amp;rsquo;s XPA and be close as possible to the original. The head brewers released the hops they used, but not the grains or yeast. The clone grist consisted primarily of American Pale malt with some wheat and carapils for body/head retention and some cara malt for malty flavour. The water profile was higher in calcium and suflate to accentuate the hops, of which were primarily citrus/fruity.</description>
     </item>
     
   </channel>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipe on Kraken Brewing</title>
+    <link>https://krakenbrewing.netlify.app/tags/recipe/</link>
+    <description>Recent content in Recipe on Kraken Brewing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
+    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balter XPA Clone</title>
+      <link>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <author>luketryan95@gmail.com (Luke Ryan)</author>
+      <guid>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</guid>
+      <description>This beer was designed to clone Balter&amp;rsquo;s XPA and be close as possible to the original. The head brewers released the hops they used, but not the grains or yeast. The clone grist consisted primarily of American Pale malt with some wheat and carapils for body/head retention and some cara malt for malty flavour. The water profile was higher in calcium and suflate to accentuate the hops, of which were primarily citrus/fruity.</description>
+    </item>
+    
+  </channel>
+</rss>
