@@ -1,8 +1,19 @@
 ---
 title: Hazy Crusher (DDH Session NEIPA)
 date: 2023-12-27T05:05:21.404Z
-tags: List [ "Hoppy", "Days", "Hazy", "Crusher", "Session", "NEIPA", "IPA", "All
-  Grain", "Juicy", "Citra", "Centennial", "Idaho", "DDH" ]
+tags: 
+  - Hoppy
+  - Hazy
+  - Session
+  - NEIPA
+  - IPA
+  - All-Grain
+  - Juicy
+  - Citra
+  - Centennial
+  - Idaho
+  - DDH
+  - Ale
 ---
 I think this is my 3rd time making this beer, and I'm making it again because I think it's great hazy ale. In the past, I've had issues around oxidation for these hoppy and oaty beers, but now I'm at a comfortable place with controlling oxidation through use of preservatives and techniques like closed transfers. When I ordered this beer, I could only get a hold of golden oat malt, which I decided to use. Due to that, the beer ended up a bit darker than I had hoped, but the taste was actually pretty damn good.
 

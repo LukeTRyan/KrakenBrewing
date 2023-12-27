@@ -1,8 +1,18 @@
 ---
 title: Tips to avoid oxidation in homebrewed beer
 date: 2023-12-27T05:30:15.416Z
-tags: "Oxidation homebrew ale hoppy hops closed transfer pressure preservative
-  SMB sodium-metabisulfite ascorbic acid "
+tags: 
+  - Oxidation
+  - homebrew
+  - ale
+  - Hoppy
+  - hops
+  - closed-transfer
+  - pressure
+  - preservative
+  - SMB
+  - sodium-metabisulfite
+  - ascorbic-acid
 ---
 # T﻿ips to avoid oxidation in homebrew
 
