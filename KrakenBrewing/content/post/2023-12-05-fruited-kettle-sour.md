@@ -151,6 +151,10 @@ HCO3- 117
 -﻿OG was about 1.048\
 -Fermentation started slow, but kicked off strong after about 24 hours. I was meant to pitch 2 packets of US-05 but accidentally ordered 1. Would definitely do 2 next time, with pH this low.
 
+### Result
+
+This beer turned out great! It reminded me of the very first kettle sour I made, which was pretty much the exact same recipe. It has a nice clean profile, low bitterness and not a crazy amount of sourness. The strawberry flavour is strong and fresh with minimal funkiness. I definitely prefer the taste of kettle sours over using Wildbrew Philly Sour, but it's also a lot more effort and more time-consuming. Overall, this was a very successful beer!
+
 ![Initial Boil](/img/20231207_113309.jpg "Initial Boil")
 
 ![Started souring](/img/20231207_151342.jpg "Started souring")
@@ -160,3 +164,5 @@ HCO3- 117
 ![After souring](/img/20231208_144057.jpg "After souring")
 
 ![Fermentation started](/img/20231210_090610.jpg "Fermentation started")
+
+![](/img/img_20231226_182843_939.jpg)
