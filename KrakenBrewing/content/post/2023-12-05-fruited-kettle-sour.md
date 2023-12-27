@@ -160,3 +160,5 @@ HCO3- 117
 ![After souring](/img/20231208_144057.jpg "After souring")
 
 ![Fermentation started](/img/20231210_090610.jpg "Fermentation started")
+
+![](/img/img_20231226_182843_939.jpg)
