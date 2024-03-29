@@ -1,17 +1,28 @@
 ---
-title: Cryo Pop Hazy Pale Ale (bracket brewing clone)
+title: Cryo Pop Hazy Pale Ale (Bracket Brewing Clone)
 date: 2024-03-29T03:33:33.816Z
-tags: Cryo pop TRI2304CR hazy pale ale hoppy motueka idaho all-grain verdant ipa
+tags: 
+  - Cryo-pop
+  - TRI2304CR 
+  - hazy 
+  - pale 
+  - ale 
+  - hoppy 
+  - motueka 
+  - idaho 
+  - all-grain 
+  - verdant 
+  - ipa
 ---
-F﻿or this brew I'm trying out cryo hops for the first time in this [Bracket Brewing "Insert Name" hazy pale ale](https://untappd.com/b/bracket-brewing-insert-name/5250659). This recipe was adapted from a homebrewer who queried bracket brewing on their hazy pale ale recipe.
+For this brew I'm trying out cryo hops for the first time in this [Bracket Brewing "Insert Name" hazy pale ale](https://untappd.com/b/bracket-brewing-insert-name/5250659). This recipe was adapted from a homebrewer who queried bracket brewing on their hazy pale ale recipe.
 
-T﻿he grain bill for this beer is mostly pale malt, with a huge 30% of rolled oats and about 5% honey malt to give colour and a slightly sweeter/malty finish.
+The grain bill for this beer is mostly pale malt, with a huge 30% of rolled oats and about 5% honey malt to give colour and a slightly sweeter/malty finish.
 
-T﻿he hops for this beer are Motueka, Idaho7 and [Cryo Pop](https://cryopopblend.com/), previously known as trial blend TRI2304CR. Recent research suggests that high levels of monoterpene alcohols and polyfunctional thiols in a wort stream can create the conditions necessary for the yeast metabolism of hop-derived compounds, otherwise known as “biotransformation.” This hop blend has been developed to make use of briotransformation and to work as both a single hop or in conjunction with other tropical hop varietals. 
+The hops for this beer are Motueka, Idaho#7 and [Cryo Pop](https://cryopopblend.com/), previously known as trial blend TRI2304CR. Recent research suggests that high levels of monoterpene alcohols and polyfunctional thiols in a wort stream can create the conditions necessary for the yeast metabolism of hop-derived compounds, otherwise known as “biotransformation.” This hop blend has been developed to make use of briotransformation and to work as both a single hop or in conjunction with other tropical hop varietals. 
 
-T﻿he yeast I've chosen is Verdant IPA, as it's easily available and I'm able to ferment it at higher temperatures to make use of fruity esters. I've had great results with Verdant in the past with hazy beers, so I'm confident it will do well here.
+The yeast I've chosen is Verdant IPA, as it's easily available and I'm able to ferment it at higher temperatures to make use of fruity esters. I've had great results with Verdant in the past with hazy beers, so I'm confident it will do well here.
 
-A﻿s with all my hoppy and hazy beers these days, I'll be fermenting under pressure towards the end of fermentation, and closed transferring to a keg that will be purged with the fermentation cO2. 
+As with all my hoppy and hazy beers these days, I'll be fermenting under pressure towards the end of fermentation, and closed transferring to a keg that will be purged with the fermentation cO2. 
 
 ## **DDH Pale - Bracket Brewing Clone**
 
