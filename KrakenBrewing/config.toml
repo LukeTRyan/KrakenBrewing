@@ -9,7 +9,9 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-disqusShortname = "https-krakenbrewing-netlify-app"
+[services]
+[services.disqus]
+shortname = "https-krakenbrewing-netlify-app"
 googleAnalytics = "G-0XPCRBQFPW"
 
 
@@ -22,7 +24,7 @@ googleAnalytics = "G-0XPCRBQFPW"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
-  comments = true
+  comments = false
   readingTime = false
   wordCount = true
   useHLJS = true
