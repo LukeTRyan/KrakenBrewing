@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blackberry on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/blackberry/</link>
+    <link>http://localhost:1313/tags/blackberry/</link>
     <description>Recent content in Blackberry on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Sat, 12 Nov 2022 13:33:06 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/blackberry/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Nov 2022 13:33:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blackberry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blackberry Sour (Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-11-12-berry-sour-gose/</link>
+      <link>http://localhost:1313/post/2022-11-12-berry-sour-gose/</link>
       <pubDate>Sat, 12 Nov 2022 13:33:06 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-11-12-berry-sour-gose/</guid>
-      <description>Going ahead with another fruited sour using the Philly Sour yeast. This time I think I&amp;rsquo;ll do a mix of darker fruits (Blackberry, Cherry &amp;amp; Raspberry) and see how that goes. Like my last sour, I&amp;rsquo;ve added some lactose to counteract the sourness. I also added some dextrose to the boil to give the yeast some glucose for lactic acid production. I&amp;rsquo;ll probably add the fruit around day 5-6, purge with some c02 and leave for 3-4 days until fermentation finishes.</description>
+      <guid>http://localhost:1313/post/2022-11-12-berry-sour-gose/</guid>
+      <description>&lt;p&gt;Going ahead with another fruited sour using the Philly Sour yeast. This time I think I&amp;rsquo;ll do a mix of darker fruits (Blackberry, Cherry &amp;amp; Raspberry) and see how that goes. Like my last sour, I&amp;rsquo;ve added some lactose to counteract the sourness. I also added some dextrose to the boil to give the yeast some glucose for lactic acid production. I&amp;rsquo;ll probably add the fruit around day 5-6, purge with some c02 and leave for 3-4 days until fermentation finishes.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,803 +2,760 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Tue, 05 Dec 2023 22:03:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Mar 2024 03:33:33 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ale</title>
-      <link>https://krakenbrewing.netlify.app/tags/ale/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/ale/</guid>
+      <link>http://localhost:1313/tags/ale/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ale/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>All grain</title>
-      <link>https://krakenbrewing.netlify.app/tags/all-grain/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/all-grain/</guid>
+      <title>All-Grain</title>
+      <link>http://localhost:1313/tags/all-grain/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/all-grain/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Citra</title>
-      <link>https://krakenbrewing.netlify.app/tags/citra/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/citra/</guid>
+      <title>British</title>
+      <link>http://localhost:1313/tags/british/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/british/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Fruit</title>
-      <link>https://krakenbrewing.netlify.app/tags/fruit/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/fruit/</guid>
+      <title>Brown-Ale</title>
+      <link>http://localhost:1313/tags/brown-ale/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brown-ale/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Fruit Beer</title>
-      <link>https://krakenbrewing.netlify.app/tags/fruit-beer/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/fruit-beer/</guid>
+      <title>Cascade</title>
+      <link>http://localhost:1313/tags/cascade/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cascade/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Fruity</title>
-      <link>https://krakenbrewing.netlify.app/tags/fruity/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/fruity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gose</title>
-      <link>https://krakenbrewing.netlify.app/tags/gose/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/gose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kettle</title>
-      <link>https://krakenbrewing.netlify.app/tags/kettle/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/kettle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lacto</title>
-      <link>https://krakenbrewing.netlify.app/tags/lacto/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/lacto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lactobacillus</title>
-      <link>https://krakenbrewing.netlify.app/tags/lactobacillus/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/lactobacillus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sour</title>
-      <link>https://krakenbrewing.netlify.app/tags/sour/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/sour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strawberry</title>
-      <link>https://krakenbrewing.netlify.app/tags/strawberry/</link>
-      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/strawberry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fruited</title>
-      <link>https://krakenbrewing.netlify.app/tags/fruited/</link>
-      <pubDate>Sun, 23 Apr 2023 06:30:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/fruited/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rhubarb</title>
-      <link>https://krakenbrewing.netlify.app/tags/rhubarb/</link>
-      <pubDate>Sun, 23 Apr 2023 06:30:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/rhubarb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strawbarb</title>
-      <link>https://krakenbrewing.netlify.app/tags/strawbarb/</link>
-      <pubDate>Sun, 23 Apr 2023 06:30:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/strawbarb/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Chocolate</title>
-      <link>https://krakenbrewing.netlify.app/tags/chocolate/</link>
-      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/chocolate/</guid>
+      <link>http://localhost:1313/tags/chocolate/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chocolate/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Coffee</title>
-      <link>https://krakenbrewing.netlify.app/tags/coffee/</link>
-      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/coffee/</guid>
+      <title>Cryo-Pop</title>
+      <link>http://localhost:1313/tags/cryo-pop/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cryo-pop/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Dark</title>
-      <link>https://krakenbrewing.netlify.app/tags/dark/</link>
-      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/dark/</guid>
+      <title>Dark-Ale</title>
+      <link>http://localhost:1313/tags/dark-ale/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dark-ale/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>Milk</title>
-      <link>https://krakenbrewing.netlify.app/tags/milk/</link>
-      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/milk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stout</title>
-      <link>https://krakenbrewing.netlify.app/tags/stout/</link>
-      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/stout/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vanilla</title>
-      <link>https://krakenbrewing.netlify.app/tags/vanilla/</link>
-      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/vanilla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BRU-1</title>
-      <link>https://krakenbrewing.netlify.app/tags/bru-1/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/bru-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>El Dorado</title>
-      <link>https://krakenbrewing.netlify.app/tags/el-dorado/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/el-dorado/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Hazy</title>
-      <link>https://krakenbrewing.netlify.app/tags/hazy/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/hazy/</guid>
+      <link>http://localhost:1313/tags/hazy/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hazy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hoppy</title>
-      <link>https://krakenbrewing.netlify.app/tags/hoppy/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/hoppy/</guid>
+      <link>http://localhost:1313/tags/hoppy/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hoppy/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>IPA</title>
-      <link>https://krakenbrewing.netlify.app/tags/ipa/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/ipa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nectaron</title>
-      <link>https://krakenbrewing.netlify.app/tags/nectaron/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/nectaron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NEIPA</title>
-      <link>https://krakenbrewing.netlify.app/tags/neipa/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/neipa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oat-cream</title>
-      <link>https://krakenbrewing.netlify.app/tags/oat-cream/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/oat-cream/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tropical</title>
-      <link>https://krakenbrewing.netlify.app/tags/tropical/</link>
-      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/tropical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Closed Transfer</title>
-      <link>https://krakenbrewing.netlify.app/tags/closed-transfer/</link>
-      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/closed-transfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ferment</title>
-      <link>https://krakenbrewing.netlify.app/tags/ferment/</link>
-      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/ferment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fermentation</title>
-      <link>https://krakenbrewing.netlify.app/tags/fermentation/</link>
-      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/fermentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pressure</title>
-      <link>https://krakenbrewing.netlify.app/tags/pressure/</link>
-      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/pressure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pressure Transfer</title>
-      <link>https://krakenbrewing.netlify.app/tags/pressure-transfer/</link>
-      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/pressure-transfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pressurised</title>
-      <link>https://krakenbrewing.netlify.app/tags/pressurised/</link>
-      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/pressurised/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clone</title>
-      <link>https://krakenbrewing.netlify.app/tags/clone/</link>
-      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/clone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Galaxy</title>
-      <link>https://krakenbrewing.netlify.app/tags/galaxy/</link>
-      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/galaxy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pacific</title>
-      <link>https://krakenbrewing.netlify.app/tags/pacific/</link>
-      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/pacific/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>StoneWood</title>
-      <link>https://krakenbrewing.netlify.app/tags/stonewood/</link>
-      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/stonewood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2023</title>
-      <link>https://krakenbrewing.netlify.app/tags/2023/</link>
-      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pacific Ale</title>
-      <link>https://krakenbrewing.netlify.app/tags/pacific-ale/</link>
-      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/pacific-ale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pale Ale</title>
-      <link>https://krakenbrewing.netlify.app/tags/pale-ale/</link>
-      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/pale-ale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saison</title>
-      <link>https://krakenbrewing.netlify.app/tags/saison/</link>
-      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/saison/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMASH</title>
-      <link>https://krakenbrewing.netlify.app/tags/smash/</link>
-      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/smash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blackberry</title>
-      <link>https://krakenbrewing.netlify.app/tags/blackberry/</link>
-      <pubDate>Sat, 12 Nov 2022 13:33:06 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/blackberry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>belgian</title>
-      <link>https://krakenbrewing.netlify.app/tags/belgian/</link>
-      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/belgian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>citrus</title>
-      <link>https://krakenbrewing.netlify.app/tags/citrus/</link>
-      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/citrus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spice</title>
-      <link>https://krakenbrewing.netlify.app/tags/spice/</link>
-      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/spice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wheat</title>
-      <link>https://krakenbrewing.netlify.app/tags/wheat/</link>
-      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/wheat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>white</title>
-      <link>https://krakenbrewing.netlify.app/tags/white/</link>
-      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/white/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>witbier</title>
-      <link>https://krakenbrewing.netlify.app/tags/witbier/</link>
-      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/witbier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Berliner Weisse</title>
-      <link>https://krakenbrewing.netlify.app/tags/berliner-weisse/</link>
-      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/berliner-weisse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brouhaha</title>
-      <link>https://krakenbrewing.netlify.app/tags/brouhaha/</link>
-      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/brouhaha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lassi</title>
-      <link>https://krakenbrewing.netlify.app/tags/lassi/</link>
-      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/lassi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maleny</title>
-      <link>https://krakenbrewing.netlify.app/tags/maleny/</link>
-      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/maleny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mango</title>
-      <link>https://krakenbrewing.netlify.app/tags/mango/</link>
-      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/mango/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yogurt</title>
-      <link>https://krakenbrewing.netlify.app/tags/yogurt/</link>
-      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/yogurt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aussie</title>
-      <link>https://krakenbrewing.netlify.app/tags/aussie/</link>
-      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/aussie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Australian</title>
-      <link>https://krakenbrewing.netlify.app/tags/australian/</link>
-      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/australian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitter</title>
-      <link>https://krakenbrewing.netlify.app/tags/bitter/</link>
-      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/bitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crisp</title>
-      <link>https://krakenbrewing.netlify.app/tags/crisp/</link>
-      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/crisp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dry</title>
-      <link>https://krakenbrewing.netlify.app/tags/dry/</link>
-      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/dry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Session</title>
-      <link>https://krakenbrewing.netlify.app/tags/session/</link>
-      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/session/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparkling Ale</title>
-      <link>https://krakenbrewing.netlify.app/tags/sparkling-ale/</link>
-      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/sparkling-ale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Centennial</title>
-      <link>https://krakenbrewing.netlify.app/tags/centennial/</link>
-      <pubDate>Fri, 07 Jan 2022 03:07:22 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/centennial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crusher</title>
-      <link>https://krakenbrewing.netlify.app/tags/crusher/</link>
-      <pubDate>Fri, 07 Jan 2022 03:07:22 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/crusher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Days</title>
-      <link>https://krakenbrewing.netlify.app/tags/days/</link>
-      <pubDate>Fri, 07 Jan 2022 03:07:22 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/days/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Idaho</title>
-      <link>https://krakenbrewing.netlify.app/tags/idaho/</link>
-      <pubDate>Fri, 07 Jan 2022 03:07:22 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/idaho/</guid>
+      <link>http://localhost:1313/tags/idaho/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/idaho/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Juicy</title>
-      <link>https://krakenbrewing.netlify.app/tags/juicy/</link>
-      <pubDate>Fri, 07 Jan 2022 03:07:22 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/juicy/</guid>
+      <title>Ipa</title>
+      <link>http://localhost:1313/tags/ipa/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ipa/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Lactose</title>
-      <link>https://krakenbrewing.netlify.app/tags/lactose/</link>
-      <pubDate>Sat, 13 Nov 2021 23:35:06 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/lactose/</guid>
+      <title>Motueka</title>
+      <link>http://localhost:1313/tags/motueka/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/motueka/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Passionfruit</title>
-      <link>https://krakenbrewing.netlify.app/tags/passionfruit/</link>
-      <pubDate>Sat, 13 Nov 2021 23:35:06 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/passionfruit/</guid>
+      <title>Pale</title>
+      <link>http://localhost:1313/tags/pale/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pale/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Ballistic</title>
-      <link>https://krakenbrewing.netlify.app/tags/ballistic/</link>
-      <pubDate>Mon, 12 Apr 2021 03:18:37 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/ballistic/</guid>
+      <title>Rakau</title>
+      <link>http://localhost:1313/tags/rakau/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rakau/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>DDH</title>
-      <link>https://krakenbrewing.netlify.app/tags/ddh/</link>
-      <pubDate>Mon, 12 Apr 2021 03:18:37 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/ddh/</guid>
+      <title>Toffee</title>
+      <link>http://localhost:1313/tags/toffee/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/toffee/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Cloudy</title>
-      <link>https://krakenbrewing.netlify.app/tags/cloudy/</link>
-      <pubDate>Fri, 30 Oct 2020 02:03:24 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/cloudy/</guid>
+      <title>TRI2304CR</title>
+      <link>http://localhost:1313/tags/tri2304cr/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tri2304cr/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Raspberry</title>
-      <link>https://krakenbrewing.netlify.app/tags/raspberry/</link>
-      <pubDate>Fri, 21 Aug 2020 09:07:15 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/raspberry/</guid>
+      <title>Us-05</title>
+      <link>http://localhost:1313/tags/us-05/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/us-05/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Brew Bucket</title>
-      <link>https://krakenbrewing.netlify.app/tags/brew-bucket/</link>
-      <pubDate>Thu, 20 Aug 2020 02:55:41 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/brew-bucket/</guid>
+      <title>Verdant</title>
+      <link>http://localhost:1313/tags/verdant/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/tags/verdant/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Brewtech</title>
-      <link>https://krakenbrewing.netlify.app/tags/brewtech/</link>
-      <pubDate>Thu, 20 Aug 2020 02:55:41 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/brewtech/</guid>
+      <title>Ascorbic-Acid</title>
+      <link>http://localhost:1313/tags/ascorbic-acid/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ascorbic-acid/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Closed-Transfer</title>
+      <link>http://localhost:1313/tags/closed-transfer/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/closed-transfer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homebrew</title>
+      <link>http://localhost:1313/tags/homebrew/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/homebrew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hops</title>
+      <link>http://localhost:1313/tags/hops/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hops/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Oxidation</title>
-      <link>https://krakenbrewing.netlify.app/tags/oxidation/</link>
-      <pubDate>Thu, 20 Aug 2020 02:55:41 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/oxidation/</guid>
+      <link>http://localhost:1313/tags/oxidation/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oxidation/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Preservative</title>
+      <link>http://localhost:1313/tags/preservative/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/preservative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pressure</title>
+      <link>http://localhost:1313/tags/pressure/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pressure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMB</title>
+      <link>http://localhost:1313/tags/smb/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/smb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sodium-Metabisulfite</title>
+      <link>http://localhost:1313/tags/sodium-metabisulfite/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sodium-metabisulfite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Centennial</title>
+      <link>http://localhost:1313/tags/centennial/</link>
+      <pubDate>Wed, 27 Dec 2023 05:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/tags/centennial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Citra</title>
+      <link>http://localhost:1313/tags/citra/</link>
+      <pubDate>Wed, 27 Dec 2023 05:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/tags/citra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DDH</title>
+      <link>http://localhost:1313/tags/ddh/</link>
+      <pubDate>Wed, 27 Dec 2023 05:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ddh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Juicy</title>
+      <link>http://localhost:1313/tags/juicy/</link>
+      <pubDate>Wed, 27 Dec 2023 05:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/tags/juicy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NEIPA</title>
+      <link>http://localhost:1313/tags/neipa/</link>
+      <pubDate>Wed, 27 Dec 2023 05:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/tags/neipa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session</title>
+      <link>http://localhost:1313/tags/session/</link>
+      <pubDate>Wed, 27 Dec 2023 05:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/tags/session/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fruit</title>
+      <link>http://localhost:1313/tags/fruit/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fruit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fruit-Beer</title>
+      <link>http://localhost:1313/tags/fruit-beer/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fruit-beer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fruity</title>
+      <link>http://localhost:1313/tags/fruity/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fruity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gose</title>
+      <link>http://localhost:1313/tags/gose/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gose/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kettle</title>
+      <link>http://localhost:1313/tags/kettle/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kettle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lacto</title>
+      <link>http://localhost:1313/tags/lacto/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lacto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lactobacillus</title>
+      <link>http://localhost:1313/tags/lactobacillus/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lactobacillus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sour</title>
+      <link>http://localhost:1313/tags/sour/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strawberry</title>
+      <link>http://localhost:1313/tags/strawberry/</link>
+      <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/strawberry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fruited</title>
+      <link>http://localhost:1313/tags/fruited/</link>
+      <pubDate>Sun, 23 Apr 2023 06:30:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fruited/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rhubarb</title>
+      <link>http://localhost:1313/tags/rhubarb/</link>
+      <pubDate>Sun, 23 Apr 2023 06:30:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rhubarb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strawbarb</title>
+      <link>http://localhost:1313/tags/strawbarb/</link>
+      <pubDate>Sun, 23 Apr 2023 06:30:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/strawbarb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coffee</title>
+      <link>http://localhost:1313/tags/coffee/</link>
+      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
+      <guid>http://localhost:1313/tags/coffee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dark</title>
+      <link>http://localhost:1313/tags/dark/</link>
+      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Milk</title>
+      <link>http://localhost:1313/tags/milk/</link>
+      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
+      <guid>http://localhost:1313/tags/milk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stout</title>
+      <link>http://localhost:1313/tags/stout/</link>
+      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stout/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vanilla</title>
+      <link>http://localhost:1313/tags/vanilla/</link>
+      <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vanilla/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BRU-1</title>
+      <link>http://localhost:1313/tags/bru-1/</link>
+      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bru-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>El Dorado</title>
+      <link>http://localhost:1313/tags/el-dorado/</link>
+      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
+      <guid>http://localhost:1313/tags/el-dorado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nectaron</title>
+      <link>http://localhost:1313/tags/nectaron/</link>
+      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nectaron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oat-Cream</title>
+      <link>http://localhost:1313/tags/oat-cream/</link>
+      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oat-cream/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tropical</title>
+      <link>http://localhost:1313/tags/tropical/</link>
+      <pubDate>Wed, 01 Mar 2023 22:58:23 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tropical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ferment</title>
+      <link>http://localhost:1313/tags/ferment/</link>
+      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ferment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fermentation</title>
+      <link>http://localhost:1313/tags/fermentation/</link>
+      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fermentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pressure-Transfer</title>
+      <link>http://localhost:1313/tags/pressure-transfer/</link>
+      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pressure-transfer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pressurised</title>
+      <link>http://localhost:1313/tags/pressurised/</link>
+      <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pressurised/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clone</title>
+      <link>http://localhost:1313/tags/clone/</link>
+      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
+      <guid>http://localhost:1313/tags/clone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Galaxy</title>
+      <link>http://localhost:1313/tags/galaxy/</link>
+      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
+      <guid>http://localhost:1313/tags/galaxy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pacific</title>
+      <link>http://localhost:1313/tags/pacific/</link>
+      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pacific/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stone&amp;Wood</title>
+      <link>http://localhost:1313/tags/stonewood/</link>
+      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stonewood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>StoneWood</title>
+      <link>http://localhost:1313/tags/stonewood/</link>
+      <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stonewood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>http://localhost:1313/tags/2023/</link>
+      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/2023/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pacific-Ale</title>
+      <link>http://localhost:1313/tags/pacific-ale/</link>
+      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pacific-ale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pale-Ale</title>
+      <link>http://localhost:1313/tags/pale-ale/</link>
+      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pale-ale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saison</title>
+      <link>http://localhost:1313/tags/saison/</link>
+      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/saison/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SMASH</title>
+      <link>http://localhost:1313/tags/smash/</link>
+      <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
+      <guid>http://localhost:1313/tags/smash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blackberry</title>
+      <link>http://localhost:1313/tags/blackberry/</link>
+      <pubDate>Sat, 12 Nov 2022 13:33:06 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blackberry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Belgian</title>
+      <link>http://localhost:1313/tags/belgian/</link>
+      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/belgian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Citrus</title>
+      <link>http://localhost:1313/tags/citrus/</link>
+      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/citrus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spice</title>
+      <link>http://localhost:1313/tags/spice/</link>
+      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wheat</title>
+      <link>http://localhost:1313/tags/wheat/</link>
+      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wheat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>White</title>
+      <link>http://localhost:1313/tags/white/</link>
+      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/white/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Witbier</title>
+      <link>http://localhost:1313/tags/witbier/</link>
+      <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
+      <guid>http://localhost:1313/tags/witbier/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berliner Weisse</title>
+      <link>http://localhost:1313/tags/berliner-weisse/</link>
+      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
+      <guid>http://localhost:1313/tags/berliner-weisse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brouhaha</title>
+      <link>http://localhost:1313/tags/brouhaha/</link>
+      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brouhaha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lassi</title>
+      <link>http://localhost:1313/tags/lassi/</link>
+      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lassi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maleny</title>
+      <link>http://localhost:1313/tags/maleny/</link>
+      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
+      <guid>http://localhost:1313/tags/maleny/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mango</title>
+      <link>http://localhost:1313/tags/mango/</link>
+      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mango/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yogurt</title>
+      <link>http://localhost:1313/tags/yogurt/</link>
+      <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
+      <guid>http://localhost:1313/tags/yogurt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aussie</title>
+      <link>http://localhost:1313/tags/aussie/</link>
+      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/aussie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Australian</title>
+      <link>http://localhost:1313/tags/australian/</link>
+      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/australian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bitter</title>
+      <link>http://localhost:1313/tags/bitter/</link>
+      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bitter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crisp</title>
+      <link>http://localhost:1313/tags/crisp/</link>
+      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/crisp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dry</title>
+      <link>http://localhost:1313/tags/dry/</link>
+      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sparkling Ale</title>
+      <link>http://localhost:1313/tags/sparkling-ale/</link>
+      <pubDate>Sun, 22 May 2022 23:02:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sparkling-ale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crusher</title>
+      <link>http://localhost:1313/tags/crusher/</link>
+      <pubDate>Fri, 07 Jan 2022 03:07:22 +0000</pubDate>
+      <guid>http://localhost:1313/tags/crusher/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Days</title>
+      <link>http://localhost:1313/tags/days/</link>
+      <pubDate>Fri, 07 Jan 2022 03:07:22 +0000</pubDate>
+      <guid>http://localhost:1313/tags/days/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lactose</title>
+      <link>http://localhost:1313/tags/lactose/</link>
+      <pubDate>Sat, 13 Nov 2021 23:35:06 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lactose/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Passionfruit</title>
+      <link>http://localhost:1313/tags/passionfruit/</link>
+      <pubDate>Sat, 13 Nov 2021 23:35:06 +0000</pubDate>
+      <guid>http://localhost:1313/tags/passionfruit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ballistic</title>
+      <link>http://localhost:1313/tags/ballistic/</link>
+      <pubDate>Mon, 12 Apr 2021 03:18:37 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ballistic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloudy</title>
+      <link>http://localhost:1313/tags/cloudy/</link>
+      <pubDate>Fri, 30 Oct 2020 02:03:24 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cloudy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry</title>
+      <link>http://localhost:1313/tags/raspberry/</link>
+      <pubDate>Fri, 21 Aug 2020 09:07:15 +0000</pubDate>
+      <guid>http://localhost:1313/tags/raspberry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brew Bucket</title>
+      <link>http://localhost:1313/tags/brew-bucket/</link>
+      <pubDate>Thu, 20 Aug 2020 02:55:41 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brew-bucket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brewtech</title>
+      <link>http://localhost:1313/tags/brewtech/</link>
+      <pubDate>Thu, 20 Aug 2020 02:55:41 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brewtech/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Balter</title>
-      <link>https://krakenbrewing.netlify.app/tags/balter/</link>
+      <link>http://localhost:1313/tags/balter/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/balter/</guid>
+      <guid>http://localhost:1313/tags/balter/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Recipe</title>
-      <link>https://krakenbrewing.netlify.app/tags/recipe/</link>
+      <link>http://localhost:1313/tags/recipe/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/recipe/</guid>
+      <guid>http://localhost:1313/tags/recipe/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>XPA</title>
-      <link>https://krakenbrewing.netlify.app/tags/xpa/</link>
+      <link>http://localhost:1313/tags/xpa/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/xpa/</guid>
+      <guid>http://localhost:1313/tags/xpa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lager</title>
-      <link>https://krakenbrewing.netlify.app/tags/lager/</link>
+      <link>http://localhost:1313/tags/lager/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/lager/</guid>
+      <guid>http://localhost:1313/tags/lager/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pilsener</title>
-      <link>https://krakenbrewing.netlify.app/tags/pilsener/</link>
+      <link>http://localhost:1313/tags/pilsener/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/pilsener/</guid>
+      <guid>http://localhost:1313/tags/pilsener/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lemon Myrtle</title>
-      <link>https://krakenbrewing.netlify.app/tags/lemon-myrtle/</link>
+      <link>http://localhost:1313/tags/lemon-myrtle/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/lemon-myrtle/</guid>
+      <guid>http://localhost:1313/tags/lemon-myrtle/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Setup</title>
-      <link>https://krakenbrewing.netlify.app/tags/setup/</link>
+      <link>http://localhost:1313/tags/setup/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/setup/</guid>
+      <guid>http://localhost:1313/tags/setup/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>BIAB</title>
-      <link>https://krakenbrewing.netlify.app/tags/biab/</link>
+      <link>http://localhost:1313/tags/biab/</link>
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/biab/</guid>
+      <guid>http://localhost:1313/tags/biab/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mead</title>
-      <link>https://krakenbrewing.netlify.app/tags/mead/</link>
+      <link>http://localhost:1313/tags/mead/</link>
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/tags/mead/</guid>
+      <guid>http://localhost:1313/tags/mead/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo:*)",
+      "Bash(cat:*)",
+      "WebFetch(domain:web.brewfather.app)",
+      "Bash(for f in post_meta.html share-links.html seo/twitter.html seo/structured/article.html seo/structured/post.html)",
+      "Bash(do sed -i 's/\\.Site\\.Author/.Site.Params.Author/g' \"$f\")",
+      "Bash(done)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd Bugalugs Dark Ale recipe and fix Hugo 0.148 compatibility\n\n- Add new blog post for Bugalugs Dark Ale (Hoppy Days Brewing clone)\n- Update Hugo config for v0.148+ compatibility (services.disqus)\n- Fix deprecated .Site.Author and .Site.IsMultiLingual template calls\n- Override theme templates to support Hugo 0.148 API changes\n- Fix post date display issue in post_meta partial\n- Add CLAUDE.md for future AI assistance\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

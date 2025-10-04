@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homebrew on Kraken Brewing</title>
+    <link>http://localhost:1313/tags/homebrew/</link>
+    <description>Recent content in Homebrew on Kraken Brewing</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Dec 2023 05:30:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips to avoid oxidation in homebrewed beer</title>
+      <link>http://localhost:1313/post/2023-12-27-tips-to-avoid-oxidation-in-homebrewed-beer/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-12-27-tips-to-avoid-oxidation-in-homebrewed-beer/</guid>
+      <description>&lt;h1 id=&#34;tips-to-avoid-oxidation-in-homebrew&#34;&gt;T﻿ips to avoid oxidation in homebrew&lt;/h1&gt;&#xA;&lt;p&gt;Brewing beer at home can be extremely rewarding. There&amp;rsquo;s no greater satisfaction than reaching a level of proficiency when you can comfortably say &amp;ldquo;I would pay to drink this in a pub&amp;rdquo;. However, with certain styles of beer and on a homebrew scale and budget, reaching that level (consistently) can be difficult.&lt;/p&gt;&#xA;&lt;p&gt;Oxidation is without a doubt one of the biggest banes of my existence (and a lot of other homebrewers out there). It can completely ruin a beer, and you&amp;rsquo;ll usually only know after brewing, fermenting and spending a huge amount of time and effort. When you reach that final stage and see that you&amp;rsquo;re beer is darkened in colour, lacks flavour and aroma, and tastes like wet cardboard, the only option is usually to dump it down the drain.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

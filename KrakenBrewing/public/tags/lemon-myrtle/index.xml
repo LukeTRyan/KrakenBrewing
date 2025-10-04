@@ -2,38 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lemon Myrtle on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/lemon-myrtle/</link>
+    <link>http://localhost:1313/tags/lemon-myrtle/</link>
     <description>Recent content in Lemon Myrtle on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/lemon-myrtle/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lemon-myrtle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lemon Myrtle XPA</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</link>
+      <link>http://localhost:1313/post/2020-01-13-lemon-myrtle-xpa/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</guid>
-      <description>Lemon Myrtle XPA
-Brew Method: All Grain
-Style Name: American Pale Ale
-Boil Time: 60 min
-Batch Size: 21 liters (fermentor volume)
-Boil Size: 27 liters
-Boil Gravity: 1.037
-Efficiency: 70% (brew house)
-STATS:
-Original Gravity: 1.048
-Final Gravity: 1.009
-ABV (standard): 5.16%
-IBU (tinseth): 36.6
-SRM (morey): 5.1
-Mash pH: 0
-FERMENTABLES:
-3.8 kg – Pale Malt (80.9%)
-0.5 kg – Wheat Malt (10.6%)
-0.2 kg – Biscuit Malt (4.</description>
+      <guid>http://localhost:1313/post/2020-01-13-lemon-myrtle-xpa/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Lemon Myrtle XPA&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Brew Method: All Grain&lt;br&gt;&#xA;Style Name: American Pale Ale&lt;br&gt;&#xA;Boil Time: 60 min&lt;br&gt;&#xA;Batch Size: 21 liters (fermentor volume)&lt;br&gt;&#xA;Boil Size: 27 liters&lt;br&gt;&#xA;Boil Gravity: 1.037&lt;br&gt;&#xA;Efficiency: 70% (brew house)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;STATS:&lt;/strong&gt;&lt;br&gt;&#xA;Original Gravity: 1.048&lt;br&gt;&#xA;Final Gravity: 1.009&lt;br&gt;&#xA;ABV (standard): 5.16%&lt;br&gt;&#xA;IBU (tinseth): 36.6&lt;br&gt;&#xA;SRM (morey): 5.1&lt;br&gt;&#xA;Mash pH: 0&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;FERMENTABLES:&lt;/strong&gt;&lt;br&gt;&#xA;3.8 kg – Pale Malt (80.9%)&lt;br&gt;&#xA;0.5 kg – Wheat Malt (10.6%)&lt;br&gt;&#xA;0.2 kg – Biscuit Malt (4.3%)&lt;br&gt;&#xA;0.2 kg – Carapils (4.3%)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

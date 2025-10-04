@@ -2,379 +2,451 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://krakenbrewing.netlify.app/tags/ale/</loc>
+    <loc>http://localhost:1313/tags/ale/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/all-grain/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/british/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brown-ale/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2025-06-29-split-the-g-dark-ale/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cascade/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chocolate/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2024-03-29-cryo-pop-hazy-pale-ale-bracket-brewing-clone-copy-2/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2024-03-29-cryo-pop-hazy-pale-ale-bracket-brewing-clone/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cryo-pop/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dark-ale/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hazy/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hoppy/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/idaho/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ipa/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/motueka/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pale/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rakau/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/toffee/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tri2304cr/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/us-05/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/verdant/</loc>
+    <lastmod>2024-03-29T03:33:33+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ascorbic-acid/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/closed-transfer/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/homebrew/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hops/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/oxidation/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/preservative/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pressure/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/smb/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sodium-metabisulfite/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2023-12-27-tips-to-avoid-oxidation-in-homebrewed-beer/</loc>
+    <lastmod>2023-12-27T05:30:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/centennial/</loc>
+    <lastmod>2023-12-27T05:05:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/citra/</loc>
+    <lastmod>2023-12-27T05:05:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ddh/</loc>
+    <lastmod>2023-12-27T05:05:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2023-12-27-hazy-crusher-ddh-session-neipa/</loc>
+    <lastmod>2023-12-27T05:05:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/juicy/</loc>
+    <lastmod>2023-12-27T05:05:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/neipa/</loc>
+    <lastmod>2023-12-27T05:05:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/session/</loc>
+    <lastmod>2023-12-27T05:05:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fruit/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/all-grain/</loc>
+    <loc>http://localhost:1313/tags/fruit-beer/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/citra/</loc>
+    <loc>http://localhost:1313/post/2023-12-05-fruited-kettle-sour/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/fruit/</loc>
+    <loc>http://localhost:1313/tags/fruity/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/fruit-beer/</loc>
+    <loc>http://localhost:1313/tags/gose/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</loc>
+    <loc>http://localhost:1313/tags/kettle/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/fruity/</loc>
+    <loc>http://localhost:1313/tags/lacto/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/gose/</loc>
+    <loc>http://localhost:1313/tags/lactobacillus/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/kettle/</loc>
+    <loc>http://localhost:1313/tags/sour/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/</loc>
+    <loc>http://localhost:1313/tags/strawberry/</loc>
     <lastmod>2023-12-05T22:03:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/lacto/</loc>
-    <lastmod>2023-12-05T22:03:59+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/lactobacillus/</loc>
-    <lastmod>2023-12-05T22:03:59+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/</loc>
-    <lastmod>2023-12-05T22:03:59+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/sour/</loc>
-    <lastmod>2023-12-05T22:03:59+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/strawberry/</loc>
-    <lastmod>2023-12-05T22:03:59+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/</loc>
-    <lastmod>2023-12-05T22:03:59+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/fruited/</loc>
+    <loc>http://localhost:1313/tags/fruited/</loc>
     <lastmod>2023-04-23T06:30:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/rhubarb/</loc>
+    <loc>http://localhost:1313/tags/rhubarb/</loc>
     <lastmod>2023-04-23T06:30:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/strawbarb/</loc>
+    <loc>http://localhost:1313/tags/strawbarb/</loc>
     <lastmod>2023-04-23T06:30:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</loc>
+    <loc>http://localhost:1313/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</loc>
     <lastmod>2023-04-23T06:30:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/chocolate/</loc>
+    <loc>http://localhost:1313/tags/coffee/</loc>
     <lastmod>2023-04-22T05:28:04+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/coffee/</loc>
+    <loc>http://localhost:1313/tags/dark/</loc>
     <lastmod>2023-04-22T05:28:04+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/dark/</loc>
+    <loc>http://localhost:1313/tags/milk/</loc>
     <lastmod>2023-04-22T05:28:04+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/milk/</loc>
+    <loc>http://localhost:1313/tags/stout/</loc>
     <lastmod>2023-04-22T05:28:04+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/stout/</loc>
+    <loc>http://localhost:1313/tags/vanilla/</loc>
     <lastmod>2023-04-22T05:28:04+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/vanilla/</loc>
+    <loc>http://localhost:1313/post/2023-04-22-vanilla-milk-chocolate-stout/</loc>
     <lastmod>2023-04-22T05:28:04+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2023-04-22-vanilla-milk-chocolate-stout/</loc>
-    <lastmod>2023-04-22T05:28:04+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/bru-1/</loc>
+    <loc>http://localhost:1313/tags/bru-1/</loc>
     <lastmod>2023-03-01T22:58:23+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2023-03-02-ddh-oat-cream-tropical-hazy/</loc>
+    <loc>http://localhost:1313/post/2023-03-02-ddh-oat-cream-tropical-hazy/</loc>
     <lastmod>2023-03-01T22:58:23+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/el-dorado/</loc>
+    <loc>http://localhost:1313/tags/el-dorado/</loc>
     <lastmod>2023-03-01T22:58:23+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/hazy/</loc>
+    <loc>http://localhost:1313/tags/nectaron/</loc>
     <lastmod>2023-03-01T22:58:23+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/hoppy/</loc>
+    <loc>http://localhost:1313/tags/oat-cream/</loc>
     <lastmod>2023-03-01T22:58:23+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/ipa/</loc>
+    <loc>http://localhost:1313/tags/tropical/</loc>
     <lastmod>2023-03-01T22:58:23+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/nectaron/</loc>
-    <lastmod>2023-03-01T22:58:23+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/neipa/</loc>
-    <lastmod>2023-03-01T22:58:23+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/oat-cream/</loc>
-    <lastmod>2023-03-01T22:58:23+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/tropical/</loc>
-    <lastmod>2023-03-01T22:58:23+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/closed-transfer/</loc>
+    <loc>http://localhost:1313/tags/ferment/</loc>
     <lastmod>2023-01-12T00:53:53+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/ferment/</loc>
+    <loc>http://localhost:1313/tags/fermentation/</loc>
     <lastmod>2023-01-12T00:53:53+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/fermentation/</loc>
+    <loc>http://localhost:1313/tags/pressure-transfer/</loc>
     <lastmod>2023-01-12T00:53:53+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/pressure/</loc>
+    <loc>http://localhost:1313/tags/pressurised/</loc>
     <lastmod>2023-01-12T00:53:53+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/pressure-transfer/</loc>
+    <loc>http://localhost:1313/post/2023-01-12-valuable-life-lesson-learned-on-using-pressurised-fermenters/</loc>
     <lastmod>2023-01-12T00:53:53+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/pressurised/</loc>
-    <lastmod>2023-01-12T00:53:53+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2023-01-12-valuable-life-lesson-learned-on-using-pressurised-fermenters/</loc>
-    <lastmod>2023-01-12T00:53:53+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/clone/</loc>
+    <loc>http://localhost:1313/tags/clone/</loc>
     <lastmod>2022-12-27T22:25:14+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/galaxy/</loc>
+    <loc>http://localhost:1313/tags/galaxy/</loc>
     <lastmod>2022-12-27T22:25:14+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/pacific/</loc>
+    <loc>http://localhost:1313/tags/pacific/</loc>
     <lastmod>2022-12-27T22:25:14+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2022-12-27-stone-wood-clone-3/</loc>
+    <loc>http://localhost:1313/post/2022-12-27-stone-wood-clone-3/</loc>
     <lastmod>2022-12-27T22:25:14+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/stonewood/</loc>
+    <loc>http://localhost:1313/tags/stonewood/</loc>
     <lastmod>2022-12-27T22:25:14+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/2023/</loc>
+    <loc>http://localhost:1313/tags/stonewood/</loc>
+    <lastmod>2022-12-27T22:25:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/2023/</loc>
     <lastmod>2022-12-26T05:21:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</loc>
+    <loc>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</loc>
     <lastmod>2022-12-26T05:21:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/pacific-ale/</loc>
+    <loc>http://localhost:1313/tags/pacific-ale/</loc>
     <lastmod>2022-12-26T05:21:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/pale-ale/</loc>
+    <loc>http://localhost:1313/tags/pale-ale/</loc>
     <lastmod>2022-12-26T05:21:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/saison/</loc>
+    <loc>http://localhost:1313/tags/saison/</loc>
     <lastmod>2022-12-26T05:21:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/smash/</loc>
+    <loc>http://localhost:1313/tags/smash/</loc>
     <lastmod>2022-12-26T05:21:59+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/blackberry/</loc>
+    <loc>http://localhost:1313/tags/blackberry/</loc>
     <lastmod>2022-11-12T13:33:06+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2022-11-12-berry-sour-gose/</loc>
+    <loc>http://localhost:1313/post/2022-11-12-berry-sour-gose/</loc>
     <lastmod>2022-11-12T13:33:06+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2022-11-12-safe-bet-neipa/</loc>
+    <loc>http://localhost:1313/post/2022-11-12-safe-bet-neipa/</loc>
     <lastmod>2022-11-12T13:26:20+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/belgian/</loc>
+    <loc>http://localhost:1313/tags/belgian/</loc>
     <lastmod>2022-08-30T23:46:52+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2022-08-31-belgian-witbier-white-ale/</loc>
+    <loc>http://localhost:1313/post/2022-08-31-belgian-witbier-white-ale/</loc>
     <lastmod>2022-08-30T23:46:52+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/citrus/</loc>
+    <loc>http://localhost:1313/tags/citrus/</loc>
     <lastmod>2022-08-30T23:46:52+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/spice/</loc>
+    <loc>http://localhost:1313/tags/spice/</loc>
     <lastmod>2022-08-30T23:46:52+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/wheat/</loc>
+    <loc>http://localhost:1313/tags/wheat/</loc>
     <lastmod>2022-08-30T23:46:52+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/white/</loc>
+    <loc>http://localhost:1313/tags/white/</loc>
     <lastmod>2022-08-30T23:46:52+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/witbier/</loc>
+    <loc>http://localhost:1313/tags/witbier/</loc>
     <lastmod>2022-08-30T23:46:52+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/berliner-weisse/</loc>
+    <loc>http://localhost:1313/tags/berliner-weisse/</loc>
     <lastmod>2022-05-24T10:24:19+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/brouhaha/</loc>
+    <loc>http://localhost:1313/tags/brouhaha/</loc>
     <lastmod>2022-05-24T10:24:19+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/lassi/</loc>
+    <loc>http://localhost:1313/tags/lassi/</loc>
     <lastmod>2022-05-24T10:24:19+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/maleny/</loc>
+    <loc>http://localhost:1313/tags/maleny/</loc>
     <lastmod>2022-05-24T10:24:19+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/mango/</loc>
+    <loc>http://localhost:1313/tags/mango/</loc>
     <lastmod>2022-05-24T10:24:19+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</loc>
+    <loc>http://localhost:1313/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</loc>
     <lastmod>2022-05-24T10:24:19+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/yogurt/</loc>
+    <loc>http://localhost:1313/tags/yogurt/</loc>
     <lastmod>2022-05-24T10:24:19+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/aussie/</loc>
+    <loc>http://localhost:1313/tags/aussie/</loc>
     <lastmod>2022-05-22T23:02:31+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2022-05-22-aussie-sparkling-ale/</loc>
+    <loc>http://localhost:1313/post/2022-05-22-aussie-sparkling-ale/</loc>
     <lastmod>2022-05-22T23:02:31+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/australian/</loc>
+    <loc>http://localhost:1313/tags/australian/</loc>
     <lastmod>2022-05-22T23:02:31+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/bitter/</loc>
+    <loc>http://localhost:1313/tags/bitter/</loc>
     <lastmod>2022-05-22T23:02:31+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/crisp/</loc>
+    <loc>http://localhost:1313/tags/crisp/</loc>
     <lastmod>2022-05-22T23:02:31+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/dry/</loc>
+    <loc>http://localhost:1313/tags/dry/</loc>
     <lastmod>2022-05-22T23:02:31+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/session/</loc>
+    <loc>http://localhost:1313/tags/sparkling-ale/</loc>
     <lastmod>2022-05-22T23:02:31+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/sparkling-ale/</loc>
-    <lastmod>2022-05-22T23:02:31+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/centennial/</loc>
+    <loc>http://localhost:1313/tags/crusher/</loc>
     <lastmod>2022-01-07T03:07:22+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/crusher/</loc>
+    <loc>http://localhost:1313/tags/days/</loc>
     <lastmod>2022-01-07T03:07:22+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/days/</loc>
+    <loc>http://localhost:1313/post/2022-01-07-hoppy-days-hazy-crusher-session-neipa/</loc>
     <lastmod>2022-01-07T03:07:22+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2022-01-07-hoppy-days-hazy-crusher-session-neipa/</loc>
-    <lastmod>2022-01-07T03:07:22+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/idaho/</loc>
-    <lastmod>2022-01-07T03:07:22+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/juicy/</loc>
-    <lastmod>2022-01-07T03:07:22+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/lactose/</loc>
+    <loc>http://localhost:1313/tags/lactose/</loc>
     <lastmod>2021-11-13T23:35:06+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/passionfruit/</loc>
+    <loc>http://localhost:1313/tags/passionfruit/</loc>
     <lastmod>2021-11-13T23:35:06+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</loc>
+    <loc>http://localhost:1313/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</loc>
     <lastmod>2021-11-13T23:35:06+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/ballistic/</loc>
+    <loc>http://localhost:1313/tags/ballistic/</loc>
     <lastmod>2021-04-12T03:18:37+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</loc>
+    <loc>http://localhost:1313/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</loc>
     <lastmod>2021-04-12T03:18:37+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/ddh/</loc>
-    <lastmod>2021-04-12T03:18:37+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</loc>
+    <loc>http://localhost:1313/post/2021-04-12-mango-sour-gose/</loc>
     <lastmod>2021-04-12T02:28:34+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/</loc>
+    <loc>http://localhost:1313/post/2021-02-25-stone-wood-clone-2/</loc>
     <lastmod>2021-02-25T05:05:29+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/cloudy/</loc>
+    <loc>http://localhost:1313/tags/cloudy/</loc>
     <lastmod>2020-10-30T02:03:24+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-10-30-hazy-session-ipa/</loc>
+    <loc>http://localhost:1313/post/2020-10-30-hazy-session-ipa/</loc>
     <lastmod>2020-10-30T02:03:24+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/raspberry/</loc>
+    <loc>http://localhost:1313/tags/raspberry/</loc>
     <lastmod>2020-08-21T09:07:15+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-08-21-raspberry-sour-berliner-weisse/</loc>
+    <loc>http://localhost:1313/post/2020-08-21-raspberry-sour-berliner-weisse/</loc>
     <lastmod>2020-08-21T09:07:15+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/brew-bucket/</loc>
+    <loc>http://localhost:1313/tags/brew-bucket/</loc>
     <lastmod>2020-08-20T02:55:41+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/brewtech/</loc>
+    <loc>http://localhost:1313/tags/brewtech/</loc>
     <lastmod>2020-08-20T02:55:41+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-08-20-closed-transfer-guide/</loc>
+    <loc>http://localhost:1313/post/2020-08-20-closed-transfer-guide/</loc>
     <lastmod>2020-08-20T02:55:41+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/oxidation/</loc>
-    <lastmod>2020-08-20T02:55:41+00:00</lastmod>
-  </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/balter/</loc>
+    <loc>http://localhost:1313/tags/balter/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</loc>
+    <loc>http://localhost:1313/post/2020-07-20-balter-xpa-clone/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/recipe/</loc>
+    <loc>http://localhost:1313/tags/recipe/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/xpa/</loc>
+    <loc>http://localhost:1313/tags/xpa/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</loc>
+    <loc>http://localhost:1313/post/2020-06-01-german-lager/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/lager/</loc>
+    <loc>http://localhost:1313/tags/lager/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/pilsener/</loc>
+    <loc>http://localhost:1313/tags/pilsener/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/lemon-myrtle/</loc>
+    <loc>http://localhost:1313/tags/lemon-myrtle/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-01-13-lemon-myrtle-xpa/</loc>
+    <loc>http://localhost:1313/post/2020-01-13-lemon-myrtle-xpa/</loc>
     <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</loc>
+    <loc>http://localhost:1313/post/2020-01-09-strawberry-sour/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</loc>
+    <loc>http://localhost:1313/post/2020-01-06-raspberry-saison/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2019-12-29-leftover-ipa/</loc>
+    <loc>http://localhost:1313/post/2019-12-29-leftover-ipa/</loc>
     <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</loc>
+    <loc>http://localhost:1313/post/2019-12-12-dwarven-stout/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</loc>
+    <loc>http://localhost:1313/post/2019-11-10-mango-ipa/</loc>
     <lastmod>2019-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2019-11-10-new-setup/</loc>
+    <loc>http://localhost:1313/post/2019-11-10-new-setup/</loc>
     <lastmod>2019-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/setup/</loc>
+    <loc>http://localhost:1313/tags/setup/</loc>
     <lastmod>2019-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2019-09-10-neipa/</loc>
+    <loc>http://localhost:1313/post/2019-09-10-neipa/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/biab/</loc>
+    <loc>http://localhost:1313/tags/biab/</loc>
     <lastmod>2019-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/tags/mead/</loc>
+    <loc>http://localhost:1313/tags/mead/</loc>
     <lastmod>2019-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</loc>
+    <loc>http://localhost:1313/post/2019-05-16-snw-clone-biab/</loc>
     <lastmod>2019-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/post/2019-05-16-mead/</loc>
+    <loc>http://localhost:1313/post/2019-05-16-mead/</loc>
     <lastmod>2019-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/page/about/</loc>
+    <loc>http://localhost:1313/page/about/</loc>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://krakenbrewing.netlify.app/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
   </url>
 </urlset>

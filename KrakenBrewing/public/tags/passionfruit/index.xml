@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Passionfruit on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/passionfruit/</link>
+    <link>http://localhost:1313/tags/passionfruit/</link>
     <description>Recent content in Passionfruit on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Sat, 13 Nov 2021 23:35:06 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/passionfruit/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Nov 2021 23:35:06 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/passionfruit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pavlova Sour (Christmas Sour) (Vanilla Passionfruit Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</link>
+      <link>http://localhost:1313/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</link>
       <pubDate>Sat, 13 Nov 2021 23:35:06 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</guid>
-      <description>This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I&amp;rsquo;m using Lallemand&amp;rsquo;s Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I&amp;rsquo;m interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions.</description>
+      <guid>http://localhost:1313/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</guid>
+      <description>&lt;p&gt;This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I&amp;rsquo;m using Lallemand&amp;rsquo;s Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I&amp;rsquo;m interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions. I&amp;rsquo;m fermenting at 23c, as a higher temperature supposedly encourages greater lactic acid production. As for the additions, I&amp;rsquo;m adding 2kg of frozen Passionfruit Pulp from Hoppy Days Brewing Supplies in Brisbane. I&amp;rsquo;m also adding about 10ml of Vanilla Extract and 250g of Lactose to the boil (to counteract the sourness of the passionfruit and lactic acid). I&amp;rsquo;m aiming for a pH of around 3.3 and a FG of about 1.015, to give an ABV of approximately 5.4%.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

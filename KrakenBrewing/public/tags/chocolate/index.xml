@@ -2,34 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chocolate on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/chocolate/</link>
+    <link>http://localhost:1313/tags/chocolate/</link>
     <description>Recent content in Chocolate on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Sat, 22 Apr 2023 05:28:04 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/chocolate/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Mar 2024 03:33:33 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/chocolate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bugalugs Dark Ale (Hoppy Days Brewing Clone)</title>
+      <link>http://localhost:1313/post/2025-06-29-split-the-g-dark-ale/</link>
+      <pubDate>Fri, 29 Mar 2024 03:33:33 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-06-29-split-the-g-dark-ale/</guid>
+      <description>&lt;p&gt;For this brew I&amp;rsquo;m making the &lt;a href=&#34;https://hoppydaysbrewingsupplies.com.au/product/bugalugs-dark-ale/&#34;&gt;Bugalugs Dark Ale from Hoppy Days Brewing Supplies&lt;/a&gt;. This is a British Brown Ale with a strong backbone of toffee and chocolate with a solid bitterness.&lt;/p&gt;&#xA;&lt;p&gt;The grain bill for this beer is built on a base of Voyager Veloria Schooner malt, with Munich malt adding depth and complexity. The colour and roasted character comes from Shepherds Delight, Dark Voodoo, and Carafa Special III malts, giving that classic toffee and chocolate profile without being overly roasty.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Vanilla Milk Chocolate Stout</title>
-      <link>https://krakenbrewing.netlify.app/post/2023-04-22-vanilla-milk-chocolate-stout/</link>
+      <link>http://localhost:1313/post/2023-04-22-vanilla-milk-chocolate-stout/</link>
       <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2023-04-22-vanilla-milk-chocolate-stout/</guid>
-      <description>I﻿t&amp;rsquo;s been a few years since I&amp;rsquo;ve done a stout, and winters coming up, so I thought I&amp;rsquo;d give it another crack. The last stout I made was a coffee chocolate stout, which used cold-brew coffee and cacao nibs soaked in congac. It was pretty good, but I wanted to do something different this time. I&amp;rsquo;ll be keeping a similar grain bill and hops (Fuggles), but I&amp;rsquo;ll be adding lactose to round out the bitterness, and I&amp;rsquo;ll also be adding cacao nibs and 2 vanilla beans.</description>
+      <guid>http://localhost:1313/post/2023-04-22-vanilla-milk-chocolate-stout/</guid>
+      <description>&lt;p&gt;I﻿t&amp;rsquo;s been a few years since I&amp;rsquo;ve done a stout, and winters coming up, so I thought I&amp;rsquo;d give it another crack. The last stout I made was a &lt;a href=&#34;https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/&#34;&gt;coffee chocolate stout&lt;/a&gt;, which used cold-brew coffee and cacao nibs soaked in congac. It was pretty good, but I wanted to do something different this time. I&amp;rsquo;ll be keeping a similar grain bill and hops (Fuggles), but I&amp;rsquo;ll be adding lactose to round out the bitterness, and I&amp;rsquo;ll also be adding cacao nibs and 2 vanilla beans. These should add the vanilla and chocolate notes i&amp;rsquo;m after.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dwarven Stout</title>
-      <link>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</link>
+      <link>http://localhost:1313/post/2019-12-12-dwarven-stout/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/</guid>
-      <description>Designing the Recipe
-This time around, i’m going to be partly designing my own recipe for a coffee stout. This stout is basically going to follow these guidelines:
--ABV between 5% and 7%.
--Grain bill of 80% base malt + remaining specialty grains.
--Between 30 and 40 IBUs from bittering additions of hops, with some at the end of the boil.
--An Ale yeast with an attenuation of approximately 75% (Us-04/05 or wyeast 1056 American Ale)</description>
+      <guid>http://localhost:1313/post/2019-12-12-dwarven-stout/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Designing the Recipe&lt;/strong&gt;&lt;br&gt;&#xA;This time around, i’m going to be partly designing my own recipe for a coffee stout. This stout is basically going to follow these guidelines:&lt;br&gt;&#xA;-ABV between 5% and 7%.&lt;br&gt;&#xA;-Grain bill of 80% base malt + remaining specialty grains.&lt;br&gt;&#xA;-Between 30 and 40 IBUs from bittering additions of hops, with some at the end of the boil.&lt;br&gt;&#xA;-An Ale yeast with an attenuation of approximately 75% (Us-04/05 or wyeast 1056 American Ale)&lt;br&gt;&#xA;-A mash between 67c and 69c&lt;br&gt;&#xA;-Water chemistry adjusted to add hardness (increased calcium and carbonate)&lt;br&gt;&#xA;-2.5 volumes of C02&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

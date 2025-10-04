@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>belgian on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/belgian/</link>
-    <description>Recent content in belgian on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Tue, 30 Aug 2022 23:46:52 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/belgian/index.xml" rel="self" type="application/rss+xml" />
+    <title>Belgian on Kraken Brewing</title>
+    <link>http://localhost:1313/tags/belgian/</link>
+    <description>Recent content in Belgian on Kraken Brewing</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Aug 2022 23:46:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/belgian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Belgian Witbier (White ale)</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-08-31-belgian-witbier-white-ale/</link>
+      <link>http://localhost:1313/post/2022-08-31-belgian-witbier-white-ale/</link>
       <pubDate>Tue, 30 Aug 2022 23:46:52 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-08-31-belgian-witbier-white-ale/</guid>
-      <description>The inspiration for this beer came from a night several years ago when I was working as a bartender. Myself and a few others headed to an American-style bar across the road on our break, for some food and beers. I ended up getting a Blue Moon on tap, not knowing what it is and expecting it to be a thin, watered down American lager. I was surprised to receive the opposite, a full-bodied, rich, citrusy and spicy Belgian-style ale with a slice of orange in it.</description>
+      <guid>http://localhost:1313/post/2022-08-31-belgian-witbier-white-ale/</guid>
+      <description>&lt;p&gt;The inspiration for this beer came from a night several years ago when I was working as a bartender. Myself and a few others headed to an American-style bar across the road on our break, for some food and beers. I ended up getting a Blue Moon on tap, not knowing what it is and expecting it to be a thin, watered down American lager. I was surprised to receive the opposite, a full-bodied, rich, citrusy and spicy Belgian-style ale with a slice of orange in it. It was fantastic, and that is the style and moment  I&amp;rsquo;m trying to recreate with this beer.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

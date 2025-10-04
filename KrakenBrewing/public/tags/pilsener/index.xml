@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pilsener on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/pilsener/</link>
+    <link>http://localhost:1313/tags/pilsener/</link>
     <description>Recent content in Pilsener on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/pilsener/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pilsener/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>German Lager</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</link>
+      <link>http://localhost:1313/post/2020-06-01-german-lager/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-06-01-german-lager/</guid>
-      <description>This recipe was taken from Hoppy day&amp;rsquo;s recipe list as a standard german pilsener/lager. Grain bill was mostly german pilsener with some gladiator malt for head retention and body, as well as some acidulated malt to lower the mash pH and get as many fermentable sugars as possible. This was aided with a low mash temp. Yeast is Saflager 34/70 being fermented around 10-12c for 2 weeks with a 6-8 week lager in the keg.</description>
+      <guid>http://localhost:1313/post/2020-06-01-german-lager/</guid>
+      <description>&lt;p&gt;This recipe was taken from Hoppy day&amp;rsquo;s recipe list as a standard german pilsener/lager. Grain bill was mostly german pilsener with some gladiator malt for head retention and body, as well as some acidulated malt to lower the mash pH and get as many fermentable sugars as possible. This was aided with a low mash temp. Yeast is Saflager 34/70 being fermented around 10-12c for 2 weeks with a 6-8 week lager in the keg.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

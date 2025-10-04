@@ -2,29 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vanilla on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/vanilla/</link>
+    <link>http://localhost:1313/tags/vanilla/</link>
     <description>Recent content in Vanilla on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Sat, 22 Apr 2023 05:28:04 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/vanilla/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Apr 2023 05:28:04 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vanilla/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vanilla Milk Chocolate Stout</title>
-      <link>https://krakenbrewing.netlify.app/post/2023-04-22-vanilla-milk-chocolate-stout/</link>
+      <link>http://localhost:1313/post/2023-04-22-vanilla-milk-chocolate-stout/</link>
       <pubDate>Sat, 22 Apr 2023 05:28:04 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2023-04-22-vanilla-milk-chocolate-stout/</guid>
-      <description>I﻿t&amp;rsquo;s been a few years since I&amp;rsquo;ve done a stout, and winters coming up, so I thought I&amp;rsquo;d give it another crack. The last stout I made was a coffee chocolate stout, which used cold-brew coffee and cacao nibs soaked in congac. It was pretty good, but I wanted to do something different this time. I&amp;rsquo;ll be keeping a similar grain bill and hops (Fuggles), but I&amp;rsquo;ll be adding lactose to round out the bitterness, and I&amp;rsquo;ll also be adding cacao nibs and 2 vanilla beans.</description>
+      <guid>http://localhost:1313/post/2023-04-22-vanilla-milk-chocolate-stout/</guid>
+      <description>&lt;p&gt;I﻿t&amp;rsquo;s been a few years since I&amp;rsquo;ve done a stout, and winters coming up, so I thought I&amp;rsquo;d give it another crack. The last stout I made was a &lt;a href=&#34;https://krakenbrewing.netlify.app/post/2019-12-12-dwarven-stout/&#34;&gt;coffee chocolate stout&lt;/a&gt;, which used cold-brew coffee and cacao nibs soaked in congac. It was pretty good, but I wanted to do something different this time. I&amp;rsquo;ll be keeping a similar grain bill and hops (Fuggles), but I&amp;rsquo;ll be adding lactose to round out the bitterness, and I&amp;rsquo;ll also be adding cacao nibs and 2 vanilla beans. These should add the vanilla and chocolate notes i&amp;rsquo;m after.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pavlova Sour (Christmas Sour) (Vanilla Passionfruit Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</link>
+      <link>http://localhost:1313/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</link>
       <pubDate>Sat, 13 Nov 2021 23:35:06 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</guid>
-      <description>This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I&amp;rsquo;m using Lallemand&amp;rsquo;s Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I&amp;rsquo;m interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions.</description>
+      <guid>http://localhost:1313/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</guid>
+      <description>&lt;p&gt;This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I&amp;rsquo;m using Lallemand&amp;rsquo;s Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I&amp;rsquo;m interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions. I&amp;rsquo;m fermenting at 23c, as a higher temperature supposedly encourages greater lactic acid production. As for the additions, I&amp;rsquo;m adding 2kg of frozen Passionfruit Pulp from Hoppy Days Brewing Supplies in Brisbane. I&amp;rsquo;m also adding about 10ml of Vanilla Extract and 250g of Lactose to the boil (to counteract the sourness of the passionfruit and lactic acid). I&amp;rsquo;m aiming for a pH of around 3.3 and a FG of about 1.015, to give an ABV of approximately 5.4%.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

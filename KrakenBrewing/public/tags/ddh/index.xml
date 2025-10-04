@@ -2,20 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DDH on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/ddh/</link>
+    <link>http://localhost:1313/tags/ddh/</link>
     <description>Recent content in DDH on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Mon, 12 Apr 2021 03:18:37 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/ddh/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Dec 2023 05:05:21 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ddh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hazy Crusher (DDH Session NEIPA)</title>
+      <link>http://localhost:1313/post/2023-12-27-hazy-crusher-ddh-session-neipa/</link>
+      <pubDate>Wed, 27 Dec 2023 05:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-12-27-hazy-crusher-ddh-session-neipa/</guid>
+      <description>&lt;p&gt;I think this is my 3rd time making this beer, and I&amp;rsquo;m making it again because I think it&amp;rsquo;s great hazy ale. In the past, I&amp;rsquo;ve had issues around oxidation for these hoppy and oaty beers, but now I&amp;rsquo;m at a comfortable place with controlling oxidation through use of preservatives and techniques like closed transfers. When I ordered this beer, I could only get a hold of golden oat malt, which I decided to use. Due to that, the beer ended up a bit darker than I had hoped, but the taste was actually pretty damn good.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ballistic Hawaiian Haze Clone (DDH Pale Ale)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</link>
+      <link>http://localhost:1313/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</link>
       <pubDate>Mon, 12 Apr 2021 03:18:37 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</guid>
-      <description>For my next clone, I&amp;rsquo;m going to attempt to replicate Ballistic Brewing&amp;rsquo;s &amp;ldquo;Hawaiian Haze&amp;rdquo; DDH Pale Ale. The tasting notes for this beer have been descriped as juicy, pineapple, hoppy and citric. It&amp;rsquo;s light in colour with a solid haze. The hops used were Citra, Rakau, Pacifica and Mosaic. The malts are pale malt, rolled/flaked oats and rolled/flaked wheat. It has medium bitterness with 30 IBUs and an ABV of 4.</description>
+      <guid>http://localhost:1313/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</guid>
+      <description>&lt;p&gt;For my next clone, I&amp;rsquo;m going to attempt to replicate Ballistic Brewing&amp;rsquo;s &amp;ldquo;Hawaiian Haze&amp;rdquo; DDH Pale Ale. The tasting notes for this beer have been descriped as juicy, pineapple, hoppy and citric. It&amp;rsquo;s light in colour with a solid haze. The hops used were Citra, Rakau, Pacifica and Mosaic. The malts are pale malt, rolled/flaked oats and rolled/flaked wheat. It has medium bitterness with 30 IBUs and an ABV of 4.6%. Using this information, I plan to make a recipe that replicates the beer as closely as possible.&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Grain Bill&lt;/strong&gt;&lt;br&gt;&#xA;-Use of high protein grains such as flaked oats and wheat. &lt;br&gt;&#xA;-Marris Otter base, with some wheat malt, flaked oats and flaked wheat &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Hops&lt;/strong&gt;&lt;br&gt;&#xA;-Citra, Rakau, Pacifica and Mosaic, targetting 30 IBU in the boil with late additions and a substantial dry hop. The whirlpool should make up majority of the hop boil additions, aiming for 80-85c additions. &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Chemistry&lt;/strong&gt;&lt;br&gt;&#xA;-a 2:1 Chloride to Sulfate ratio will accentuate the smooth malt body and not the hops, as they speak for themselves.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

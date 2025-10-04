@@ -2,26 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloudy on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/cloudy/</link>
+    <link>http://localhost:1313/tags/cloudy/</link>
     <description>Recent content in Cloudy on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Fri, 30 Oct 2020 02:03:24 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/cloudy/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Oct 2020 02:03:24 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cloudy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hazy Session IPA</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-10-30-hazy-session-ipa/</link>
+      <link>http://localhost:1313/post/2020-10-30-hazy-session-ipa/</link>
       <pubDate>Fri, 30 Oct 2020 02:03:24 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-10-30-hazy-session-ipa/</guid>
-      <description>This recipe is adapted from the HoppyDays Hazy Crusher IPA, a hazy session IPA with low bitterness, low ABV and a large dry hop addition. The yeast being used for this beer is the new Verdant IPA yeast. Target mash pH: 5.4 (need 5ml lactic acid)
-Target water profile: Approximately 2-1 chloride to sulfate
-Hazy Session IPA
-Brew Method: All Grain
-Style Name: American IPA
-Boil Time: 60 min
-Batch Size: 23 liters (fermentor volume)</description>
+      <guid>http://localhost:1313/post/2020-10-30-hazy-session-ipa/</guid>
+      <description>&lt;p&gt;This recipe is adapted from the HoppyDays Hazy Crusher IPA, a hazy session IPA with low bitterness, low ABV and a large dry hop addition. The yeast being used for this beer is the new Verdant IPA yeast. &lt;br&gt;&#xA;Target mash pH: 5.4 (need 5ml lactic acid)&lt;br&gt;&#xA;Target water profile: Approximately 2-1 chloride to sulfate&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hazy Session IPA&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Brew Method: All Grain&lt;br&gt;&#xA;Style Name: American IPA&lt;br&gt;&#xA;Boil Time: 60 min&lt;br&gt;&#xA;Batch Size: 23 liters (fermentor volume)&lt;br&gt;&#xA;Boil Size: 27 liters&lt;br&gt;&#xA;Boil Gravity: 1.048&lt;br&gt;&#xA;Efficiency: 70% (brew house)&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

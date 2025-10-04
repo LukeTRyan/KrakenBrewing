@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023 on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/2023/</link>
+    <link>http://localhost:1313/tags/2023/</link>
     <description>Recent content in 2023 on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Mon, 26 Dec 2022 05:21:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Dec 2022 05:21:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beers &amp; Goals of 2023</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</link>
+      <link>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</link>
       <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</guid>
-      <description>2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals.</description>
+      <guid>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</guid>
+      <description>&lt;p&gt;2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals. While I tend to stick to the same styles, I&amp;rsquo;m keen to branch out and try new things, mainly to keep things fresh and exciting. I&amp;rsquo;m also keen to try new methods, improve the efficiencies of my current process, and work on the limitations I&amp;rsquo;m currently facing.&lt;br&gt;&#xA;&lt;br&gt;&#xA;I﻿n 2023, I have a few notable brewing improvements and styles I&amp;rsquo;m excited to try. In no given order, these are:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

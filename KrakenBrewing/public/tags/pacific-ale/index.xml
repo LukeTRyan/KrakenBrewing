@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pacific Ale on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/pacific-ale/</link>
-    <description>Recent content in Pacific Ale on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Mon, 26 Dec 2022 05:21:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/pacific-ale/index.xml" rel="self" type="application/rss+xml" />
+    <title>Pacific-Ale on Kraken Brewing</title>
+    <link>http://localhost:1313/tags/pacific-ale/</link>
+    <description>Recent content in Pacific-Ale on Kraken Brewing</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Dec 2022 05:21:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pacific-ale/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beers &amp; Goals of 2023</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</link>
+      <link>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</link>
       <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</guid>
-      <description>2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals.</description>
+      <guid>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</guid>
+      <description>&lt;p&gt;2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals. While I tend to stick to the same styles, I&amp;rsquo;m keen to branch out and try new things, mainly to keep things fresh and exciting. I&amp;rsquo;m also keen to try new methods, improve the efficiencies of my current process, and work on the limitations I&amp;rsquo;m currently facing.&lt;br&gt;&#xA;&lt;br&gt;&#xA;I﻿n 2023, I have a few notable brewing improvements and styles I&amp;rsquo;m excited to try. In no given order, these are:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My First All Grain BIAB</title>
-      <link>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</link>
+      <link>http://localhost:1313/post/2019-05-16-snw-clone-biab/</link>
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</guid>
-      <description>While my mead is fermenting, I decided i’ll make my second ever batch of beer. This time I decided to scale things up to 23L and go with an all grain Pacific Ale BIAB (similar to Stone and Wood). For this I bought a 35L brew pot as well as a 30L plastic fermenter with airlock and thermometer. The specs of the Pacific Ale are as follows:
-Date: 24/5/19
-Boil Time: 60 min</description>
+      <guid>http://localhost:1313/post/2019-05-16-snw-clone-biab/</guid>
+      <description>&lt;p&gt;While my mead is fermenting, I decided i’ll make my second ever batch of beer. This time I decided to scale things up to 23L and go with an all grain Pacific Ale BIAB (similar to Stone and Wood). For this I bought a 35L brew pot as well as a 30L plastic fermenter with airlock and thermometer. The specs of the Pacific Ale are as follows:&lt;/p&gt;&#xA;&lt;p&gt;Date: 24/5/19&lt;br&gt;&#xA;Boil Time: 60 min&lt;br&gt;&#xA;Batch Size: 20L (fermenter volume)&lt;br&gt;&#xA;Boil Size: 25L&lt;br&gt;&#xA;Mash: 30L at 66 °C for 60 min&lt;br&gt;&#xA;Target OG: 1.046&lt;br&gt;&#xA;Target FG: 1.008&lt;br&gt;&#xA;Target ABV: 5.05%&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

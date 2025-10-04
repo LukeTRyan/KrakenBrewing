@@ -2,42 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raspberry on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/raspberry/</link>
+    <link>http://localhost:1313/tags/raspberry/</link>
     <description>Recent content in Raspberry on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Fri, 21 Aug 2020 09:07:15 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/raspberry/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Aug 2020 09:07:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/raspberry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Raspberry Sour (Berliner Weisse)</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-08-21-raspberry-sour-berliner-weisse/</link>
+      <link>http://localhost:1313/post/2020-08-21-raspberry-sour-berliner-weisse/</link>
       <pubDate>Fri, 21 Aug 2020 09:07:15 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-08-21-raspberry-sour-berliner-weisse/</guid>
-      <description>This sour is pretty much a copy of the strawberry sour/berliner weisse I did last time. The only changes i&amp;rsquo;m making this time around are:
-- Adding more fruit (4kg) in a pureed form (wholesale) which contains 15% sugar. This will up the ABV so the grain bill will be lower than normal.
-- Fruit addition will be added during primary/secondary to get a fresher flavour and remove cooked-flavours.
-- A mesh bag will be used to catch the Raspberry particles and make kegging easier.</description>
+      <guid>http://localhost:1313/post/2020-08-21-raspberry-sour-berliner-weisse/</guid>
+      <description>&lt;p&gt;This sour is pretty much a copy of the strawberry sour/berliner weisse I did last time. The only changes i&amp;rsquo;m making this time around are:&lt;/p&gt;&#xA;&lt;p&gt;- Adding more fruit (4kg) in a pureed form (wholesale) which contains 15% sugar. This will up the ABV so the grain bill will be lower than normal.&lt;/p&gt;&#xA;&lt;p&gt;- Fruit addition will be added during primary/secondary to get a fresher flavour and remove cooked-flavours.&lt;/p&gt;&#xA;&lt;p&gt;- A mesh bag will be used to catch the Raspberry particles and make kegging easier.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Raspberry Saison</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</link>
+      <link>http://localhost:1313/post/2020-01-06-raspberry-saison/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</guid>
-      <description>Grain Bill
--Base is pilsner, Vienna and Wheat malt to add body, head and character with a slight maltiness from the Vienna. Acidulated malt to lower mash pH. Hops
--Bittering hops to give approximately 30 IBUs and add spicy and fruity notes.
--Kent Goldings, Saaz, or Willamette to add mild floral/herbal notes without overpowering the fruit.
-Water Chemistry
-Calcium: 50
-Magnesium: 5
-Sodium: 20
-Chloride: 30
-Sulfate: 100
--Higher sulfates will give aid in drying out the beer and accentuating the hops/fruit.</description>
+      <guid>http://localhost:1313/post/2020-01-06-raspberry-saison/</guid>
+      <description>&lt;p&gt;Grain Bill&lt;br&gt;&#xA;-Base is pilsner, Vienna and Wheat malt to add body, head and character with a slight maltiness from the Vienna. Acidulated malt to lower mash pH.&#xA;Hops&lt;br&gt;&#xA;-Bittering hops to give approximately 30 IBUs and add spicy and fruity notes.&lt;br&gt;&#xA;-Kent Goldings, Saaz, or Willamette to add mild floral/herbal notes without overpowering the fruit.&lt;/p&gt;&#xA;&lt;p&gt;Water Chemistry&lt;br&gt;&#xA;Calcium: 50&lt;br&gt;&#xA;Magnesium: 5&lt;br&gt;&#xA;Sodium: 20&lt;br&gt;&#xA;Chloride: 30&lt;br&gt;&#xA;Sulfate: 100&lt;br&gt;&#xA;-Higher sulfates will give aid in drying out the beer and accentuating the hops/fruit.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

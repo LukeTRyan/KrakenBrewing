@@ -2,39 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saison on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/saison/</link>
+    <link>http://localhost:1313/tags/saison/</link>
     <description>Recent content in Saison on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Mon, 26 Dec 2022 05:21:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/saison/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Dec 2022 05:21:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/saison/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beers &amp; Goals of 2023</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</link>
+      <link>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</link>
       <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</guid>
-      <description>2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals.</description>
+      <guid>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</guid>
+      <description>&lt;p&gt;2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals. While I tend to stick to the same styles, I&amp;rsquo;m keen to branch out and try new things, mainly to keep things fresh and exciting. I&amp;rsquo;m also keen to try new methods, improve the efficiencies of my current process, and work on the limitations I&amp;rsquo;m currently facing.&lt;br&gt;&#xA;&lt;br&gt;&#xA;I﻿n 2023, I have a few notable brewing improvements and styles I&amp;rsquo;m excited to try. In no given order, these are:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Raspberry Saison</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</link>
+      <link>http://localhost:1313/post/2020-01-06-raspberry-saison/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-01-06-raspberry-saison/</guid>
-      <description>Grain Bill
--Base is pilsner, Vienna and Wheat malt to add body, head and character with a slight maltiness from the Vienna. Acidulated malt to lower mash pH. Hops
--Bittering hops to give approximately 30 IBUs and add spicy and fruity notes.
--Kent Goldings, Saaz, or Willamette to add mild floral/herbal notes without overpowering the fruit.
-Water Chemistry
-Calcium: 50
-Magnesium: 5
-Sodium: 20
-Chloride: 30
-Sulfate: 100
--Higher sulfates will give aid in drying out the beer and accentuating the hops/fruit.</description>
+      <guid>http://localhost:1313/post/2020-01-06-raspberry-saison/</guid>
+      <description>&lt;p&gt;Grain Bill&lt;br&gt;&#xA;-Base is pilsner, Vienna and Wheat malt to add body, head and character with a slight maltiness from the Vienna. Acidulated malt to lower mash pH.&#xA;Hops&lt;br&gt;&#xA;-Bittering hops to give approximately 30 IBUs and add spicy and fruity notes.&lt;br&gt;&#xA;-Kent Goldings, Saaz, or Willamette to add mild floral/herbal notes without overpowering the fruit.&lt;/p&gt;&#xA;&lt;p&gt;Water Chemistry&lt;br&gt;&#xA;Calcium: 50&lt;br&gt;&#xA;Magnesium: 5&lt;br&gt;&#xA;Sodium: 20&lt;br&gt;&#xA;Chloride: 30&lt;br&gt;&#xA;Sulfate: 100&lt;br&gt;&#xA;-Higher sulfates will give aid in drying out the beer and accentuating the hops/fruit.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

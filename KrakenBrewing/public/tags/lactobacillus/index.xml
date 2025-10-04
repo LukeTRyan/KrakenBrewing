@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lactobacillus on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/lactobacillus/</link>
+    <link>http://localhost:1313/tags/lactobacillus/</link>
     <description>Recent content in Lactobacillus on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Tue, 05 Dec 2023 22:03:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/lactobacillus/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Dec 2023 22:03:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lactobacillus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fruited Kettle Sour</title>
-      <link>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</link>
+      <link>http://localhost:1313/post/2023-12-05-fruited-kettle-sour/</link>
       <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</guid>
-      <description>Summer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it&amp;rsquo;s a lot less effort than kettle sours and produces similar results. However, I&amp;rsquo;m strapped for time given I want this beer done by Christmas, and Philly Sour isn&amp;rsquo;t really an option, so I&amp;rsquo;m going back to my kettle-sour roots.</description>
+      <guid>http://localhost:1313/post/2023-12-05-fruited-kettle-sour/</guid>
+      <description>&lt;p&gt;Summer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it&amp;rsquo;s a lot less effort than kettle sours and produces similar results. However, I&amp;rsquo;m strapped for time given I want this beer done by Christmas, and Philly Sour isn&amp;rsquo;t really an option, so I&amp;rsquo;m going back to my kettle-sour roots.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mango Sour (Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</link>
+      <link>http://localhost:1313/post/2021-04-12-mango-sour-gose/</link>
       <pubDate>Mon, 12 Apr 2021 02:28:34 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</guid>
-      <description>Time for another sour! This time it&amp;rsquo;s going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:
-- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness.
-- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.
-- A mesh bag will be used to catch the fruit particles and make kegging easier.</description>
+      <guid>http://localhost:1313/post/2021-04-12-mango-sour-gose/</guid>
+      <description>&lt;p&gt;Time for another sour! This time it&amp;rsquo;s going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:&lt;/p&gt;&#xA;&lt;p&gt;- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness.&lt;/p&gt;&#xA;&lt;p&gt;- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.&lt;/p&gt;&#xA;&lt;p&gt;- A mesh bag will be used to catch the fruit particles and make kegging easier.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

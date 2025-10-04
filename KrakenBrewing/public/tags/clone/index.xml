@@ -2,58 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clone on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/clone/</link>
+    <link>http://localhost:1313/tags/clone/</link>
     <description>Recent content in Clone on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Tue, 27 Dec 2022 22:25:14 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/clone/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Dec 2022 22:25:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/clone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stone &amp; Wood Clone #3</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-12-27-stone-wood-clone-3/</link>
+      <link>http://localhost:1313/post/2022-12-27-stone-wood-clone-3/</link>
       <pubDate>Tue, 27 Dec 2022 22:25:14 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-12-27-stone-wood-clone-3/</guid>
-      <description>I﻿n an effort to refine the Stone &amp;amp; Wood clone from this post, I&amp;rsquo;ve updated the recipe based on the results and inspiration from other sources (see link in notes). For the new batch, I&amp;rsquo;m adding some flaked wheat to add some more haze, and i&amp;rsquo;m lowering the percentage of ale malt. I&amp;rsquo;m also switching to american ale malt, in order to get a lighter colour. Finally, I&amp;rsquo;m increasing the dry hop to 100g and maintaining IBUs at around 22.</description>
+      <guid>http://localhost:1313/post/2022-12-27-stone-wood-clone-3/</guid>
+      <description>&lt;p&gt;I﻿n an effort to refine the Stone &amp;amp; Wood clone from &lt;a href=&#34;https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/&#34;&gt;this &lt;/a&gt;post, I&amp;rsquo;ve updated the recipe based on the results and inspiration from other sources (see link in notes). For the new batch, I&amp;rsquo;m adding some flaked wheat to add some more haze, and i&amp;rsquo;m lowering the percentage of ale malt. I&amp;rsquo;m also switching to american ale malt, in order to get a lighter colour. Finally, I&amp;rsquo;m increasing the dry hop to 100g and maintaining IBUs at around 22. I&amp;rsquo;m also experimenting with ascorbic acid (vitamin C) and sodium metabisulfite (SMB) during the dry hop, in an effort to reduce oxidation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ballistic Hawaiian Haze Clone (DDH Pale Ale)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</link>
+      <link>http://localhost:1313/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</link>
       <pubDate>Mon, 12 Apr 2021 03:18:37 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</guid>
-      <description>For my next clone, I&amp;rsquo;m going to attempt to replicate Ballistic Brewing&amp;rsquo;s &amp;ldquo;Hawaiian Haze&amp;rdquo; DDH Pale Ale. The tasting notes for this beer have been descriped as juicy, pineapple, hoppy and citric. It&amp;rsquo;s light in colour with a solid haze. The hops used were Citra, Rakau, Pacifica and Mosaic. The malts are pale malt, rolled/flaked oats and rolled/flaked wheat. It has medium bitterness with 30 IBUs and an ABV of 4.</description>
+      <guid>http://localhost:1313/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</guid>
+      <description>&lt;p&gt;For my next clone, I&amp;rsquo;m going to attempt to replicate Ballistic Brewing&amp;rsquo;s &amp;ldquo;Hawaiian Haze&amp;rdquo; DDH Pale Ale. The tasting notes for this beer have been descriped as juicy, pineapple, hoppy and citric. It&amp;rsquo;s light in colour with a solid haze. The hops used were Citra, Rakau, Pacifica and Mosaic. The malts are pale malt, rolled/flaked oats and rolled/flaked wheat. It has medium bitterness with 30 IBUs and an ABV of 4.6%. Using this information, I plan to make a recipe that replicates the beer as closely as possible.&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Grain Bill&lt;/strong&gt;&lt;br&gt;&#xA;-Use of high protein grains such as flaked oats and wheat. &lt;br&gt;&#xA;-Marris Otter base, with some wheat malt, flaked oats and flaked wheat &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Hops&lt;/strong&gt;&lt;br&gt;&#xA;-Citra, Rakau, Pacifica and Mosaic, targetting 30 IBU in the boil with late additions and a substantial dry hop. The whirlpool should make up majority of the hop boil additions, aiming for 80-85c additions. &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Chemistry&lt;/strong&gt;&lt;br&gt;&#xA;-a 2:1 Chloride to Sulfate ratio will accentuate the smooth malt body and not the hops, as they speak for themselves.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Stone &amp; Wood Clone #2</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/</link>
+      <link>http://localhost:1313/post/2021-02-25-stone-wood-clone-2/</link>
       <pubDate>Thu, 25 Feb 2021 05:05:29 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-02-25-stone-wood-clone-2/</guid>
-      <description>The second beer I ever made was my first time going all grain. This recipe (here) was a Stone &amp;amp; Wood clone, designed to loosely resemble the beer. While this was one of the most successful beers I&amp;rsquo;ve made, I decided to re-do it, this time with a much better, fine-tuned setup. The aim of this is to get an understanding on the impact of changing certain aspects to a brew and how they affect the end result.</description>
+      <guid>http://localhost:1313/post/2021-02-25-stone-wood-clone-2/</guid>
+      <description>&lt;p&gt;The second beer I ever made was my first time going all grain. This recipe (&lt;a href=&#34;https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/&#34;&gt;here&lt;/a&gt;) was a Stone &amp;amp; Wood clone, designed to loosely resemble the beer. While this was one of the most successful beers I&amp;rsquo;ve made, I decided to re-do it, this time with a much better, fine-tuned setup. The aim of this is to get an understanding on the impact of changing certain aspects to a brew and how they affect the end result. The grain bill is remaining mostly the same, with slightly more Wheat malt and Carapils. I&amp;rsquo;ve also increased the hop additions, adding slightly more bitterness and hopstand additions. Furthermore, I&amp;rsquo;ve tweaked the water chemistry in order to favour a light, hoppy ale, while removing chloramine with campden tablets. The beer will be kegged, whereas previously it was bottled, presenting more chance for oxidation. &lt;br&gt;&#xA;&lt;br&gt;&#xA;The updated recipe can be found here:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Balter XPA Clone</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</link>
+      <link>http://localhost:1313/post/2020-07-20-balter-xpa-clone/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-07-20-balter-xpa-clone/</guid>
-      <description>This beer was designed to clone Balter&amp;rsquo;s XPA and be close as possible to the original. The head brewers released the hops they used, but not the grains or yeast. The clone grist consisted primarily of American Pale malt with some wheat and carapils for body/head retention and some cara malt for malty flavour. The water profile was higher in calcium and suflate to accentuate the hops, of which were primarily citrus/fruity.</description>
+      <guid>http://localhost:1313/post/2020-07-20-balter-xpa-clone/</guid>
+      <description>&lt;p&gt;This beer was designed to clone Balter&amp;rsquo;s XPA and be close as possible to the original. The head brewers released the hops they used, but not the grains or yeast. The clone grist consisted primarily of American Pale malt with some wheat and carapils for body/head retention and some cara malt for malty flavour. The water profile was higher in calcium and suflate to accentuate the hops, of which were primarily citrus/fruity. Mash was mid 60&amp;rsquo;s to increase fermentable sugar content and produce a semi-dry beer using US-05.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My First All Grain BIAB</title>
-      <link>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</link>
+      <link>http://localhost:1313/post/2019-05-16-snw-clone-biab/</link>
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2019-05-16-snw-clone-biab/</guid>
-      <description>While my mead is fermenting, I decided i’ll make my second ever batch of beer. This time I decided to scale things up to 23L and go with an all grain Pacific Ale BIAB (similar to Stone and Wood). For this I bought a 35L brew pot as well as a 30L plastic fermenter with airlock and thermometer. The specs of the Pacific Ale are as follows:
-Date: 24/5/19
-Boil Time: 60 min</description>
+      <guid>http://localhost:1313/post/2019-05-16-snw-clone-biab/</guid>
+      <description>&lt;p&gt;While my mead is fermenting, I decided i’ll make my second ever batch of beer. This time I decided to scale things up to 23L and go with an all grain Pacific Ale BIAB (similar to Stone and Wood). For this I bought a 35L brew pot as well as a 30L plastic fermenter with airlock and thermometer. The specs of the Pacific Ale are as follows:&lt;/p&gt;&#xA;&lt;p&gt;Date: 24/5/19&lt;br&gt;&#xA;Boil Time: 60 min&lt;br&gt;&#xA;Batch Size: 20L (fermenter volume)&lt;br&gt;&#xA;Boil Size: 25L&lt;br&gt;&#xA;Mash: 30L at 66 °C for 60 min&lt;br&gt;&#xA;Target OG: 1.046&lt;br&gt;&#xA;Target FG: 1.008&lt;br&gt;&#xA;Target ABV: 5.05%&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

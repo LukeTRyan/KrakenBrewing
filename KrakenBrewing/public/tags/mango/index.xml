@@ -2,42 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mango on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/mango/</link>
+    <link>http://localhost:1313/tags/mango/</link>
     <description>Recent content in Mango on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Tue, 24 May 2022 10:24:19 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/mango/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 May 2022 10:24:19 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mango/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mango Lassi Sour (Fruited Sour Ale)</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</link>
+      <link>http://localhost:1313/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</link>
       <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</guid>
-      <description>The inspiration for this beer comes from the traditional Indian Lassi drink, a sweet or spiced yogurt-based drink, commonly flavoured with fruit such as Mango. Like my other sours, this beer will have wheat and oat additions to add body and fullness. I&amp;rsquo;ll also be adding some lactose to counteract the sourness add to the body of the beer. For the fruit addition, I&amp;rsquo;ll be adding about 4kg of pureed mango as well as 1L of mango pulp (or mango nectar if I cant find the pulp).</description>
+      <guid>http://localhost:1313/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</guid>
+      <description>&lt;p&gt;The inspiration for this beer comes from the traditional Indian Lassi drink, a sweet or spiced yogurt-based drink, commonly flavoured with fruit such as Mango. Like my other sours, this beer will have wheat and oat additions to add body and fullness. I&amp;rsquo;ll also be adding some lactose to counteract the sourness add to the body of the beer. For the fruit addition, I&amp;rsquo;ll be adding about 4kg of pureed mango as well as 1L of mango pulp (or mango nectar if I cant find the pulp).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mango Sour (Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</link>
+      <link>http://localhost:1313/post/2021-04-12-mango-sour-gose/</link>
       <pubDate>Mon, 12 Apr 2021 02:28:34 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</guid>
-      <description>Time for another sour! This time it&amp;rsquo;s going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:
-- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness.
-- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.
-- A mesh bag will be used to catch the fruit particles and make kegging easier.</description>
+      <guid>http://localhost:1313/post/2021-04-12-mango-sour-gose/</guid>
+      <description>&lt;p&gt;Time for another sour! This time it&amp;rsquo;s going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:&lt;/p&gt;&#xA;&lt;p&gt;- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness.&lt;/p&gt;&#xA;&lt;p&gt;- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.&lt;/p&gt;&#xA;&lt;p&gt;- A mesh bag will be used to catch the fruit particles and make kegging easier.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mango IPA</title>
-      <link>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</link>
+      <link>http://localhost:1313/post/2019-11-10-mango-ipa/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2019-11-10-mango-ipa/</guid>
-      <description>This time around, I decided to go with a Mango IPA since I love mango and wanted to try making a fruit beer. I now have my Brewzilla 3.1 35L setup and a better, larger fermentation fridge. Hopefully this will up the quality of my homebrew and make the process a lot easier. The Mango is added during fermentation with the hops and left for a week or two.
-Mango IPA</description>
+      <guid>http://localhost:1313/post/2019-11-10-mango-ipa/</guid>
+      <description>&lt;p&gt;This time around, I decided to go with a Mango IPA since I love mango and wanted to try making a fruit beer. I now have my Brewzilla 3.1 35L setup and a better, larger fermentation fridge. Hopefully this will up the quality of my homebrew and make the process a lot easier. The Mango is added during fermentation with the hops and left for a week or two.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mango IPA&lt;/strong&gt;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.brewersfriend.com/homebrew/recipe/view/369037/hey-mango-ipa&#34;&gt;R﻿ecipe link&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

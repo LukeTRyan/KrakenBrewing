@@ -2,98 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sour on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/sour/</link>
+    <link>http://localhost:1313/tags/sour/</link>
     <description>Recent content in Sour on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Tue, 05 Dec 2023 22:03:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/sour/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Dec 2023 22:03:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sour/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fruited Kettle Sour</title>
-      <link>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</link>
+      <link>http://localhost:1313/post/2023-12-05-fruited-kettle-sour/</link>
       <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</guid>
-      <description>Summer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it&amp;rsquo;s a lot less effort than kettle sours and produces similar results. However, I&amp;rsquo;m strapped for time given I want this beer done by Christmas, and Philly Sour isn&amp;rsquo;t really an option, so I&amp;rsquo;m going back to my kettle-sour roots.</description>
+      <guid>http://localhost:1313/post/2023-12-05-fruited-kettle-sour/</guid>
+      <description>&lt;p&gt;Summer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it&amp;rsquo;s a lot less effort than kettle sours and produces similar results. However, I&amp;rsquo;m strapped for time given I want this beer done by Christmas, and Philly Sour isn&amp;rsquo;t really an option, so I&amp;rsquo;m going back to my kettle-sour roots.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Strawbarb Sour (Strawberry Rhubarb Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</link>
+      <link>http://localhost:1313/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</link>
       <pubDate>Sun, 23 Apr 2023 06:30:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</guid>
-      <description>W﻿ith this beer, I wanted to return to the first sour I ever made, a strawberry sour. It was not long after covid had started, and I was spending a lot of time indoors as my workplace at the time (a bar) was frequently shut due to lockdowns. I remember spending hours and hours researching souring techniques and methods, and eventually made my first kettle sour. It was a beer I was extremely proud of, because all the effort of planning and research paid off.</description>
+      <guid>http://localhost:1313/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</guid>
+      <description>&lt;p&gt;W﻿ith this beer, I wanted to return to the first sour I ever made, &lt;a href=&#34;https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/&#34;&gt;a strawberry sour&lt;/a&gt;. It was not long after covid had started, and I was spending a lot of time indoors as my workplace at the time (a bar) was frequently shut due to lockdowns. I remember spending hours and hours researching souring techniques and methods, and eventually made my first kettle sour. It was a beer I was extremely proud of, because all the effort of planning and research paid off.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Beers &amp; Goals of 2023</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</link>
+      <link>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</link>
       <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</guid>
-      <description>2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals.</description>
+      <guid>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</guid>
+      <description>&lt;p&gt;2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals. While I tend to stick to the same styles, I&amp;rsquo;m keen to branch out and try new things, mainly to keep things fresh and exciting. I&amp;rsquo;m also keen to try new methods, improve the efficiencies of my current process, and work on the limitations I&amp;rsquo;m currently facing.&lt;br&gt;&#xA;&lt;br&gt;&#xA;I﻿n 2023, I have a few notable brewing improvements and styles I&amp;rsquo;m excited to try. In no given order, these are:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Blackberry Sour (Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-11-12-berry-sour-gose/</link>
+      <link>http://localhost:1313/post/2022-11-12-berry-sour-gose/</link>
       <pubDate>Sat, 12 Nov 2022 13:33:06 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-11-12-berry-sour-gose/</guid>
-      <description>Going ahead with another fruited sour using the Philly Sour yeast. This time I think I&amp;rsquo;ll do a mix of darker fruits (Blackberry, Cherry &amp;amp; Raspberry) and see how that goes. Like my last sour, I&amp;rsquo;ve added some lactose to counteract the sourness. I also added some dextrose to the boil to give the yeast some glucose for lactic acid production. I&amp;rsquo;ll probably add the fruit around day 5-6, purge with some c02 and leave for 3-4 days until fermentation finishes.</description>
+      <guid>http://localhost:1313/post/2022-11-12-berry-sour-gose/</guid>
+      <description>&lt;p&gt;Going ahead with another fruited sour using the Philly Sour yeast. This time I think I&amp;rsquo;ll do a mix of darker fruits (Blackberry, Cherry &amp;amp; Raspberry) and see how that goes. Like my last sour, I&amp;rsquo;ve added some lactose to counteract the sourness. I also added some dextrose to the boil to give the yeast some glucose for lactic acid production. I&amp;rsquo;ll probably add the fruit around day 5-6, purge with some c02 and leave for 3-4 days until fermentation finishes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mango Lassi Sour (Fruited Sour Ale)</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</link>
+      <link>http://localhost:1313/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</link>
       <pubDate>Tue, 24 May 2022 10:24:19 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</guid>
-      <description>The inspiration for this beer comes from the traditional Indian Lassi drink, a sweet or spiced yogurt-based drink, commonly flavoured with fruit such as Mango. Like my other sours, this beer will have wheat and oat additions to add body and fullness. I&amp;rsquo;ll also be adding some lactose to counteract the sourness add to the body of the beer. For the fruit addition, I&amp;rsquo;ll be adding about 4kg of pureed mango as well as 1L of mango pulp (or mango nectar if I cant find the pulp).</description>
+      <guid>http://localhost:1313/post/2022-05-24-planned-mango-lassi-sour-with-maleny-yogurt/</guid>
+      <description>&lt;p&gt;The inspiration for this beer comes from the traditional Indian Lassi drink, a sweet or spiced yogurt-based drink, commonly flavoured with fruit such as Mango. Like my other sours, this beer will have wheat and oat additions to add body and fullness. I&amp;rsquo;ll also be adding some lactose to counteract the sourness add to the body of the beer. For the fruit addition, I&amp;rsquo;ll be adding about 4kg of pureed mango as well as 1L of mango pulp (or mango nectar if I cant find the pulp).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Pavlova Sour (Christmas Sour) (Vanilla Passionfruit Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</link>
+      <link>http://localhost:1313/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</link>
       <pubDate>Sat, 13 Nov 2021 23:35:06 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</guid>
-      <description>This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I&amp;rsquo;m using Lallemand&amp;rsquo;s Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I&amp;rsquo;m interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions.</description>
+      <guid>http://localhost:1313/post/2021-11-13-pavlova-sour-christmas-sour-vanilla-passionfruit-gose/</guid>
+      <description>&lt;p&gt;This Passionfruit and Vanilla sour was the next sour ale I had lined up in my list of fruited sours. This time around I&amp;rsquo;m using Lallemand&amp;rsquo;s Philly Sour yeast - A lactic acid producing yeast. This will be my first sour without using traditional kettle souring techniques with Lactobacillus Plantarum, so I&amp;rsquo;m interested to see how it turns out. Some people have said that this strain produces less lactic acid and thus less sourness than kettle souring, but this generally comes down to yeast health and fermentation conditions. I&amp;rsquo;m fermenting at 23c, as a higher temperature supposedly encourages greater lactic acid production. As for the additions, I&amp;rsquo;m adding 2kg of frozen Passionfruit Pulp from Hoppy Days Brewing Supplies in Brisbane. I&amp;rsquo;m also adding about 10ml of Vanilla Extract and 250g of Lactose to the boil (to counteract the sourness of the passionfruit and lactic acid). I&amp;rsquo;m aiming for a pH of around 3.3 and a FG of about 1.015, to give an ABV of approximately 5.4%.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mango Sour (Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</link>
+      <link>http://localhost:1313/post/2021-04-12-mango-sour-gose/</link>
       <pubDate>Mon, 12 Apr 2021 02:28:34 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-mango-sour-gose/</guid>
-      <description>Time for another sour! This time it&amp;rsquo;s going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:
-- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness.
-- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.
-- A mesh bag will be used to catch the fruit particles and make kegging easier.</description>
+      <guid>http://localhost:1313/post/2021-04-12-mango-sour-gose/</guid>
+      <description>&lt;p&gt;Time for another sour! This time it&amp;rsquo;s going to be Mango, utilising 3kg of mango puree. The process will be the same kettle sour as my previous ones:&lt;/p&gt;&#xA;&lt;p&gt;- Flaked Oats will be added to give the beer body, mouthfeel and slight sweetness.&lt;/p&gt;&#xA;&lt;p&gt;- Fruit addition will be added during primary/secondary to get a fresher flavour and avoid cooked-flavours.&lt;/p&gt;&#xA;&lt;p&gt;- A mesh bag will be used to catch the fruit particles and make kegging easier.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Raspberry Sour (Berliner Weisse)</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-08-21-raspberry-sour-berliner-weisse/</link>
+      <link>http://localhost:1313/post/2020-08-21-raspberry-sour-berliner-weisse/</link>
       <pubDate>Fri, 21 Aug 2020 09:07:15 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-08-21-raspberry-sour-berliner-weisse/</guid>
-      <description>This sour is pretty much a copy of the strawberry sour/berliner weisse I did last time. The only changes i&amp;rsquo;m making this time around are:
-- Adding more fruit (4kg) in a pureed form (wholesale) which contains 15% sugar. This will up the ABV so the grain bill will be lower than normal.
-- Fruit addition will be added during primary/secondary to get a fresher flavour and remove cooked-flavours.
-- A mesh bag will be used to catch the Raspberry particles and make kegging easier.</description>
+      <guid>http://localhost:1313/post/2020-08-21-raspberry-sour-berliner-weisse/</guid>
+      <description>&lt;p&gt;This sour is pretty much a copy of the strawberry sour/berliner weisse I did last time. The only changes i&amp;rsquo;m making this time around are:&lt;/p&gt;&#xA;&lt;p&gt;- Adding more fruit (4kg) in a pureed form (wholesale) which contains 15% sugar. This will up the ABV so the grain bill will be lower than normal.&lt;/p&gt;&#xA;&lt;p&gt;- Fruit addition will be added during primary/secondary to get a fresher flavour and remove cooked-flavours.&lt;/p&gt;&#xA;&lt;p&gt;- A mesh bag will be used to catch the Raspberry particles and make kegging easier.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Strawberry Sour</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</link>
+      <link>http://localhost:1313/post/2020-01-09-strawberry-sour/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</guid>
-      <description>This was my first fruit kettle sour/berliner weisse. I decided to go with pureed strawberries at the end of the boil and sour using IBS capsules. The wort was pre acidified with lactic acid and acidulated malt to aid the souring. Some citra hops were used to add a bit more depth and flavour and citrus backing to the beer. Next time I&amp;rsquo;d probably add the fruit in primary at the end of fermentation to get a fresher flavour, as boiling the strawberry made it taste slightly different and somewhat artificial.</description>
+      <guid>http://localhost:1313/post/2020-01-09-strawberry-sour/</guid>
+      <description>&lt;p&gt;This was my first fruit kettle sour/berliner weisse. I decided to go with pureed strawberries at the end of the boil and sour using IBS capsules. The wort was pre acidified with lactic acid and acidulated malt to aid the souring. Some citra hops were used to add a bit more depth and flavour and citrus backing to the beer. Next time I&amp;rsquo;d probably add the fruit in primary at the end of fermentation to get a fresher flavour, as boiling the strawberry made it taste slightly different and somewhat artificial.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

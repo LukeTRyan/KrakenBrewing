@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Closed Transfer on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/closed-transfer/</link>
-    <description>Recent content in Closed Transfer on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Thu, 12 Jan 2023 00:53:53 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/closed-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <title>Closed-Transfer on Kraken Brewing</title>
+    <link>http://localhost:1313/tags/closed-transfer/</link>
+    <description>Recent content in Closed-Transfer on Kraken Brewing</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Dec 2023 05:30:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/closed-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tips to avoid oxidation in homebrewed beer</title>
+      <link>http://localhost:1313/post/2023-12-27-tips-to-avoid-oxidation-in-homebrewed-beer/</link>
+      <pubDate>Wed, 27 Dec 2023 05:30:15 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-12-27-tips-to-avoid-oxidation-in-homebrewed-beer/</guid>
+      <description>&lt;h1 id=&#34;tips-to-avoid-oxidation-in-homebrew&#34;&gt;T﻿ips to avoid oxidation in homebrew&lt;/h1&gt;&#xA;&lt;p&gt;Brewing beer at home can be extremely rewarding. There&amp;rsquo;s no greater satisfaction than reaching a level of proficiency when you can comfortably say &amp;ldquo;I would pay to drink this in a pub&amp;rdquo;. However, with certain styles of beer and on a homebrew scale and budget, reaching that level (consistently) can be difficult.&lt;/p&gt;&#xA;&lt;p&gt;Oxidation is without a doubt one of the biggest banes of my existence (and a lot of other homebrewers out there). It can completely ruin a beer, and you&amp;rsquo;ll usually only know after brewing, fermenting and spending a huge amount of time and effort. When you reach that final stage and see that you&amp;rsquo;re beer is darkened in colour, lacks flavour and aroma, and tastes like wet cardboard, the only option is usually to dump it down the drain.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Valuable Life Lesson Learned on Using Pressurised Fermenters</title>
-      <link>https://krakenbrewing.netlify.app/post/2023-01-12-valuable-life-lesson-learned-on-using-pressurised-fermenters/</link>
+      <link>http://localhost:1313/post/2023-01-12-valuable-life-lesson-learned-on-using-pressurised-fermenters/</link>
       <pubDate>Thu, 12 Jan 2023 00:53:53 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2023-01-12-valuable-life-lesson-learned-on-using-pressurised-fermenters/</guid>
-      <description>I﻿ learned a valuable life lesson yesterday - If you&amp;rsquo;re dealing with pressurised vessels or containers, make sure there is something in place to stop it rapidly depressurising.
-Y﻿esterday, I noticed that my pressure ferment of my Stone and Wood clone (link here) was not building in pressure, even though my spunding valve was set to a higher psi. I listened closely to the fermenter lid and heard a small hissing sound.</description>
+      <guid>http://localhost:1313/post/2023-01-12-valuable-life-lesson-learned-on-using-pressurised-fermenters/</guid>
+      <description>&lt;p&gt;I﻿ learned a valuable life lesson yesterday - If you&amp;rsquo;re dealing with pressurised vessels or containers, make sure there is something in place to stop it rapidly depressurising.&lt;/p&gt;&#xA;&lt;p&gt;Y﻿esterday, I noticed that my pressure ferment of my Stone and Wood clone (link &lt;a href=&#34;https://krakenbrewing.netlify.app/post/2022-12-27-stone-wood-clone-3/&#34;&gt;here&lt;/a&gt;) was not building in pressure, even though my spunding valve was set to a higher psi. I listened closely to the fermenter lid and heard a small hissing sound. Upon investigating, I narrowed down the leak to either the lid itself or the carbonation cap. I replaced the carbonation cap with another after venting the pressure, however, after re-applying some C02, the leak was still there. Here is where my mistake took place. I took off the safety cap that keeps the lid in place on the fermenter and attempted to see if there were any cracks or places the C02 could escape. As the pressure was low, I couldn&amp;rsquo;t hear any hissing. I added about 10psi of C02 to the fermenter and loosely held my hand on the lid to keep it in place. While bent over, looking directly at the lid, the lid blew off the fermenter and hit me in the eye before sending itself half way across the garage. Key lesson here - never mess with pressurised containers without the proper safety measures in place. If the lid hit about an inch lower, I could have lost my right eye. Instead, I&amp;rsquo;ve got a swollen eye socket, 2 cuts above and below my eye, and an embarrassing story.&lt;br&gt;&#xA;&lt;br&gt;&#xA;L﻿uckily, I fixed the leak. Never again though am I going to apply pressure and stare directly into the main exit port of a fermenter.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Closed Transfer Guide</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-08-20-closed-transfer-guide/</link>
+      <link>http://localhost:1313/post/2020-08-20-closed-transfer-guide/</link>
       <pubDate>Thu, 20 Aug 2020 02:55:41 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-08-20-closed-transfer-guide/</guid>
-      <description>For future reference, I&amp;rsquo;m going to briefly run through the process for a closed transfer, both pressurised and un-pressurised. The goal of this method is to reduce oxidation/oxygen contact on fermented beer. Oxidation can hugely impact the flavour and appearance of a beer, giving it off-flavours or causing hop flavour and aroma to dissipate. Therefore, it is important to reduce oxygen contact when transferring finished beer, especially heavily hopped beer. These methods will be suited for the SS Brewtech Brew Bucket or other stainless fermenters that are pressure rated to at least 1-2psi.</description>
+      <guid>http://localhost:1313/post/2020-08-20-closed-transfer-guide/</guid>
+      <description>&lt;p&gt;For future reference, I&amp;rsquo;m going to briefly run through the process for a closed transfer, both pressurised and un-pressurised. The goal of this method is to reduce oxidation/oxygen contact on fermented beer. Oxidation can hugely impact the flavour and appearance of a beer, giving it off-flavours or causing hop flavour and aroma to dissipate. Therefore, it is important to reduce oxygen contact when transferring finished beer, especially heavily hopped beer. These methods will be suited for the SS Brewtech Brew Bucket or other stainless fermenters that are pressure rated to at least 1-2psi.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

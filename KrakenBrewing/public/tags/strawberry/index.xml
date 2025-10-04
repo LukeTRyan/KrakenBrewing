@@ -2,38 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strawberry on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/strawberry/</link>
+    <link>http://localhost:1313/tags/strawberry/</link>
     <description>Recent content in Strawberry on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Tue, 05 Dec 2023 22:03:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/strawberry/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Dec 2023 22:03:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/strawberry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fruited Kettle Sour</title>
-      <link>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</link>
+      <link>http://localhost:1313/post/2023-12-05-fruited-kettle-sour/</link>
       <pubDate>Tue, 05 Dec 2023 22:03:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2023-12-05-fruited-kettle-sour/</guid>
-      <description>Summer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it&amp;rsquo;s a lot less effort than kettle sours and produces similar results. However, I&amp;rsquo;m strapped for time given I want this beer done by Christmas, and Philly Sour isn&amp;rsquo;t really an option, so I&amp;rsquo;m going back to my kettle-sour roots.</description>
+      <guid>http://localhost:1313/post/2023-12-05-fruited-kettle-sour/</guid>
+      <description>&lt;p&gt;Summer time means fruity sour. My homebrew shop is currently out of Wildbrew Philly sour, a strain of yeast that produces lactic acid as well as alcohol. This yeast has been my go-to for sours for the last couple of years, as it&amp;rsquo;s a lot less effort than kettle sours and produces similar results. However, I&amp;rsquo;m strapped for time given I want this beer done by Christmas, and Philly Sour isn&amp;rsquo;t really an option, so I&amp;rsquo;m going back to my kettle-sour roots.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Strawbarb Sour (Strawberry Rhubarb Gose)</title>
-      <link>https://krakenbrewing.netlify.app/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</link>
+      <link>http://localhost:1313/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</link>
       <pubDate>Sun, 23 Apr 2023 06:30:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</guid>
-      <description>W﻿ith this beer, I wanted to return to the first sour I ever made, a strawberry sour. It was not long after covid had started, and I was spending a lot of time indoors as my workplace at the time (a bar) was frequently shut due to lockdowns. I remember spending hours and hours researching souring techniques and methods, and eventually made my first kettle sour. It was a beer I was extremely proud of, because all the effort of planning and research paid off.</description>
+      <guid>http://localhost:1313/post/2023-04-23-strubarb-sour-strawberry-rhubarb-gose/</guid>
+      <description>&lt;p&gt;W﻿ith this beer, I wanted to return to the first sour I ever made, &lt;a href=&#34;https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/&#34;&gt;a strawberry sour&lt;/a&gt;. It was not long after covid had started, and I was spending a lot of time indoors as my workplace at the time (a bar) was frequently shut due to lockdowns. I remember spending hours and hours researching souring techniques and methods, and eventually made my first kettle sour. It was a beer I was extremely proud of, because all the effort of planning and research paid off.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Strawberry Sour</title>
-      <link>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</link>
+      <link>http://localhost:1313/post/2020-01-09-strawberry-sour/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2020-01-09-strawberry-sour/</guid>
-      <description>This was my first fruit kettle sour/berliner weisse. I decided to go with pureed strawberries at the end of the boil and sour using IBS capsules. The wort was pre acidified with lactic acid and acidulated malt to aid the souring. Some citra hops were used to add a bit more depth and flavour and citrus backing to the beer. Next time I&amp;rsquo;d probably add the fruit in primary at the end of fermentation to get a fresher flavour, as boiling the strawberry made it taste slightly different and somewhat artificial.</description>
+      <guid>http://localhost:1313/post/2020-01-09-strawberry-sour/</guid>
+      <description>&lt;p&gt;This was my first fruit kettle sour/berliner weisse. I decided to go with pureed strawberries at the end of the boil and sour using IBS capsules. The wort was pre acidified with lactic acid and acidulated malt to aid the souring. Some citra hops were used to add a bit more depth and flavour and citrus backing to the beer. Next time I&amp;rsquo;d probably add the fruit in primary at the end of fermentation to get a fresher flavour, as boiling the strawberry made it taste slightly different and somewhat artificial.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

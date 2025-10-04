@@ -2,19 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/page/</link>
+    <link>http://localhost:1313/page/</link>
     <description>Recent content in Pages on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster><atom:link href="https://krakenbrewing.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://krakenbrewing.netlify.app/page/about/</link>
+      <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/page/about/</guid>
-      <description>Kraken brewing is Brisbane-based homebrew and craft beer. This site is a collection of recipes, notes and experiments taken through homebrewing beer.</description>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;Kraken brewing is Brisbane-based homebrew and craft beer. This site is a collection of recipes, notes and experiments taken through homebrewing beer.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

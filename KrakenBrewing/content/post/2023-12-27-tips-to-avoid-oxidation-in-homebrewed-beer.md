@@ -14,7 +14,6 @@ tags:
   - sodium-metabisulfite
   - ascorbic-acid
 ---
-# T﻿ips to avoid oxidation in homebrew
 
 Brewing beer at home can be extremely rewarding. There's no greater satisfaction than reaching a level of proficiency when you can comfortably say "I would pay to drink this in a pub". However, with certain styles of beer and on a homebrew scale and budget, reaching that level (consistently) can be difficult. 
 

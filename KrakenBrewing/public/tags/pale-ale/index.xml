@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pale Ale on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/pale-ale/</link>
-    <description>Recent content in Pale Ale on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Mon, 26 Dec 2022 05:21:59 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/pale-ale/index.xml" rel="self" type="application/rss+xml" />
+    <title>Pale-Ale on Kraken Brewing</title>
+    <link>http://localhost:1313/tags/pale-ale/</link>
+    <description>Recent content in Pale-Ale on Kraken Brewing</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Dec 2022 05:21:59 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pale-ale/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beers &amp; Goals of 2023</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</link>
+      <link>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</link>
       <pubDate>Mon, 26 Dec 2022 05:21:59 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-12-26-beers-goals-of-2023/</guid>
-      <description>2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals.</description>
+      <guid>http://localhost:1313/post/2022-12-26-beers-goals-of-2023/</guid>
+      <description>&lt;p&gt;2﻿022 was a good year for brewing - I definitely got back into the swing of things and was able to brew a lot more beer than in 2021. While there was some dud beers (mostly due to oxidation..), the beers in general definitely improved in quality. I recognised that I branched out in styles as well, experimenting with different spices and yeasts. Of these, the Beglian White Ale (Witbier), Aussie Sparkling Ale and Mango Lassi sour were 3 notable beers that involved new ways of brewing with spices and different hop varietals. While I tend to stick to the same styles, I&amp;rsquo;m keen to branch out and try new things, mainly to keep things fresh and exciting. I&amp;rsquo;m also keen to try new methods, improve the efficiencies of my current process, and work on the limitations I&amp;rsquo;m currently facing.&lt;br&gt;&#xA;&lt;br&gt;&#xA;I﻿n 2023, I have a few notable brewing improvements and styles I&amp;rsquo;m excited to try. In no given order, these are:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ballistic Hawaiian Haze Clone (DDH Pale Ale)</title>
-      <link>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</link>
+      <link>http://localhost:1313/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</link>
       <pubDate>Mon, 12 Apr 2021 03:18:37 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</guid>
-      <description>For my next clone, I&amp;rsquo;m going to attempt to replicate Ballistic Brewing&amp;rsquo;s &amp;ldquo;Hawaiian Haze&amp;rdquo; DDH Pale Ale. The tasting notes for this beer have been descriped as juicy, pineapple, hoppy and citric. It&amp;rsquo;s light in colour with a solid haze. The hops used were Citra, Rakau, Pacifica and Mosaic. The malts are pale malt, rolled/flaked oats and rolled/flaked wheat. It has medium bitterness with 30 IBUs and an ABV of 4.</description>
+      <guid>http://localhost:1313/post/2021-04-12-ballistic-hawaiian-haze-clone-ddh-pale-ale/</guid>
+      <description>&lt;p&gt;For my next clone, I&amp;rsquo;m going to attempt to replicate Ballistic Brewing&amp;rsquo;s &amp;ldquo;Hawaiian Haze&amp;rdquo; DDH Pale Ale. The tasting notes for this beer have been descriped as juicy, pineapple, hoppy and citric. It&amp;rsquo;s light in colour with a solid haze. The hops used were Citra, Rakau, Pacifica and Mosaic. The malts are pale malt, rolled/flaked oats and rolled/flaked wheat. It has medium bitterness with 30 IBUs and an ABV of 4.6%. Using this information, I plan to make a recipe that replicates the beer as closely as possible.&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Grain Bill&lt;/strong&gt;&lt;br&gt;&#xA;-Use of high protein grains such as flaked oats and wheat. &lt;br&gt;&#xA;-Marris Otter base, with some wheat malt, flaked oats and flaked wheat &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Hops&lt;/strong&gt;&lt;br&gt;&#xA;-Citra, Rakau, Pacifica and Mosaic, targetting 30 IBU in the boil with late additions and a substantial dry hop. The whirlpool should make up majority of the hop boil additions, aiming for 80-85c additions. &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Chemistry&lt;/strong&gt;&lt;br&gt;&#xA;-a 2:1 Chloride to Sulfate ratio will accentuate the smooth malt body and not the hops, as they speak for themselves.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

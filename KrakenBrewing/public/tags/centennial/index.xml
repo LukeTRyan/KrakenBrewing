@@ -2,20 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Centennial on Kraken Brewing</title>
-    <link>https://krakenbrewing.netlify.app/tags/centennial/</link>
+    <link>http://localhost:1313/tags/centennial/</link>
     <description>Recent content in Centennial on Kraken Brewing</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>luketryan95@gmail.com (Luke Ryan)</managingEditor>
-    <webMaster>luketryan95@gmail.com (Luke Ryan)</webMaster>
-    <lastBuildDate>Fri, 07 Jan 2022 03:07:22 +0000</lastBuildDate><atom:link href="https://krakenbrewing.netlify.app/tags/centennial/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Dec 2023 05:05:21 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/centennial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hazy Crusher (DDH Session NEIPA)</title>
+      <link>http://localhost:1313/post/2023-12-27-hazy-crusher-ddh-session-neipa/</link>
+      <pubDate>Wed, 27 Dec 2023 05:05:21 +0000</pubDate>
+      <guid>http://localhost:1313/post/2023-12-27-hazy-crusher-ddh-session-neipa/</guid>
+      <description>&lt;p&gt;I think this is my 3rd time making this beer, and I&amp;rsquo;m making it again because I think it&amp;rsquo;s great hazy ale. In the past, I&amp;rsquo;ve had issues around oxidation for these hoppy and oaty beers, but now I&amp;rsquo;m at a comfortable place with controlling oxidation through use of preservatives and techniques like closed transfers. When I ordered this beer, I could only get a hold of golden oat malt, which I decided to use. Due to that, the beer ended up a bit darker than I had hoped, but the taste was actually pretty damn good.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hoppy Days Hazy Crusher (Session Neipa)</title>
-      <link>https://krakenbrewing.netlify.app/post/2022-01-07-hoppy-days-hazy-crusher-session-neipa/</link>
+      <link>http://localhost:1313/post/2022-01-07-hoppy-days-hazy-crusher-session-neipa/</link>
       <pubDate>Fri, 07 Jan 2022 03:07:22 +0000</pubDate>
-      <author>luketryan95@gmail.com (Luke Ryan)</author>
-      <guid>https://krakenbrewing.netlify.app/post/2022-01-07-hoppy-days-hazy-crusher-session-neipa/</guid>
-      <description>This is a recipe I took from Hoppy Days Brewing Supplies (Brisbane), which is a session NEIPA. This beer features low bitterness, heavily fruity/critrus hops and a full body with plenty of high-protein malts. This brew makes use of Verdant IPA yeast, which will aid in creating this hazy, hoppy fruit bomb. Although i&amp;rsquo;ve brewed this beer before, the first time was a dump due to heavy oxidation. This time around, I&amp;rsquo;m utilising the Fermzilla 27L to do a pressurised, closed transfer ferment, to avoid any oxidation.</description>
+      <guid>http://localhost:1313/post/2022-01-07-hoppy-days-hazy-crusher-session-neipa/</guid>
+      <description>&lt;p&gt;This is a recipe I took from Hoppy Days Brewing Supplies (Brisbane), which is a session NEIPA. This beer features low bitterness, heavily fruity/critrus hops and a full body with plenty of high-protein malts. This brew makes use of Verdant IPA yeast, which will aid in creating this hazy, hoppy fruit bomb. Although i&amp;rsquo;ve brewed this beer before, the first time was a dump due to heavy oxidation. This time around, I&amp;rsquo;m utilising the Fermzilla 27L to do a pressurised, closed transfer ferment, to avoid any oxidation. Hops will be loaded into the collection container and purged with CO2, to remove any possibility of oxygen getting in.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
