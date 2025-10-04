@@ -1,6 +1,6 @@
 [build]
-  publish = "KrakenBrewing/public"
-  command = "cd KrakenBrewing && hugo"
+  publish = "public"
+  command = "hugo"
 
 [build.environment]
   HUGO_VERSION = "0.148.0"
@@ -11,7 +11,7 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "cd KrakenBrewing && hugo -F -b $DEPLOY_PRIME_URL"
+  command = "hugo -F -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-  command = "cd KrakenBrewing && hugo -F -b $DEPLOY_PRIME_URL"
+  command = "hugo -F -b $DEPLOY_PRIME_URL"
