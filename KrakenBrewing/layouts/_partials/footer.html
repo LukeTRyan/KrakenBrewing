@@ -1,0 +1,40 @@
+{{/* Site override of the theme footer: no theme credit line, and the copyright year is the build year. */}}
+{{ if eq .Type "page" }}
+  {{ partial "page_meta.html" . }}
+{{ end }}
+<footer>
+  <div class="container">
+    {{ if .Site.Params.disclaimerText }}
+    <div class="row">
+      <div class="disclaimer">
+        <b>Disclaimer:</b> {{ .Site.Params.disclaimerText }}
+      </div>
+    </div>
+    {{ end }}
+    <div class="row">
+      <div class="col-md-10 offset-md-1">
+        {{ partialCached "footer-social.html" . .Language.Lang }}
+        <p class="credits copyright text-muted">
+          {{ if .Site.Params.author.name }}
+            {{ if .Site.Params.author.website }}
+              <a href="{{ .Site.Params.author.website }}">{{ .Site.Params.author.name }}</a>
+            {{ else }}
+              {{ .Site.Params.author.name }}
+            {{ end }}
+            &nbsp;&bull;&nbsp;
+          {{ end }}
+          &copy;
+          {{/* Site override: the theme uses the latest post's year; show the build year instead */}}
+          {{ with .Site.Params.since }}{{ . }}&ndash;{{ end }}{{ now.Format "2006" }}
+
+          {{ if and .Site.Params.author.name (or .Site.Params.homeTitle .Site.Title) }}
+            &nbsp;&bull;&nbsp;
+          {{ end }}
+          {{ if or .Site.Params.homeTitle .Site.Title }}
+            <a href="{{ "" | relLangURL }}">{{ .Site.Params.homeTitle | default .Site.Title }}</a>
+          {{ end }}
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>

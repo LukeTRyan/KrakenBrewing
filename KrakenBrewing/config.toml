@@ -21,13 +21,15 @@ shortname = "https-krakenbrewing-netlify-app"
   logo = "img/icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
+  since = 2019 # first year in the footer copyright
+  colorScheme = "light" # always light; the theme drops its dark-mode toggle
   commit = false
   rss = true
   comments = true
   readingTime = false
   wordCount = true
   useHLJS = true
-  socialShare = true
+  socialShare = false
   delayDisqus = true
   showRelatedPosts = true
   hideAuthor = true
@@ -36,8 +38,6 @@ shortname = "https-krakenbrewing-netlify-app"
 
 [Params.Author]
   name = "Luke Ryan"
-  website = "https://luketryan.github.io/Portfolio/"
-  email = "luketryan95@gmail.com"
   github = "LukeTRyan"
   linkedin = "luke-t-ryan"
   instagram = "kraken.brewing/"
