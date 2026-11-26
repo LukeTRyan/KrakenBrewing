@@ -21,7 +21,6 @@ shortname = "https-krakenbrewing-netlify-app"
   logo = "img/icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
-  since = 2019 # first year in the footer copyright
   colorScheme = "light" # always light; the theme drops its dark-mode toggle
   commit = false
   rss = true

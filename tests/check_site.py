@@ -121,8 +121,8 @@ def check_built_site(site):
         if needle not in footer:
             fail(f"homepage footer is missing {needle!r} (check [Params.Author] and layouts/_partials/footer.html)")
     year = datetime.date.today().year
-    if not re.search(rf"&copy;\s*2019&ndash;{year}\b", footer):
-        fail(f"homepage footer copyright should read 2019-{year}")
+    if not re.search(rf"&copy;\s*{year}\s", footer):
+        fail(f"homepage footer copyright should read {year}")
     # Deliberately left out of the footer: email link, portfolio link, theme credit
     for unwanted in ("mailto:", "luketryan.github.io", "Beautiful Hugo"):
         if unwanted in footer:

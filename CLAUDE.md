@@ -16,7 +16,7 @@ This is a Hugo-based static site for Kraken Brewing, a Brisbane-based homebrew a
   - Static pages in `content/page/`
 - **Static Assets**: Images and other static files in `static/img/`. Resize photos to at most 1600px and strip EXIF (phone photos carry GPS) before adding them, e.g. `convert in.jpg -auto-orient -resize '1600x1600>' -strip -quality 82 out.jpg`
 - **Custom Layouts**: `layouts/_partials/head_custom.html` holds everything site-specific in `<head>`: Google Analytics, AdSense, the Search Console verification tag, the Netlify Identity widget (needed for CMS invite/recovery links) and the `og:image` tag from `share_img`
-- **Footer**: `layouts/_partials/footer.html` overrides the theme footer to drop the theme credit and show `since`–build year
+- **Footer**: `layouts/_partials/footer.html` overrides the theme footer to drop the theme credit and show the current (build) year
 - **Headers**: `static/_headers` sets Netlify security headers
 - **Build output**: `public/` is git-ignored; Netlify rebuilds it on every deploy
 

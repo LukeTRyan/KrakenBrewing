@@ -1,4 +1,4 @@
-{{/* Site override of the theme footer: no theme credit line, and the copyright year is the build year. */}}
+{{/* Site override of the theme footer: no theme credit line, and the copyright shows the current (build) year. */}}
 {{ if eq .Type "page" }}
   {{ partial "page_meta.html" . }}
 {{ end }}
@@ -24,8 +24,8 @@
             &nbsp;&bull;&nbsp;
           {{ end }}
           &copy;
-          {{/* Site override: the theme uses the latest post's year; show the build year instead */}}
-          {{ with .Site.Params.since }}{{ . }}&ndash;{{ end }}{{ now.Format "2006" }}
+          {{/* Site override: the theme uses the latest post's year; show the current (build) year instead */}}
+          {{ now.Format "2006" }}
 
           {{ if and .Site.Params.author.name (or .Site.Params.homeTitle .Site.Title) }}
             &nbsp;&bull;&nbsp;
