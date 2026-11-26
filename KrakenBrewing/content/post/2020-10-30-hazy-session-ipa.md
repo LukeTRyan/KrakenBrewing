@@ -1,6 +1,8 @@
 ---
 title: Hazy Session IPA
 date: 2020-10-30T02:03:24.359Z
+description: "A hazy session IPA adapted from Hoppy Days' Hazy Crusher: low bitterness, low ABV, a big dry hop and Verdant IPA yeast."
+share_img: /img/127233848_3539894086128924_7718094819841299555_n.jpg
 comments: true
 tags:
   - Hazy
@@ -102,4 +104,4 @@ Aiming for minimum oxidation, so trying to keep the fermenter closed, with a clo
 -kegged via closed transfer on 23/11\
 -FG 1.010 with 16L volume
 
-![Closed Transfer](/img/127233848_3539894086128924_7718094819841299555_n.jpg "Closed Transfer")
+![Closed transfer from the stainless fermenter on the bench into a keg below](/img/127233848_3539894086128924_7718094819841299555_n.jpg "Closed Transfer")

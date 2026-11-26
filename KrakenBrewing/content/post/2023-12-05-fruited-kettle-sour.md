@@ -1,6 +1,8 @@
 ---
 title: Fruited Kettle Sour
 date: 2023-12-05T22:03:59.299Z
+description: "Back to kettle souring for a summer fruited sour, with photos of each step from the boil to fermentation."
+share_img: /img/img_20231226_182843_939.jpg
 tags:
   - ale
   - all-grain
@@ -155,14 +157,14 @@ HCO3- 117
 
 This beer turned out great! It reminded me of the very first kettle sour I made, which was pretty much the exact same recipe. It has a nice clean profile, low bitterness and not a crazy amount of sourness. The strawberry flavour is strong and fresh with minimal funkiness. I definitely prefer the taste of kettle sours over using Wildbrew Philly Sour, but it's also a lot more effort and more time-consuming. Overall, this was a very successful beer!
 
-![Initial Boil](/img/20231207_113309.jpg "Initial Boil")
+![Initial boil: foamy wort in the kettle](/img/20231207_113309.jpg "Initial Boil")
 
-![Started souring](/img/20231207_151342.jpg "Started souring")
+![Started souring: kettle sealed with cling film to keep oxygen out](/img/20231207_151342.jpg "Started souring")
 
-![pH after 24 hours](/img/20231208_140419.jpg "pH after 24 hours")
+![pH meter in the wort after 24 hours of souring](/img/20231208_140419.jpg "pH after 24 hours")
 
-![After souring](/img/20231208_144057.jpg "After souring")
+![Wort in the kettle after souring](/img/20231208_144057.jpg "After souring")
 
-![Fermentation started](/img/20231210_090610.jpg "Fermentation started")
+![Fermentation started in the Fermzilla in the fermentation fridge](/img/20231210_090610.jpg "Fermentation started")
 
-![](/img/img_20231226_182843_939.jpg)
+![Glass of the finished fruited sour](/img/img_20231226_182843_939.jpg)

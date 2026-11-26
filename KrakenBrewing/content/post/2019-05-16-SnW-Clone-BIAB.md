@@ -1,10 +1,11 @@
 ---
 title: My First All Grain BIAB
 date: 2019-05-16
+description: "My first all-grain brew-in-a-bag: a 23L Pacific Ale loosely based on Stone & Wood, with the full recipe and specs."
+share_img: /img/BIAB2.jpg
 comments: true
 tags: ["BIAB", "Pacific Ale", "Clone"]
 ---
-
 While my mead is fermenting, I decided i’ll make my second ever batch of beer. This time I decided to scale things up to 23L and go with an all grain Pacific Ale BIAB (similar to Stone and Wood). For this I bought a 35L brew pot as well as a 30L plastic fermenter with airlock and thermometer. The specs of the Pacific Ale are as follows:  
 
 Date: 24/5/19  
@@ -40,5 +41,5 @@ Just finished bottling my baby. Smell is amazing, heaps of mango and passionfrui
 
 Tasting notes: Carbonation didn’t turn out exactly how I wanted it, with most bottles being a bit under-carbonated. Smell has lots of tropical fruits. Taste was a little lackluster but still got some nice fruits, citrus and a touch of sweetness out of it. Definitely think controlling the temperature better could have helped this one, as well as starting fermentation at a lower temperature.
 
-![BIAB](/img/BIAB.jpg)  
-![BIAB2](/img/BIAB2.jpg)
+![Wort in the brew pot with a bowl of hop pellets ready to add](/img/BIAB.jpg)  
+![Brew-in-a-bag setup: grain bag in a stockpot on the kitchen stove](/img/BIAB2.jpg)

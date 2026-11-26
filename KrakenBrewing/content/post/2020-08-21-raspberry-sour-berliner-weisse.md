@@ -1,6 +1,7 @@
 ---
 title: Raspberry Sour (Berliner Weisse)
 date: 2020-08-21T09:07:15.733Z
+description: "A raspberry Berliner Weisse kettle sour with 4kg of raspberry puree added in the fermenter for a fresher fruit flavour."
 comments: true
 tags:
   - Raspberry

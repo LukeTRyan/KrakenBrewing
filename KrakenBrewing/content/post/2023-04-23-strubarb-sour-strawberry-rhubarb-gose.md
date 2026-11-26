@@ -1,6 +1,7 @@
 ---
 title: Strawbarb Sour (Strawberry Rhubarb Gose)
 date: 2023-04-23T06:30:59.867Z
+description: "Returning to my first ever sour with a strawberry and rhubarb gose."
 tags:
   - Strawbarb
   - Sour

@@ -2,10 +2,10 @@
 title: Raspberry Saison
 subtitle: 
 date: 2020-01-06
+description: "Planning a raspberry saison: pilsner, Vienna and wheat malt, gentle floral hops and a dry, fruit-forward water profile."
 comments: true
 tags: ["Raspberry", "Saison"]
 ---
-
 Grain Bill  
 -Base is pilsner, Vienna and Wheat malt to add body, head and character with a slight maltiness from the Vienna. Acidulated malt to lower mash pH.
 Hops  

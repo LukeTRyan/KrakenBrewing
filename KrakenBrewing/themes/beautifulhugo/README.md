@@ -1,183 +1,138 @@
-# Beautiful Hugo - An adaptation of the Beautiful Jekyll theme
+# Beautiful Hugo
 
-![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
+An adaptation of the [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) theme by [Dean Attali](https://deanattali.com/aboutme#contact), with years of community updates and many new features.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/screenshot-dark.jpg">
+  <img alt="Beautiful Hugo Theme Screenshot" src="images/screenshot.jpg">
+</picture>
+
+## Live demo
+
+- **Current:** <https://halogenica.net/beautifulhugo>
+- **Legacy:** <https://hugo-theme-beautifulhugo.netlify.app>
+
+The example site includes detailed feature pages with live examples — see [Features](#features) below.
 
 ## Installation
 
-    $ mkdir themes
-    $ cd themes
-    $ git submodule add https://github.com/halogenica/beautifulhugo.git beautifulhugo
-    
+Install Hugo and create a new site. See [the Hugo documentation](https://gohugo.io/getting-started/quick-start/) for details.
 
-See [the Hugo documentation](https://gohugo.io/themes/installing/) for more information.
+### Git Submodule
 
-## Extra Features
-
-### Responsive
-
-This theme is designed to look great on both large-screen and small-screen (mobile) devices.
-
-### Syntax highlighting
-
-This theme has support for either Hugo's lightning fast Chroma, or both server side and client side highlighting. See [the Hugo docs for more](https://gohugo.io/content-management/syntax-highlighting/).
-
-#### Chroma - New server side syntax highlighting
-
-To enable Chroma, add the following to your site parameters:
-
-```
-pygmentsCodeFences = true
-pygmentsUseClasses = true
+```sh
+git submodule add https://github.com/halogenica/beautifulhugo.git themes/beautifulhugo
 ```
 
-Then, you can generate a different style by running:
+A submodule points to a commit, not to a tag. To use a release, check out the
+tag in the submodule and commit the result:
 
-```
-hugo gen chromastyles --style=trac > static/css/syntax.css
-```
-
-#### Pygments - Old server side syntax highlighting
-
-To use this feature install Pygments (`pip install Pygments`) and add the following to your site parameters:
-
-```
-pygmentsStyle = "trac"
-pygmentsUseClassic = true
+```sh
+git -C themes/beautifulhugo checkout v5.0.0
+git add themes/beautifulhugo
 ```
 
-Pygments is mostly compatable with the newer Chroma. It is slower but has some additional theme options. I recommend Chroma over Pygments. Pygments will use `syntax.css` for highlighting, unless you also set the config `pygmentsUseClasses = false` which will generate the style code directly in the HTML file. 
+### Hugo Module
 
-#### Highlight.js - Client side syntax highlighting
-```
-[Params]
-    useHLJS = true
-```
-
-Client side highlighting does not require pygments to be installed. This will use `highlight.min.css` instead of `syntax.css` for highlighting (effectively disabling Chroma). Highlight.js has a wider range of support for languages and themes, and an alternative highlighting engine.
-
-### Disqus support
-
-To use this feature, uncomment and fill out the `disqusShortname` parameter in `config.toml`.
-
-### Staticman support
-
-Add *Staticman* configuration section in `config.toml` or `config.yaml`
-
-Sample `config.toml` configuration
-
-```
-[Params.staticman]
-  api = "https://<API-ENDPOINT>/v3/entry/{GIT-HOST}/<USERNAME>/<REPOSITORY-BLOGNAME>/master/comments"
-[Params.staticman.recaptcha]
-      sitekey: "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
-      secret: "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
+```sh
+hugo mod init github.com/USERNAME/SITENAME
+hugo mod get github.com/halogenica/beautifulhugo/v5
 ```
 
-Note: The public `API-ENDPOINT` https://staticman.net is currently hitting its API limit, so one may use other API instances to provide Staticman comment service.
+The `/v5` suffix is the major version of the theme. Pin an exact release with
+`hugo mod get github.com/halogenica/beautifulhugo/v5@v5.0.0`, or stay up to date
+with `hugo mod get -u`.
 
-The section `[Params.staticman.recaptcha]` is *optional*.  To add reCAPTCHA to your site, you have to replace the default values with your own ones (to be obtained from Google.)  The site `secret` has to be encrypted with
-
-    https://<API-ENDPOINT>/v3/encrypt/<SITE-SECRET>
-
-You must also configure the `staticman.yml` in you blog website.
-
-```
-comments:
-  allowedFields: ["name", "email", "website", "comment"]
-  branch            : "master"
-  commitMessage     : "New comment in {options.slug}"
-  path: "data/comments/{options.slug}"
-  filename          : "comment-{@timestamp}"
-  format            : "yaml"
-  moderation        : true
-  requiredFields    : ['name', 'email', 'comment']
-  transforms:
-    email           : md5
-  generatedFields:
-    date:
-      type          : "date"
-      options:
-        format      : "iso8601"
-  reCaptcha:
-    enabled: true
-    siteKey: "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
-    secret: "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
-```
-
-If you *don't* have the section `[Params.staticman]` in `config.toml`, you *won't* need the section `reCaptcha`  in `staticman.yml`
-
-### Google Analytics
-
-To add Google Analytics, simply sign up to [Google Analytics](https://www.google.com/analytics/) to obtain your Google Tracking ID, and add this tracking ID to the `googleAnalytics` parameter in `config.toml`.
-
-### Commit SHA on the footer
-
-If the source of your site is in a Git repo, the SHA corresponding to the commit the site is built from can be shown on the footer. To do so, two site parameters `commit` has to be defined in the config file `config.toml`:
-
-```
-enableGitInfo = true
-[Params]
-  commit = "https://github.com/<username>/<siterepo>/tree/"
-```
-
-See at [vincenttam/vincenttam.gitlab.io](https://gitlab.com/vincenttam/vincenttam.gitlab.io) for an example of how to add it to a continuous integration system.
-
-### Multilingual
-
-To allow Beautiful Hugo to go multilingual, you need to define the languages
-you want to use inside the `languages` parameter on `config.toml` file, also
-redefining the content dir for each one. Check the `i18n/` folder to see all
-languages available.
+If using Hugo modules, add this to your `hugo.toml`:
 
 ```toml
-[languages]
-  [languages.en] 
-    contentDir = "content/en" # English
-  [languages.ja]
-    contentDir = "content/ja" # Japanese
-  [languages.br]
-    contentDir = "content/br" # Brazilian Portuguese
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo/v5"
 ```
 
-Now you just need to create a subdir within the `content/` folder for each
-language and just put stuff inside `page/` and `post/` regular directories.
-```
-content/      content/      content/  
-└── en/       └── br/       └── ja/ 
-    ├── page/     ├── page/     ├── page/
-    └── post/     └── post/     └── post/
+### Preview
 
-```
- 
-### Extra shortcodes
+Copy the example site content and start Hugo:
 
-There are two extra shortcodes provided (along with the customized figure shortcode):
-
-#### Details
-
-This simply adds the html5 detail attribute, supported on all *modern* browsers. Use it like this:
-
-```
-{{% details "This is the details title (click to expand)" %}}
-This is the content (hidden until clicked).
-{{% /details %}}
+```sh
+cp -riv themes/beautifulhugo/exampleSite/* .
+hugo serve
 ```
 
-#### Split
+## Features
 
-This adds a two column side-by-side environment (will turn into 1 col for narrow devices):
+| Feature | Details |
+|---------|---------|
+| **Responsive design** | Looks great on desktop and mobile |
+| **Light/dark/auto color scheme** | Navbar toggle with `localStorage` persistence |
+| **Syntax highlighting** | Chroma (server-side, default) or Highlight.js (client-side) |
+| **KaTeX math** | Inline `//(...//)` and display `$$...$$` — no config needed |
+| **Mermaid diagrams** | Flowcharts, sequence diagrams, Gantt charts via shortcode |
+| **PhotoSwipe galleries** | `beautifulfigure` and `gallery` shortcodes with lightbox |
+| **Shortcodes** | `details`, `columns`/`column`, `tabs`/`tab`, `mermaid`, `gallery`, `beautifulfigure`, `video`, `icon` |
+| **Markdown extensions** | Callout boxes (note/warning/error/success), theme-dependent content, utility classes |
+| **Comment systems** | Disqus, Giscus, Utterances, Cusdis, Staticman |
+| **SEO** | Schema.org JSON-LD, Open Graph, Twitter Cards — automatic |
+| **Multilingual** | 19 languages with navbar language switcher |
+| **Social icons** | 42 platforms in the footer via `[Params.author]` |
+| **Self-hosted assets** | `selfHosted = true` for GDPR/EU-DSGVO compliance |
+| **Big image headers** | Full-width hero images with fade cycling |
+| **Social sharing** | Share buttons on posts (Twitter, Facebook, Reddit, LinkedIn, etc.) |
+| **GitHub buttons** | Star/watch/fork badges via front matter |
+| **Google Analytics** | Standard Hugo integration (production only) |
+| **Integrated search** | Fast client-side search with Fuse.js |
+| **RSS** | Built-in, enabled with `rss = true` |
 
+For complete configuration reference, shortcode documentation, and live examples, see the [example site feature pages](https://halogenica.net/beautifulhugo/page/configuration/):
+
+- [Configuration](https://halogenica.net/beautifulhugo/page/configuration/) — every `hugo.toml` parameter
+- [Shortcodes](https://halogenica.net/beautifulhugo/page/shortcodes/) — `details`, `columns`, `tabs`, `gallery`, `video`, `mermaid`
+- [Code Blocks](https://halogenica.net/beautifulhugo/page/code-blocks/) — Chroma vs Highlight.js, line numbers, copy button
+- [Markdown Extensions](https://halogenica.net/beautifulhugo/page/markdown-extensions/) — callout boxes, theme-dependent content
+- [Figures & Galleries](https://halogenica.net/beautifulhugo/page/figures-and-galleries/) — PhotoSwipe integration
+- [Math & Diagrams](https://halogenica.net/beautifulhugo/page/math-and-diagrams/) — KaTeX and Mermaid examples
+- [Layout Options](https://halogenica.net/beautifulhugo/page/pages-and-layouts/#layout-options) — big images, full-width, hidden pages (part of Pages & Layouts)
+- [Comments & Social](https://halogenica.net/beautifulhugo/page/comments-and-social/) — comment systems, social sharing, footer icons
+- [SEO & i18n](https://halogenica.net/beautifulhugo/page/seo-and-i18n/) — structured data, Open Graph, multilingual
+
+## Quick Start Config
+
+```toml
+baseurl = "https://example.com/"
+title = "My Site"
+
+[Params]
+  subtitle = "Build a beautiful and simple website in minutes"
+  mainSections = ["post", "posts"]
+  logo = "/img/avatar-icon.png"
+  favicon = "/img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  colorScheme = "auto"
+  readingTime = true
+  socialShare = true
+  showRelatedPosts = true
+  rss = true
+
+  [Params.search]
+    provider = "fuse"
+
+[Params.author]
+  name = "Your Name"
+  website = "yourwebsite.com"
+  email = "youremail@domain.com"
+  github = "username"
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.parser.attribute]
+  block = true
+
+[markup.goldmark.renderer]
+  unsafe = true
 ```
-{{< columns >}}
-This is column 1.
-{{< column >}}
-This is column 2.
-{{< endcolumn >}}
-```
 
-## About
-
-This is an adaptation of the Jekyll theme [Beautiful Jekyll](https://deanattali.com/beautiful-jekyll/) by [Dean Attali](https://deanattali.com/aboutme#contact). It supports most of the features of the original theme, and many new features. It has diverged from the Jekyll theme over time, with years of community updates.
+> **Note:** `[Params.author]` is required. The old top-level `[author]` key is deprecated and will produce a build error.
 
 ## License
 

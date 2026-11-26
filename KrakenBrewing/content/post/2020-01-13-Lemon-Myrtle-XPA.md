@@ -2,10 +2,10 @@
 title: Lemon Myrtle XPA
 subtitle: 
 date: 2020-01-13
+description: "All-grain recipe for a 21L Lemon Myrtle XPA: an American pale ale at about 5.2% ABV and 37 IBU with Galaxy hops."
 comments: true
 tags: ["Lemon Myrtle", "XPA"]
 ---
-
 **Lemon Myrtle XPA**  
 
 Brew Method: All Grain  

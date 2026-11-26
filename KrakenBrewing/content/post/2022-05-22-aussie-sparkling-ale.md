@@ -1,6 +1,7 @@
 ---
 title: Aussie Sparkling Ale
 date: 2022-05-22T23:02:31.013Z
+description: "A Coopers-style Australian Sparkling Ale with Voyager malt, Pride of Ringwood hops and SafAle K-97."
 tags:
   - Aussie
   - Australian

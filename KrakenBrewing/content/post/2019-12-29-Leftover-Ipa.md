@@ -2,10 +2,11 @@
 title: Leftover IPA
 subtitle: 
 date: 2019-12-29
+description: "An all-grain American IPA built from leftover ingredients, with a sulfate-forward water profile to bring out the hops."
+share_img: /img/LeftoverIPA.jpg
 comments: true
 tags: ["IPA"]
 ---
-
 Distilled water will be used in order to customise the water chemistry (30L plus 2L of tap water for the remaining sparge). Adding 6.5g of calcium sulfate (gypsum), 3g of calcium chloride, 4g of magnesium sulfate (epsom salt) and 1 gram of baking sodat to the strike water will give a mash + sparge water profile of:  
 Calcium 74 ppm  
 Magnesium 13 ppm  
@@ -92,5 +93,5 @@ Brew Notes:
 
 -Tasted a bottle after 2 weeks. Perfect carbonation with great head retention. Citrus aroma with a slight maltiness and big bitterness hit up front. Very clean, easy drinking. No unfavourable notes (first time using RO water – may be due to lack of chloride/chloramine). Medium body, not too thin.  
 
-![Leftover IPA](/img/LeftoverIPAHops.jpg)   
-![Leftover IPA](/img/LeftoverIPA.jpg)
+![Cup of hop pellets held over the kettle](/img/LeftoverIPAHops.jpg)   
+![Glass of the finished amber IPA](/img/LeftoverIPA.jpg)

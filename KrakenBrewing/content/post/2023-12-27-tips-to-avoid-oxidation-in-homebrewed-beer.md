@@ -1,6 +1,7 @@
 ---
 title: Tips to avoid oxidation in homebrewed beer
 date: 2023-12-27T05:30:15.416Z
+description: "Practical tips to stop oxidation ruining your homebrew, from closed transfers to preservatives like sodium metabisulfite."
 tags: 
   - Oxidation
   - homebrew
@@ -14,7 +15,6 @@ tags:
   - sodium-metabisulfite
   - ascorbic-acid
 ---
-
 Brewing beer at home can be extremely rewarding. There's no greater satisfaction than reaching a level of proficiency when you can comfortably say "I would pay to drink this in a pub". However, with certain styles of beer and on a homebrew scale and budget, reaching that level (consistently) can be difficult. 
 
 Oxidation is without a doubt one of the biggest banes of my existence (and a lot of other homebrewers out there). It can completely ruin a beer, and you'll usually only know after brewing, fermenting and spending a huge amount of time and effort. When you reach that final stage and see that you're beer is darkened in colour, lacks flavour and aroma, and tastes like wet cardboard, the only option is usually to dump it down the drain.

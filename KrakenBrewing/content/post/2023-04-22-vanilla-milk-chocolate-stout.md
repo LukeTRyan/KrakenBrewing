@@ -1,6 +1,7 @@
 ---
 title: Vanilla Milk Chocolate Stout
 date: 2023-04-22T05:28:04.595Z
+description: "A winter vanilla milk chocolate stout with Fuggles hops and lactose to round out the bitterness."
 tags:
   - Vanilla
   - Milk

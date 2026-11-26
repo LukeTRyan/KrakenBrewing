@@ -16,5 +16,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Description", name: "description", widget: "text", required: false, hint: "One or two sentences for Google results and link previews."}
+      - {label: "Share image", name: "share_img", widget: "image", required: false, hint: "Picture shown when the post is shared on social media."}
+      - {label: "Tags", name: "tags", widget: "list", hint: "Comma-separated, e.g. NEIPA, hazy, all-grain"}
       - {label: "Body", name: "body", widget: "markdown"}

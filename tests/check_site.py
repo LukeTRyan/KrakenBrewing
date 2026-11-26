@@ -23,6 +23,8 @@ POSTS = os.path.join(REPO, "KrakenBrewing", "content", "post")
 BASE_URL = "https://krakenbrewing.netlify.app"
 GA_ID = "G-0XPCRBQFPW"
 DISQUS_SHORTNAME = "https-krakenbrewing-netlify-app"
+SITE_VERIFICATION = '<meta name="google-site-verification"'
+IDENTITY_WIDGET = "identity.netlify.com/v1/netlify-identity-widget.js"
 FILENAME_RE = re.compile(r"^\d{4}-\d{2}-\d{2}-[A-Za-z0-9&_.-]+\.md$")
 
 errors = []
@@ -64,6 +66,9 @@ def check_front_matter():
             isinstance(t, (str, int, float)) and str(t).strip() for t in tags
         ):
             fail(f"{path}: tags should be a non-empty list")
+        body = text[m.end():]
+        for img in re.findall(r"!\[\s*\]\(([^)\s]+)", body):
+            fail(f"{path}: image {img} has no alt text; describe it inside the ![...]")
         if fm.get("draft") is True:
             fail(f"{path}: marked draft: true, won't be published")
 
@@ -117,6 +122,20 @@ def check_built_site(site):
         if needle not in footer:
             fail(f"homepage footer is missing {needle!r} (check [Params.Author] in config.toml)")
 
+    # Netlify CMS logins: invite/recovery links land on the homepage and need
+    # the Identity widget plus the redirect to /admin/.
+    if IDENTITY_WIDGET not in home or 'document.location.href = "/admin/"' not in home:
+        fail("homepage is missing the Netlify Identity widget or its /admin/ redirect")
+    admin = os.path.join(site, "admin", "index.html")
+    if not os.path.isfile(admin) or IDENTITY_WIDGET not in open(admin, encoding="utf-8").read():
+        fail("admin/index.html (the CMS) is missing or has no Netlify Identity widget")
+    headers = os.path.join(site, "_headers")
+    if not os.path.isfile(headers) or "X-Content-Type-Options" not in open(headers, encoding="utf-8").read():
+        fail("_headers (Netlify security headers) is missing from the build")
+    rss = os.path.join(site, "index.xml")
+    if not os.path.isfile(rss) or "<item>" not in open(rss, encoding="utf-8").read():
+        fail("index.xml RSS feed is missing or empty")
+
     post_dir = os.path.join(site, "post")
     posts = sorted(
         os.path.join(post_dir, d, "index.html")
@@ -132,9 +151,13 @@ def check_built_site(site):
         text = open(p, encoding="utf-8").read()
         if GA_ID not in text:
             fail(f"{rel}: Google Analytics tag {GA_ID} missing")
+        if SITE_VERIFICATION not in text:
+            fail(f"{rel}: Google Search Console verification meta tag missing")
         if p == os.path.join(site, "index.html"):
             continue
-        if f"disqus_shortname = '{DISQUS_SHORTNAME}'" not in text:
+        if '<meta property="og:image"' not in text:
+            fail(f"{rel}: no og:image meta tag for link previews")
+        if 'id="disqus_thread"' not in text or DISQUS_SHORTNAME not in text:
             fail(f"{rel}: Disqus comments missing")
         for block in re.findall(
             r'<script type="application/ld\+json">(.*?)</script>', text, re.S

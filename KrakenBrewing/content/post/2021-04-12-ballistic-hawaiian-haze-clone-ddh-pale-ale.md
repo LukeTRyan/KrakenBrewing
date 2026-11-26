@@ -1,6 +1,7 @@
 ---
 title: Ballistic Hawaiian Haze Clone (DDH Pale Ale)
 date: 2021-04-12T03:18:37.163Z
+description: "Cloning Ballistic Brewing's Hawaiian Haze, a juicy DDH pale ale with Citra, Rakau, Pacifica and Mosaic hops."
 comments: true
 tags:
   - Ballistic

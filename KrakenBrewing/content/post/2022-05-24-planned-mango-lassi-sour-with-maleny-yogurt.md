@@ -1,6 +1,7 @@
 ---
 title: Mango Lassi Sour (Fruited Sour Ale)
 date: 2022-05-24T10:24:19.963Z
+description: "A fruited sour inspired by the Indian mango lassi, with mango puree, lactose, wheat and oats."
 tags:
   - Mango
   - Lassi

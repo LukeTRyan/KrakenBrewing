@@ -1,6 +1,7 @@
 ---
 title: Closed Transfer Guide
 date: 2020-08-20T02:55:41.476Z
+description: "How to do a closed transfer from fermenter to keg, pressurised and unpressurised, to keep oxygen away from finished beer."
 comments: true
 tags:
   - Closed Transfer

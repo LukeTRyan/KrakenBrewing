@@ -1,6 +1,7 @@
 ---
 title: Valuable Life Lesson Learned on Using Pressurised Fermenters
 date: 2023-01-12T00:53:53.424Z
+description: "What happened when my pressure fermenter depressurised suddenly, and what to put in place so it doesn't happen to you."
 tags: 
   - Pressure 
   - fermentation 

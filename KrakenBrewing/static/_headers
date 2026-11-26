@@ -1,0 +1,10 @@
+# Netlify response headers: https://docs.netlify.com/routing/headers/
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+
+# Keep the CMS out of search results
+/admin/*
+  X-Robots-Tag: noindex, nofollow

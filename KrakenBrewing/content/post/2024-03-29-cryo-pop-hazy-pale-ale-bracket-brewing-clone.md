@@ -1,6 +1,7 @@
 ---
 title: Cryo Pop Hazy Pale Ale (Bracket Brewing Clone)
 date: 2024-03-29T03:33:33.816Z
+description: "Cloning Bracket Brewing's hazy pale ale with Motueka, Idaho 7 and Cryo Pop hops and 30% rolled oats."
 tags: 
   - Cryo-pop
   - TRI2304CR 

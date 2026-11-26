@@ -1,6 +1,7 @@
 ---
 title: Bugalugs Dark Ale (Hoppy Days Brewing Clone)
 date: 2025-06-28T03:33:33.816Z
+description: "Hoppy Days' Bugalugs Dark Ale: a British brown ale with toffee and chocolate malts and a solid bitterness."
 tags:
   - dark-ale
   - brown-ale

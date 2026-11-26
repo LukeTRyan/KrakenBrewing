@@ -1,6 +1,8 @@
 ---
 title: Hoppy Days Hazy Crusher (Session Neipa)
 date: 2022-01-07T03:07:22.032Z
+description: "Hoppy Days' Hazy Crusher session NEIPA, pressure fermented and closed transferred in a Fermzilla to avoid oxidation."
+share_img: /img/img_20220118_121217_701.jpg
 tags:
   - Hoppy
   - Days
@@ -154,6 +156,6 @@ Carbonation: **2.2 CO2-vol**
 
 \-I did manage to break the top of my fermzilla though when it got stuck, so ill need to order another part.
 
-![Pressure Transfer](/img/20220122_132833.jpg)
+![Fermzilla pressure fermenting in the fridge, with kegs underneath](/img/20220122_132833.jpg)
 
-![Brew](/img/img_20220118_121217_701.jpg)
+![Fresh wort in the Fermzilla next to the Brewzilla in the garage](/img/img_20220118_121217_701.jpg)

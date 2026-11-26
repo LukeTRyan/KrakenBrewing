@@ -1,6 +1,7 @@
 ---
 title: Belgian Witbier (White ale)
 date: 2022-08-30T23:46:52.143Z
+description: "A Belgian witbier inspired by Blue Moon: full-bodied, citrusy and spicy, brewed with orange peel and coriander."
 tags:
   - belgian
   - witbier
