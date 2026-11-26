@@ -1,0 +1,38 @@
+<!-- Site-specific additions to <head>. Kept here, not in the theme, so theme upgrades don't drop them. -->
+
+<!-- Google Search Console ownership verification -->
+<meta name="google-site-verification" content="88LRI9l-8IUF2YasOWB2a0JvL5-HTl6IMYcGYiKASdU" />
+
+<!-- Hugo's built-in Open Graph template only reads `images`; use share_img (set by the CMS) like the theme's Twitter card does -->
+{{- if not .Params.images }}
+{{- with .Params.share_img | default .Params.image | default .Site.Params.share_img | default .Site.Params.logo }}
+<meta property="og:image" content="{{ strings.TrimPrefix "/" . | absURL }}" />
+{{- end }}
+{{- end }}
+
+<!-- Netlify Identity: lets CMS invite/recovery links that land on the site log in, then go to /admin/ -->
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{- if .IsHome }}
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+{{- end }}
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0XPCRBQFPW"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5632165573927248" crossorigin="anonymous"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0XPCRBQFPW');
+</script>

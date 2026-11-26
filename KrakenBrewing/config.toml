@@ -12,7 +12,6 @@ pygmentsCodefencesGuessSyntax = true
 [services]
 [services.disqus]
 shortname = "https-krakenbrewing-netlify-app"
-googleAnalytics = "G-0XPCRBQFPW"
 
 
 [Params]
@@ -23,8 +22,8 @@ googleAnalytics = "G-0XPCRBQFPW"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = false
-  comments = false
+  rss = true
+  comments = true
   readingTime = false
   wordCount = true
   useHLJS = true
