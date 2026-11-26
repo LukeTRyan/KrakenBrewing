@@ -116,11 +116,19 @@ def check_built_site(site):
         "https://github.com/LukeTRyan",
         "https://www.instagram.com/kraken.brewing/",
         "https://linkedin.com/in/luke-t-ryan",
-        "mailto:",
         "Luke Ryan",
     ):
         if needle not in footer:
-            fail(f"homepage footer is missing {needle!r} (check [Params.Author] in config.toml)")
+            fail(f"homepage footer is missing {needle!r} (check [Params.Author] and layouts/_partials/footer.html)")
+    year = datetime.date.today().year
+    if not re.search(rf"&copy;\s*{year}\s", footer):
+        fail(f"homepage footer copyright should read {year}")
+    # Deliberately left out of the footer: email link, portfolio link, theme credit
+    for unwanted in ("mailto:", "luketryan.github.io", "Beautiful Hugo"):
+        if unwanted in footer:
+            fail(f"homepage footer should not contain {unwanted!r}")
+    if 'data-theme="light"' not in home:
+        fail('homepage is not forced to light mode (colorScheme = "light" in config.toml)')
 
     # Netlify CMS logins: invite/recovery links land on the homepage and need
     # the Identity widget plus the redirect to /admin/.
@@ -155,6 +163,8 @@ def check_built_site(site):
             fail(f"{rel}: Google Search Console verification meta tag missing")
         if p == os.path.join(site, "index.html"):
             continue
+        if 'class="share-box"' in text:
+            fail(f"{rel}: has social share links (socialShare should be false)")
         if '<meta property="og:image"' not in text:
             fail(f"{rel}: no og:image meta tag for link previews")
         if 'id="disqus_thread"' not in text or DISQUS_SHORTNAME not in text:
