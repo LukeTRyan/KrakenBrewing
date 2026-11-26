@@ -1,0 +1,4 @@
+# Hugo build output and caches; Netlify rebuilds the site on every deploy
+KrakenBrewing/public/
+KrakenBrewing/resources/_gen/
+KrakenBrewing/.hugo_build.lock
