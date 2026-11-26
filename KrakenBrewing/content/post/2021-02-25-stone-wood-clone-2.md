@@ -1,6 +1,7 @@
 ---
 title: "Stone & Wood Clone #2"
 date: 2021-02-25T05:05:29.328Z
+description: "Re-brewing my Stone & Wood Pacific Ale clone on a better setup, to see how each change affects the final beer."
 comments: true
 tags:
   - Stone&Wood

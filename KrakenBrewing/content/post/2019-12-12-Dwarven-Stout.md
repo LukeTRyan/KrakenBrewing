@@ -2,6 +2,8 @@
 title: Dwarven Stout
 subtitle: Chocolate Coffee Stout
 date: 2019-12-12
+description: "Designing my own chocolate coffee stout: grain bill, hops, yeast, mash temperature and water chemistry."
+share_img: /img/CoffeeStout2.jpg
 comments: true
 tags:
   - Stout
@@ -128,6 +130,6 @@ FG was 1.020. Nice residual sweetness, cuts through the bitterness of the cacao 
  Additions 26/5/20\
  Kegged 1/6/20
 
-![Stout](/img/CoffeeStout.jpg)\
-![Stout](/img/CoffeeStout2.jpg)\
-![Stout](/img/CoffeeStout3.jpg)
+![Stout wort in the kettle](/img/CoffeeStout.jpg)\
+![Glass of the finished stout with a tan head](/img/CoffeeStout2.jpg)\
+![Top-down view of the stout's foamy tan head](/img/CoffeeStout3.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Safe Bet NEIPA
 date: 2022-11-12T13:26:20.652Z
+description: "A hazy NEIPA where I suspend the dry hops in a bag with magnets, as a last effort to stop oxidation."
 tags:
   - Hazy
   - IPA

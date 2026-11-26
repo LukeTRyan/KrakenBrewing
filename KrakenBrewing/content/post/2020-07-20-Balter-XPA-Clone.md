@@ -2,6 +2,8 @@
 title: Balter XPA Clone
 subtitle: null
 date: 2020-07-20
+description: "Cloning Balter's XPA from the brewery's published hop bill, with my best guess at the grains, yeast and water profile."
+share_img: /img/xpaclone.jpg
 comments: true
 tags:
   - Balter
@@ -84,10 +86,10 @@ Brewed on 21/7/2020
 
 \-kegged on 2/08/2020, first closed transfer. Went well with just the gravity feed. Lost a couple of litres when the beer post got clogged, will invest in a filter/cold crashing for future closed transfers. 
 
-![Closed Transfer](/img/ClosedTransfer.jpg)
+![Closed transfer from the fermenter into a keg](/img/ClosedTransfer.jpg)
 
-![3 Keg](/img/3keg.jpg "3 Keg")
+![Three kegs hooked up in the kegerator fridge](/img/3keg.jpg "3 Keg")
 
-![Brew](/img/balterxpa.jpg "Brew")
+![Draining wort from the kettle into a pot](/img/balterxpa.jpg "Brew")
 
-![XPA Clone](/img/xpaclone.jpg "XPA Clone")
+![Mug of the finished XPA clone](/img/xpaclone.jpg "XPA Clone")

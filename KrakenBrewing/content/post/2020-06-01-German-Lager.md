@@ -2,6 +2,7 @@
 title: German Lager
 subtitle: null
 date: 2020-06-01
+description: "A classic German pilsner/lager from the Hoppy Days recipe list, fermented cold with Saflager 34/70 and lagered in the keg."
 comments: true
 tags:
   - Lager

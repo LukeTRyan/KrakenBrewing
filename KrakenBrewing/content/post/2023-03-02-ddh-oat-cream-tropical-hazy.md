@@ -1,6 +1,8 @@
 ---
 title: DDH Oat Cream Tropical Hazy IPA
 date: 2023-03-01T22:58:23.504Z
+description: "A DDH oat cream hazy IPA with Nectaron, BRU-1 and El Dorado, brewed with sodium metabisulfite and ascorbic acid to limit oxidation."
+share_img: /img/337255475_190753403665796_7055593674810588705_n.jpg
 tags:
   - Oat-cream
   - Tropical
@@ -21,7 +23,7 @@ I﻿'ll be using Verdant IPA yeast and aim to pitch at 20c and free rise to 22c.
 
 [Link](https://share.brewfather.app/c2TDLhEyXHVUcN)
 
-![](https://firebasestorage.googleapis.com/v0/b/brewfather-app.appspot.com/o/users%2Fwgftoi3oQrQJsh17ROMqxlLyOzh1%2Fimages%2Frecipes%2FyAPVrMW3kziILRTwHg7PdqBTIoTi0e%2Fimg%40640-yAPVrMW3kziILRTwHg7PdqBTIoTi0e.jpeg?alt=media&token=1f89cc64-c9b6-46cc-8a59-3c5d596cfc91)
+![Brewfather recipe image for the DDH Oat Cream Tropical Hazy IPA](https://firebasestorage.googleapis.com/v0/b/brewfather-app.appspot.com/o/users%2Fwgftoi3oQrQJsh17ROMqxlLyOzh1%2Fimages%2Frecipes%2FyAPVrMW3kziILRTwHg7PdqBTIoTi0e%2Fimg%40640-yAPVrMW3kziILRTwHg7PdqBTIoTi0e.jpeg?alt=media&token=1f89cc64-c9b6-46cc-8a59-3c5d596cfc91)
 
 Original
 
@@ -165,15 +167,15 @@ Carbonation: **2.4 CO2-vol**
 \-﻿Brewed and pitched on 05/03/2023\
 -﻿Everything went great, hit every measurement perfectly which was surprising. Only negative was that I somehow forgot to put my false bottom in the Brewzilla, so I ended up clogging the pump with whirlpool hops and had to transfer to the fermenter via the tap. Hopefully, due to all that hop matter in the fermenter early on, it won't attribute too much astringency or other off flavours.
 
-![](/img/334902586_5808077045956201_3657578876839232093_n.jpg)
+![Chilling the wort with an immersion chiller](/img/334902586_5808077045956201_3657578876839232093_n.jpg)
 
 \
 **0﻿8/03/2023**\
 -﻿Added the first dry hop addition at high krausen. The yeast was going nuts, so I put about 2-3psi to minimise risk of krausen in the blowoff tube. I noticed a small leak in the lid when adding the dry hops so I changed out the gasket (O ring), hopefully this helps. In the future I might have to get a new lid as I noticed there's a small divot, and this may be contributing to the leak. Overall, the beer looks and smells great so far, I'm keen to get this into a keg.
 
-![](/img/334916328_1272466740013523_3762451688034654627_n.jpg)
+![Fermzilla fermenting in the fermentation fridge](/img/334916328_1272466740013523_3762451688034654627_n.jpg)
 
 **2﻿4/03/2023**\
 -﻿Wow this beer turned out great. After just over 1 week in the keg, this beer is beautifully golden, has solid mango, nectarine, peach and pineapple flavours and very beautiful consistency and colour. I couldn't be happier with how this turned out, and how little oxidation is present so far. I think the ascorbic acid and sodium metabisulfite really helps control stability and shelf life, especially at a small scale. 
 
-![](/img/337255475_190753403665796_7055593674810588705_n.jpg)
+![Glass of the finished hazy IPA held up to the light](/img/337255475_190753403665796_7055593674810588705_n.jpg)

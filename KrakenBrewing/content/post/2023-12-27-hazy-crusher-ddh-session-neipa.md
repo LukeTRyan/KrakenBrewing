@@ -1,6 +1,8 @@
 ---
 title: Hazy Crusher (DDH Session NEIPA)
 date: 2023-12-27T05:05:21.404Z
+description: "My third go at the Hazy Crusher DDH session NEIPA, now with oxidation under control."
+share_img: /img/20231225_164934.jpg
 tags: 
   - Hoppy
   - Hazy
@@ -169,4 +171,4 @@ Final volume ~23L
 
 T﻿his beer turned out beautifully. Although some of the beers did not carbonate properly, the ones that did turned out excellent. The hop taste and aroma was strong,  with lots of tropical fruit and citrus notes. The beer had a slight maltiness and sweetness, which balanced well with the hops and slight sweetness/nuttiness from the golden oat malt. The use of ascorbic acid and sodium metabisulfite definitely helped minimise oxidation during the bottling process, as well as purging each bottle with cO2.
 
-![Beer result](/img/20231225_164934.jpg)
+![Glass of the finished Hazy Crusher in front of a vase of flowers](/img/20231225_164934.jpg)

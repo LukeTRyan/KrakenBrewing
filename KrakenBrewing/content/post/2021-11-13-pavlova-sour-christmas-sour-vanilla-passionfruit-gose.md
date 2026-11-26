@@ -1,6 +1,7 @@
 ---
 title: Pavlova Sour (Christmas Sour) (Vanilla Passionfruit Gose)
 date: 2021-11-13T23:35:06.428Z
+description: "A passionfruit and vanilla Christmas sour, and my first sour using Lallemand's Philly Sour yeast instead of kettle souring."
 comments: true
 tags:
   - Sour

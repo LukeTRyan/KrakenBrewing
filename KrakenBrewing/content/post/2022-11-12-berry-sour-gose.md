@@ -1,6 +1,7 @@
 ---
 title: Blackberry Sour (Gose)
 date: 2022-11-12T13:33:06.876Z
+description: "A dark berry gose with blackberry, cherry and raspberry, soured with Philly Sour yeast and balanced with lactose."
 tags:
   - Blackberry
   - Sour

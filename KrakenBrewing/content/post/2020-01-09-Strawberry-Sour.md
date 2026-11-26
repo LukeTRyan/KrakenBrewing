@@ -2,10 +2,11 @@
 title: Strawberry Sour
 subtitle: 
 date: 2020-01-09
+description: "My first fruited kettle sour: a strawberry Berliner Weisse soured with probiotic capsules and finished with Citra hops."
+share_img: /img/StrawberrySour3.jpg
 comments: true
 tags: ["Strawberry", "Sour"]
 ---
-
 This was my first fruit kettle sour/berliner weisse. I decided to go with pureed strawberries at the end of the boil and sour using IBS capsules. The wort was pre acidified with lactic acid and acidulated malt to aid the souring. Some citra hops were used to add a bit more depth and flavour and citrus backing to the beer. Next time I'd probably add the fruit in primary at the end of fermentation to get a fresher flavour, as boiling the strawberry made it taste slightly different and somewhat artificial.  
 
 **Strawberry sour**  
@@ -94,8 +95,8 @@ Water Notes:
 -Kegged the beer (first ever keg) on 7/2/2020 and set at 12psi at serving temperature. Tasted dry, fruity and sour, as hoped. Also made 2 bottles which are being left for bottle conditioning.  
 -Instead of continuing to use store bought RO water (which is expensive), I’m going to buy some campden tablets to remove the plastic flavour given off by chlorine/chloramine in the water supply. I’m going back to using the brisbane water supply but will continue to alter the water chemistry based on the beer being brewed.  
 
-![Strawberry Sour](/img/StrawberrySour2.jpg)  
-![Strawberry Sour](/img/StrawberrySour1.jpg)  
-![Strawberry Sour](/img/StrawberrySour3.jpg)  
+![Kettle on the back deck with a tub of strawberry puree and hops ready to add](/img/StrawberrySour2.jpg)  
+![Pink strawberry sour wort cooling with an immersion chiller](/img/StrawberrySour1.jpg)  
+![Mug of the finished pink strawberry sour](/img/StrawberrySour3.jpg)  
 
 

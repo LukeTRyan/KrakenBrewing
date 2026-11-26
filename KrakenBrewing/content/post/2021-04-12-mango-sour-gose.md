@@ -1,6 +1,7 @@
 ---
 title: Mango Sour (Gose)
 date: 2021-04-12T02:28:34.049Z
+description: "A mango kettle sour (gose) with 3kg of mango puree and flaked oats for body."
 comments: true
 tags:
   - Mango
