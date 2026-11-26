@@ -4,7 +4,6 @@ date: 2022-12-27T22:25:14.337Z
 tags:
   - Stone&Wood
   - Clone
-  - StoneWood
   - Pacific
   - Ale
   - Galaxy
