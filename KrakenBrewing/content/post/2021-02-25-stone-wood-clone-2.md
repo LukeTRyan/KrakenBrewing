@@ -5,7 +5,6 @@ comments: true
 tags:
   - Stone&Wood
   - Clone
-  - StoneWood
   - Pacific
   - Ale
   - Galaxy

@@ -41,6 +41,19 @@ cd KrakenBrewing
 hugo new page/page-name.md
 ```
 
+## Checks
+
+`.github/workflows/site-checks.yml` runs on every push to `master` and every PR (including Netlify CMS editorial-workflow PRs):
+
+```bash
+cd KrakenBrewing
+hugo --panicOnWarning -d /tmp/site   # any Hugo warning fails the build
+cd ..
+python3 tests/check_site.py /tmp/site  # needs pyyaml
+```
+
+`tests/check_site.py` validates post front matter and filenames, finds broken local links/images in the built site, and asserts the footer author links, Google Analytics, Disqus and JSON-LD author are rendered.
+
 ## Content Management
 
 ### Netlify CMS
